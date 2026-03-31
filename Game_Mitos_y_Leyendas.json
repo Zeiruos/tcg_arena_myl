@@ -13,29 +13,9 @@
   },
   "deckBuilding": {
     "mainFilters": [
-      {
-        "name": "type",
-        "title": "Tipo",
-        "values": [
-          "Aliado - Bestia",
-          "Aliado - Caballero",
-          "Aliado - Dragón",
-          "Aliado - Eterno",
-          "Aliado - Faerie",
-          "Aliado - Guerrero",
-          "Aliado - Héroe",
-          "Aliado - Sacerdote",
-          "Aliado - Sombra",
-          "Arma",
-          "Talismán",
-          "Tótem",
-          "Oro"
-        ]
-      },
-      {
-        "name": "cost",
-        "title": "Coste"
-      }
+      "filtro_1",
+      "filtro_2",
+      "filtro_3"
     ],
     "formats": [
       {
@@ -55,7 +35,7 @@
       },
       "newTurn": {
         "drawOnStart": false,
-        "sharedTurn": false,
+        "sharedTurn": true,
         "firstPlayerTokenName": "",
         "drawPerTurn": 0
       },
@@ -63,23 +43,11 @@
       "tokens": [
         {
           "name": "Oro_Virtual",
-          "image": ""
-        },
-        {
-          "name": "Imbloqueable",
-          "image": ""
-        },
-        {
-          "name": "Furia",
-          "image": ""
-        },
-        {
-          "name": "Indestructible",
-          "image": ""
+          "image": "https://api.myl.cl/static/cards/125/337.png"
         }
       ],
       "countersStartingValues": [
-        0
+        "1"
       ],
       "hideFacedDownCards": false,
       "sections": {
@@ -100,12 +68,6 @@
               "style": false,
               "content": [
                 {
-                  "section": "Destierro",
-                  "style": {
-                    "flex": 1
-                  }
-                },
-                {
                   "section": "Oro_Pagado",
                   "style": {
                     "flex": 1
@@ -114,7 +76,13 @@
                 {
                   "section": "Ataque",
                   "style": {
-                    "flex": 3
+                    "flex": 4
+                  }
+                },
+                {
+                  "section": "Destierro",
+                  "style": {
+                    "flex": 2
                   }
                 }
               ],
@@ -124,37 +92,6 @@
               "direction": "row",
               "style": false,
               "content": [
-                {
-                  "section": "Discard",
-                  "style": {
-                    "flex": 1
-                  }
-                },
-                {
-                  "section": "Deck",
-                  "style": {
-                    "flex": 1
-                  }
-                },
-                {
-                  "section": "Defensa",
-                  "style": {
-                    "flex": 3
-                  }
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "row",
-              "style": false,
-              "content": [
-                {
-                  "section": "NONE",
-                  "style": {
-                    "flex": 1
-                  }
-                },
                 {
                   "section": "Oro",
                   "style": {
@@ -162,8 +99,16 @@
                   }
                 },
                 {
+                  "section": "Defensa",
+                  "style": {
+                    "flex": 4
+                  }
+                },
+                {
                   "section": "Apoyo",
-                  "style": false
+                  "style": {
+                    "flex": 2
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -240,7 +185,7 @@
           "Defensa": {
             "title": "Defensa",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -256,7 +201,7 @@
           "Ataque": {
             "title": "Ataque",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -272,7 +217,7 @@
           "Apoyo": {
             "title": "Apoyo",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
