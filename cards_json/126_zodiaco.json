@@ -1,0 +1,155 @@
+{
+  "edicion": {
+    "codigo": "126",
+    "slug": "zodiaco",
+    "titulo": "Zodiaco",
+    "fecha_lanzamiento": "2024-08-03"
+  },
+  "total_cartas": 12,
+  "cartas": [
+    {
+      "nombre": "Aries",
+      "tipo": "Aliado",
+      "raza": "Bestia",
+      "coste": 1,
+      "fuerza": 2,
+      "edicion": "ZODIACO-001",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Furia.\nCuando entra en juego, puedes Destruir una carta oponente de coste 2 o menos.\nEn tu Vigilia, una vez por turno, puedes Robar una carta. Luego, Descarta una carta.",
+      "imagen_url": "https://api.myl.cl/static/cards/126/001.png"
+    },
+    {
+      "nombre": "Capricornio",
+      "tipo": "Aliado",
+      "raza": "Caballero",
+      "coste": 2,
+      "fuerza": 4,
+      "edicion": "ZODIACO-010",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando entra en juego o ataca, puedes Desterrar un Aliado o Tótem oponente y Robar dos cartas. \nSi porta un Arma, tus Aliados son Indestructibles.",
+      "imagen_url": "https://api.myl.cl/static/cards/126/010.png"
+    },
+    {
+      "nombre": "Libra",
+      "tipo": "Aliado",
+      "raza": "Dragón",
+      "coste": 3,
+      "fuerza": 5,
+      "edicion": "ZODIACO-007",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Una vez por turno, puedes Desterrar una carta que no sea Oro o subir un Aliado de tu Cementerio a tu mano. Luego, Roba una carta.\nCuando entra en juego o salga del juego, puedes buscar en un Castillo un Oro y ponerlo en tu Oro pagado.",
+      "imagen_url": "https://api.myl.cl/static/cards/126/007.png"
+    },
+    {
+      "nombre": "Acuario",
+      "tipo": "Aliado",
+      "raza": "Eterno",
+      "coste": 2,
+      "fuerza": 3,
+      "edicion": "ZODIACO-011",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando entra en juego, un oponente muestra su mano y Descarta todas las cartas de ahí que no sean Aliado ni Oro.\nAnular tus Aliados Eternos y Tótem cuesta un Oro adicional.",
+      "imagen_url": "https://api.myl.cl/static/cards/126/011.png"
+    },
+    {
+      "nombre": "Virgo",
+      "tipo": "Aliado",
+      "raza": "Faerie",
+      "coste": 1,
+      "fuerza": 2,
+      "edicion": "ZODIACO-006",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando entra en juego, puedes elegir Barajar una carta de coste 2 o menos o que tu oponente Baraje una carta de su mano. \nAl comienzo de tu turno, puedes Robar cartas hasta tener la misma cantidad de cartas en la mano que tu oponente.",
+      "imagen_url": "https://api.myl.cl/static/cards/126/006.png"
+    },
+    {
+      "nombre": "Tauro",
+      "tipo": "Aliado",
+      "raza": "Guerrero",
+      "coste": 2,
+      "fuerza": 4,
+      "edicion": "ZODIACO-002",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando entra en juego, tu oponente Bota una carta por cada carta en la mano de un jugador a tu elección.\nEn tu Vigilia, una vez por turno, puedes elegir Robar dos cartas o que un Aliado que controles sea Imbloqueable por el turno.",
+      "imagen_url": "https://api.myl.cl/static/cards/126/002.png"
+    },
+    {
+      "nombre": "Leo",
+      "tipo": "Aliado",
+      "raza": "Héroe",
+      "coste": 2,
+      "fuerza": 4,
+      "edicion": "ZODIACO-005",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Los demás Aliados Héroe que controles ganan 1 de Fuerza y Furia.\nEn tu Fase Final, puedes agrupar un Aliado que controles y hacer que una carta en juego pierda su habilidad hasta tu próximo turno.",
+      "imagen_url": "https://api.myl.cl/static/cards/126/005.png"
+    },
+    {
+      "nombre": "Geminis",
+      "tipo": "Aliado",
+      "raza": "Sacerdote",
+      "coste": 2,
+      "fuerza": 2,
+      "edicion": "ZODIACO-003",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Puedes Desterrar una carta de tu mano para reducir su coste en un Oro. \nCuando entra en juego, puedes subir un Aliado Sacerdote o Talismán de tu Cementerio a tu mano. Luego, cada jugador Destierra una carta de su mano.",
+      "imagen_url": "https://api.myl.cl/static/cards/126/003.png"
+    },
+    {
+      "nombre": "Escorpio",
+      "tipo": "Aliado",
+      "raza": "Sombra",
+      "coste": 2,
+      "fuerza": 3,
+      "edicion": "ZODIACO-008",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Imbloqueable. \nCuando entra en juego, Destierra hasta tres Aliados en la Línea de Ataque oponente.\nCuando haga daño de combate, un oponente Destierra la primera carta de su Castillo por cada carta en su mano.",
+      "imagen_url": "https://api.myl.cl/static/cards/126/008.png"
+    },
+    {
+      "nombre": "Sagitario",
+      "tipo": "Arma",
+      "raza": null,
+      "coste": 1,
+      "fuerza": 0,
+      "edicion": "ZODIACO-009",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Exhumar.\nEl portador gana 2 de Fuerza y es Imbloqueable.\nCuando entra en juego, nombra una carta. Busca en el Castillo oponente todas las copias de esa carta y Destiérralas.",
+      "imagen_url": "https://api.myl.cl/static/cards/126/009.png"
+    },
+    {
+      "nombre": "Cancer",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": 0,
+      "edicion": "ZODIACO-004",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Muestra cartas de la parte superior tu Castillo hasta mostrar dos Aliados. Puedes jugar uno por un Oro menos y poner el otro en tu mano. \nSi está en tu Cementerio, el primer Aliado que juegues en cada turno no puede ser Anulado.",
+      "imagen_url": "https://api.myl.cl/static/cards/126/004.png"
+    },
+    {
+      "nombre": "Piscis",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": 0,
+      "fuerza": 0,
+      "edicion": "ZODIACO-012",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "En tu Vigilia, puedes Desterrar un Oro que controles para poner este Oro desde tu mano o Cementerio en tu Oro Pagado. \nEn tu Vigilia, una vez por turno, puedes pagar un Oro para Destruir una carta de coste 1 y Barajar una carta de tu mano.",
+      "imagen_url": "https://api.myl.cl/static/cards/126/012.png"
+    }
+  ]
+}
