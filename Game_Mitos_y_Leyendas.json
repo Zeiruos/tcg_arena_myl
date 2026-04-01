@@ -1,6 +1,6 @@
 {
   "name": "Mitos y Leyendas",
-  "menuBackgroundImage": "https://static.wikia.nocookie.net/myl-tcg/images/6/67/Myl-logo5_Imperio.png/revision/latest?cb=20240717151211&path-prefix=es",
+  "menuBackgroundImage": "https://zeiruos.github.io/tcg_arena_myl/assets/common/myl-logo_imperio.jpg",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": ""
@@ -8,8 +8,8 @@
   "customHelp": "FASES DEL TURNO:\n1. Agrupación: Aliados vuelven de Ataque a Defensa, Oros Pagados vuelven a Reserva.\n2. Vigilia: Pon un Oro, juega cartas y usa habilidades.\n3. Batalla Mitológica: Ataque → Bloqueo → Guerra de Talismanes → Asignación de Daño.\n4. Fase Final: Se resuelven efectos de fin de turno. Roba 1 carta (excepto primer turno del J1). Límite de mano: 8.\n\nROBAR: El robo es manual (draw per turn = 0). Recuerda robar 1 carta en tu Fase Final.\nMULLIGAN: Roba 8. Si cambias, robas 7, luego 6, etc.\nDAÑO: Las cartas botadas del Castillo por daño de combate van al Cementerio (Discard).\n\nREGLAS DE MAZO (Imperio Racial):\n- 50 cartas exactas. Max 3 copias por carta (Únicas = 1 copia).\n- Mínimo 17 Aliados + Armas + Tótem combinados.\n- Todos tus Aliados deben ser de la misma raza (o sin raza). Max 4 Aliados sin raza.\n- Sideboard opcional: 15 cartas, comparte límite de copias con el mazo principal.",
   "cardRotation": 90,
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/Zeiruos/tcg_arena_myl/refs/heads/main/myl_card_list.json",
-    "cardBack": "https://storedevastation.com/cdn/shop/products/myl-000-450x643_528f5e59-ba9a-4255-a561-e214b8a000ea_large.png?v=1607044413"
+    "dataUrl": "https://zeiruos.github.io/tcg_arena_myl/myl_card_list.json",
+    "cardBack": "https://zeiruos.github.io/tcg_arena_myl/assets/common/card-back_imperio.jpg"
   },
   "deckBuilding": {
     "costCurveIgnoredTypes": [
