@@ -94,19 +94,22 @@
             {
               "direction": "column",
               "style": {
-                "width": "20vh"
+                "flex": 1
               },
               "content": [
                 {
-                  "section": "Oro_Reserva"
+                  "section": "Oro_Pagado"
                 },
                 {
-                  "section": "Oro_Pagado"
+                  "section": "Oro_Reserva"
                 }
               ]
             },
             {
               "direction": "column",
+              "style": {
+                "flex": 5
+              },
               "content": [
                 {
                   "section": "Ataque"
