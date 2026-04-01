@@ -12,6 +12,9 @@
     "cardBack": "https://storedevastation.com/cdn/shop/products/myl-000-450x643_528f5e59-ba9a-4255-a561-e214b8a000ea_large.png?v=1607044413"
   },
   "deckBuilding": {
+    "costCurveIgnoredTypes": [
+      "Oro"
+    ],
     "mainFilters": [
       "type",
       "cost",
@@ -94,11 +97,14 @@
                 {
                   "section": "Oro_Pagado",
                   "style": {
-                    "width": "15vh"
+                    "flex": 2
                   }
                 },
                 {
-                  "section": "Ataque"
+                  "section": "Ataque",
+                  "style": {
+                    "flex": 4
+                  }
                 }
               ]
             },
@@ -108,14 +114,20 @@
                 {
                   "section": "Oro_Reserva",
                   "style": {
-                    "width": "15vh"
+                    "flex": 2
                   }
                 },
                 {
-                  "section": "Defensa"
+                  "section": "Defensa",
+                  "style": {
+                    "flex": 4
+                  }
                 },
                 {
-                  "section": "Apoyo"
+                  "section": "Apoyo",
+                  "style": {
+                    "flex": 2
+                  }
                 }
               ]
             }
