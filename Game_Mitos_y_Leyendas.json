@@ -89,39 +89,33 @@
           "Apoyo"
         ],
         "layout": {
-          "direction": "column",
+          "direction": "row",
           "content": [
             {
-              "direction": "row",
+              "direction": "column",
+              "style": {
+                "width": "20vh"
+              },
               "content": [
                 {
-                  "section": "Oro_Pagado",
-                  "style": {
-                    "width": "25%"
-                  }
+                  "section": "Oro_Reserva"
                 },
                 {
-                  "section": "Ataque"
+                  "section": "Oro_Pagado"
                 }
               ]
             },
             {
-              "direction": "row",
+              "direction": "column",
               "content": [
                 {
-                  "section": "Oro_Reserva",
-                  "style": {
-                    "width": "25%"
-                  }
+                  "section": "Ataque"
                 },
                 {
                   "section": "Defensa"
                 },
                 {
-                  "section": "Apoyo",
-                  "style": {
-                    "width": "25%"
-                  }
+                  "section": "Apoyo"
                 }
               ]
             }
@@ -179,7 +173,7 @@
           "Defensa": {
             "title": "Defensa",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -195,7 +189,7 @@
           "Ataque": {
             "title": "Ataque",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
