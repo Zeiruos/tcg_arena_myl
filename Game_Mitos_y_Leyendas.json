@@ -97,14 +97,11 @@
                 {
                   "section": "Oro_Pagado",
                   "style": {
-                    "flex": 2
+                    "width": "25%"
                   }
                 },
                 {
-                  "section": "Ataque",
-                  "style": {
-                    "flex": 4
-                  }
+                  "section": "Ataque"
                 }
               ]
             },
@@ -114,19 +111,16 @@
                 {
                   "section": "Oro_Reserva",
                   "style": {
-                    "flex": 2
+                    "width": "25%"
                   }
                 },
                 {
-                  "section": "Defensa",
-                  "style": {
-                    "flex": 4
-                  }
+                  "section": "Defensa"
                 },
                 {
                   "section": "Apoyo",
                   "style": {
-                    "flex": 2
+                    "width": "25%"
                   }
                 }
               ]
