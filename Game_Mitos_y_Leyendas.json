@@ -5,7 +5,7 @@
     "backgrounds": [],
     "decksUrl": ""
   },
-  "customHelp": "FASES DEL TURNO:\n1. Agrupación: Aliados vuelven de Ataque a Defensa, Oros Pagados vuelven a Reserva.\n2. Vigilia: Pon un Oro, juega cartas y usa habilidades.\n3. Batalla Mitológica: Ataque → Bloqueo → Guerra de Talismanes → Asignación de Daño.\n4. Fase Final: Se resuelven efectos de fin de turno. Roba 1 carta (excepto primer turno del J1). Límite de mano: 8.\n\nROBAR: El robo es manual (draw per turn = 0). Recuerda robar 1 carta en tu Fase Final.\nMULLIGAN: Roba 8. Si cambias, robas 7, luego 6, etc.\nORO INICIAL: Saca 1 Oro sin habilidad de tu mazo y ponlo en la Reserva antes de empezar.\nDAÑO: Las cartas botadas del Castillo por daño de combate van al Cementerio (Discard).",
+  "customHelp": "FASES DEL TURNO:\n1. Agrupación: Aliados vuelven de Ataque a Defensa, Oros Pagados vuelven a Reserva.\n2. Vigilia: Pon un Oro, juega cartas y usa habilidades.\n3. Batalla Mitológica: Ataque → Bloqueo → Guerra de Talismanes → Asignación de Daño.\n4. Fase Final: Se resuelven efectos de fin de turno. Roba 1 carta (excepto primer turno del J1). Límite de mano: 8.\n\nROBAR: El robo es manual (draw per turn = 0). Recuerda robar 1 carta en tu Fase Final.\nMULLIGAN: Roba 8. Si cambias, robas 7, luego 6, etc.\nDAÑO: Las cartas botadas del Castillo por daño de combate van al Cementerio (Discard).\n\nREGLAS DE MAZO (Imperio Racial):\n- 50 cartas exactas. Max 3 copias por carta (Únicas = 1 copia).\n- Mínimo 17 Aliados + Armas + Tótem combinados.\n- Todos tus Aliados deben ser de la misma raza (o sin raza). Max 4 Aliados sin raza.\n- Sideboard opcional: 15 cartas, comparte límite de copias con el mazo principal.",
   "cardRotation": 45,
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/Zeiruos/tcg_arena_myl/refs/heads/main/myl_card_list.json",
@@ -13,29 +13,56 @@
   },
   "deckBuilding": {
     "mainFilters": [
-      "filtro_1",
-      "filtro_2",
-      "filtro_3"
+      "type",
+      "cost",
+      "name",
+      "Raza"
     ],
     "formats": [
       {
         "title": "Imperio Racial",
-        "gameplay": "Classic"
+        "gameplay": "Classic",
+        "deckRuleset": "Imperio_Racial",
+        "customCategories": [
+          "Oro_Reserva"
+        ]
       }
-    ]
+    ],
+    "deckRulesets": {
+      "Imperio_Racial": {
+        "general": {
+          "min": 50,
+          "max": 50,
+          "maxPerCard": 3
+        },
+        "categories": [
+          {
+            "category": "Oro_Reserva",
+            "min": 1,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Sideboard",
+            "min": 0,
+            "max": 15
+          }
+        ]
+      }
+    }
   },
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "Robas 8 cartas. Puedes devolver tu mano y robar 1 carta menos (7, 6, 5...). Antes de empezar, pon 1 Oro sin habilidad de tu mazo en la Reserva.",
+        "info": "Robas 8 cartas. Si no te gusta tu mano, devuélvela al mazo y roba 1 menos (7, 6, 5...).\nEl mulligan es manual: arrastra las cartas al Deck y roba la cantidad correcta.",
         "startingHandSize": 8,
-        "drawNewHand": true,
+        "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
       "newTurn": {
         "drawOnStart": false,
-        "sharedTurn": true,
+        "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 0
       },
@@ -52,7 +79,7 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Oro",
+          "Oro_Reserva",
           "Oro_Pagado",
           "Destierro",
           "Ataque",
@@ -93,7 +120,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "Oro",
+                  "section": "Oro_Reserva",
                   "style": {
                     "flex": 1
                   }
@@ -115,43 +142,20 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [],
+        "categoriesAlreadyOnBoard": [
+          "Oro_Reserva"
+        ],
         "autoPlayFromHand": {
-          "Oro": "Oro",
-          "Aliado - Bestia": "Defensa",
-          "Aliado - Caballero": "Defensa",
-          "Aliado - Dragón": "Defensa",
-          "Aliado - Eterno": "Defensa",
-          "Aliado - Faerie": "Defensa",
-          "Aliado - Guerrero": "Defensa",
-          "Aliado - Héroe": "Defensa",
-          "Aliado - Sacerdote": "Defensa",
-          "Aliado - Sombra": "Defensa",
-          "Aliado - Bestia/Dragón": "Defensa",
-          "Aliado - Bestia/Sombra": "Defensa",
-          "Aliado - Bestia/Guerrero": "Defensa",
-          "Aliado - Bestia Faerie": "Defensa",
-          "Aliado - Bestia/Dragón/Sombra": "Defensa",
-          "Aliado - Caballero/Guerrero": "Defensa",
-          "Aliado - Caballero/Héroe": "Defensa",
-          "Aliado - Caballero/Guerrero/Héroe": "Defensa",
-          "Aliado - Caballero Sacerdote": "Defensa",
-          "Aliado - Caballero Sombra": "Defensa",
-          "Aliado - Dragon Sombra": "Defensa",
-          "Aliado - Eterno/Faerie": "Defensa",
-          "Aliado - Eterno/Sacerdote": "Defensa",
-          "Aliado - Eterno Héroe": "Defensa",
-          "Aliado - Eterno/Faerie/Sacerdote": "Defensa",
-          "Aliado - Faerie Sacerdote": "Defensa",
-          "Aliado - Guerrero/Héroe": "Defensa",
-          "Aliado - Guerrero/Sacerdote": "Defensa",
-          "Arma": "Defensa",
-          "Tótem": "Apoyo"
+          "Oro": "Oro_Reserva",
+          "Aliado": "Stack",
+          "Arma": "Stack",
+          "Tótem": "Stack",
+          "Talismán": "Stack"
         },
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Oro": {
-            "title": "Oro",
+          "Oro_Reserva": {
+            "title": "Oro_Reserva",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
@@ -180,7 +184,13 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Oro_Reserva"
+              }
+            }
           },
           "Defensa": {
             "title": "Defensa",
@@ -212,7 +222,13 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Defensa"
+              }
+            }
           },
           "Apoyo": {
             "title": "Apoyo",
