@@ -1,5 +1,7 @@
 {
-  "additionalLanguages": ["es"],
+  "additionalLanguages": [
+    "es"
+  ],
   "en": {
     "Gameplay": {
       "Classic": "Classic"
@@ -21,7 +23,7 @@
       "type": "Tipo",
       "cost": "Coste",
       "race": "Raza",
-      "set": "Set",
+      "Set": "Set",
       "ability": "Habilidad",
       "rarity": "Frecuencia",
       "strength": "Fuerza"
