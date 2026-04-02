@@ -19679,7 +19679,9 @@
     "name": "Gog",
     "type": "Aliado",
     "cost": 2,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Bestiarium"
     ],
@@ -19809,7 +19811,9 @@
     "name": "Yog-Sothoth",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Bestiarium"
     ],
@@ -20526,7 +20530,9 @@
     "name": "Malevolente",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Bestiarium"
     ],
@@ -23608,7 +23614,9 @@
     "name": "Elemental De Hielo",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Hielo Inmortal"
     ],
@@ -24466,7 +24474,9 @@
     "name": "Elemental De Magma",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Cenizas de Fuego"
     ],
@@ -32132,7 +32142,9 @@
     "name": "Nanna",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Onyria"
     ],
@@ -32158,7 +32170,9 @@
     "name": "Cleopatra Vii",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Onyria"
     ],
@@ -33258,7 +33272,9 @@
     "name": "Malevolente",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Onyria"
     ],
@@ -33574,7 +33590,9 @@
     "name": "Alicia En Wonderland",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Onyria"
     ],
@@ -34057,7 +34075,9 @@
     "name": "Don Quijote",
     "type": "Aliado",
     "cost": 2,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Onyria"
     ],
@@ -36058,7 +36078,9 @@
     "name": "Guerrillero Rodriguez",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Libertadores"
     ],
@@ -39910,7 +39932,9 @@
     "name": "Hijo De La Rebeldia",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Libertadores"
     ],
@@ -40066,7 +40090,9 @@
     "name": "Ignacio Carrera Pinto",
     "type": "Aliado",
     "cost": 2,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Libertadores"
     ],
@@ -40329,7 +40355,9 @@
     "name": "Arturo Prat - Sp",
     "type": "Aliado",
     "cost": 2,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Libertadores"
     ],
@@ -40355,7 +40383,9 @@
     "name": "Miguel Grau",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Libertadores"
     ],
@@ -40835,7 +40865,9 @@
     "name": "Origenes",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Libertadores"
     ],
@@ -40861,7 +40893,9 @@
     "name": "Espiritu Kotaix",
     "type": "Aliado",
     "cost": 3,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Libertadores"
     ],
@@ -41211,7 +41245,9 @@
     "name": "Ava Rei Pua",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Libertadores"
     ],
@@ -41237,7 +41273,9 @@
     "name": "Ivi Atua",
     "type": "Aliado",
     "cost": 2,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Libertadores"
     ],
@@ -48003,7 +48041,9 @@
     "name": "Shade",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
     ],
@@ -48133,7 +48173,9 @@
     "name": "Metalmorfo",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
     ],
@@ -48445,7 +48487,9 @@
     "name": "Jupitris",
     "type": "Aliado",
     "cost": 3,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
     ],
@@ -49215,7 +49259,9 @@
     "name": "Conde Dracula",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
     ],
@@ -49241,7 +49287,9 @@
     "name": "Sombrerero Loco",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
     ],
@@ -49267,7 +49315,9 @@
     "name": "Ereshkigal",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
     ],
@@ -49293,7 +49343,9 @@
     "name": "Jabberwocky",
     "type": "Aliado",
     "cost": 2,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
     ],
@@ -49319,7 +49371,9 @@
     "name": "Legion Paladin",
     "type": "Aliado",
     "cost": 1,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
     ],
@@ -49345,7 +49399,9 @@
     "name": "Horda Tenebris",
     "type": "Aliado",
     "cost": 2,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
     ],
@@ -49371,7 +49427,9 @@
     "name": "Espiritu Desafiante",
     "type": "Aliado",
     "cost": 2,
-    "Raza": [],
+    "Raza": [
+      "Sin Raza"
+    ],
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
     ],
