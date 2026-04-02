@@ -1,0 +1,56 @@
+{
+  "additionalLanguages": ["es"],
+  "en": {
+    "Gameplay": {
+      "Classic": "Classic"
+    },
+    "Big stuffs": {
+      "translations.customHelp": "TURN PHASES:\n1. Grouping: Allies return from Attack to Defense, Paid Gold returns to Reserve.\n2. Vigil: Place a Gold, play cards and use abilities.\n3. Mythological Battle: Attack → Block → Talisman War → Damage Assignment.\n4. Final Phase: End-of-turn effects resolve. Draw 1 card (except first turn of P1). Hand limit: 8.\n\nDRAW: Drawing is manual (draw per turn = 0). Remember to draw 1 card in your Final Phase.\nMULLIGAN: Draw 8. If you change, draw 7, then 6, etc.\nDAMAGE: Cards milled from the Castle by combat damage go to the Graveyard (Discard).\n\nDECK RULES (Imperio Racial):\n- Exactly 50 cards. Max 3 copies per card (Unique = 1 copy).\n- Minimum 17 Allies + Weapons + Totems combined.\n- All your Allies must be the same race (or raceless). Max 4 raceless Allies.\n- Optional sideboard: 15 cards, shares copy limit with main deck.",
+      "translations.mulliganInfo": "Draw 8 cards. If you don't like your hand, return it to the deck and draw 1 less (7, 6, 5...).\nMulligan is manual: drag cards to the Deck and draw the correct amount."
+    }
+  },
+  "es": {
+    "Deck - Card types": {
+      "Aliado": "Aliado",
+      "Arma": "Arma",
+      "Oro": "Oro",
+      "Talismán": "Talismán",
+      "Tótem": "Tótem"
+    },
+    "Deck - Filters": {
+      "type": "Tipo",
+      "cost": "Coste",
+      "race": "Raza",
+      "set": "Set",
+      "ability": "Habilidad",
+      "rarity": "Frecuencia",
+      "strength": "Fuerza"
+    },
+    "Deck - Races": {
+      "Bestia": "Bestia",
+      "Caballero": "Caballero",
+      "Dragón": "Dragón",
+      "Eterno": "Eterno",
+      "Faerie": "Faerie",
+      "Guerrero": "Guerrero",
+      "Héroe": "Héroe",
+      "Sacerdote": "Sacerdote",
+      "Sin Raza": "Sin Raza",
+      "Sombra": "Sombra"
+    },
+    "Gameplay": {
+      "Classic": "Clásico"
+    },
+    "Sections": {
+      "Reserva de Oro": "Reserva de Oro",
+      "Oro Pagado": "Oro Pagado",
+      "Línea de Ataque": "Línea de Ataque",
+      "Línea de Defensa": "Línea de Defensa",
+      "Línea de Apoyo": "Línea de Apoyo"
+    },
+    "Big stuffs": {
+      "translations.customHelp": "FASES DEL TURNO:\n1. Agrupación: Aliados vuelven de Ataque a Defensa, Oros Pagados vuelven a Reserva.\n2. Vigilia: Pon un Oro, juega cartas y usa habilidades.\n3. Batalla Mitológica: Ataque → Bloqueo → Guerra de Talismanes → Asignación de Daño.\n4. Fase Final: Se resuelven efectos de fin de turno. Roba 1 carta (excepto primer turno del J1). Límite de mano: 8.\n\nROBAR: El robo es manual (draw per turn = 0). Recuerda robar 1 carta en tu Fase Final.\nMULLIGAN: Roba 8. Si cambias, robas 7, luego 6, etc.\nDAÑO: Las cartas botadas del Castillo por daño de combate van al Cementerio (Discard).\n\nREGLAS DE MAZO (Imperio Racial):\n- 50 cartas exactas. Max 3 copias por carta (Únicas = 1 copia).\n- Mínimo 17 Aliados + Armas + Tótem combinados.\n- Todos tus Aliados deben ser de la misma raza (o sin raza). Max 4 Aliados sin raza.\n- Sideboard opcional: 15 cartas, comparte límite de copias con el mazo principal.",
+      "translations.mulliganInfo": "Robas 8 cartas. Si no te gusta tu mano, devuélvela al mazo y roba 1 menos (7, 6, 5...).\nEl mulligan es manual: arrastra las cartas al Deck y roba la cantidad correcta."
+    }
+  }
+}
