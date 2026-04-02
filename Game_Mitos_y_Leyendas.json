@@ -18,8 +18,9 @@
     "mainFilters": [
       "type",
       "cost",
-      "name",
-      "Raza"
+      "Habilidad",
+      "Raza",
+      "Set"
     ],
     "formats": [
       {
