@@ -92,7 +92,8 @@
           "Oro_Pagado",
           "Ataque",
           "Defensa",
-          "Apoyo"
+          "Apoyo",
+          "Efectos"
         ],
         "layout": {
           "direction": "row",
@@ -127,6 +128,20 @@
                   "section": "Apoyo"
                 }
               ]
+            },
+            {
+              "direction": "column",
+              "style": {
+                "flex": 1
+              },
+              "content": [
+                {
+                  "section": "Efectos"
+                }
+              ],
+              "optional": {
+                "key": "Efectos Activos"
+              }
             }
           ]
         },
@@ -225,6 +240,22 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Efectos": {
+            "title": "Efectos",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Efectos Activos",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           }
         }
