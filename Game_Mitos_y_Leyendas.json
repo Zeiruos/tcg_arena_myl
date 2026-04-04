@@ -89,7 +89,7 @@
           "Defensa",
           "Apoyo",
           "Efectos",
-          "Baraja_Temporal"
+          "Zona_Temporal"
         ],
         "layout": {
           "direction": "row",
@@ -135,7 +135,7 @@
                   "section": "Efectos"
                 },
                 {
-                  "section": "Baraja_Temporal"
+                  "section": "Zona_Temporal"
                 }
               ],
               "optional": {
@@ -257,15 +257,15 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Baraja_Temporal": {
-            "title": "Baraja_Temporal",
+          "Zona_Temporal": {
+            "title": "Zona_Temporal",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "DECK",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Baraja Temporal",
+            "displayedTitle": "Zona Temporal",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
