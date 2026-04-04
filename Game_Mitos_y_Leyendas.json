@@ -76,12 +76,7 @@
         "drawPerTurn": 0
       },
       "defaultNotes": "RECORDAR:\n- Robar 1 carta en Fase Final (excepto T1 del J1)\n- Agrupar Oros Pagados a Reserva\n- Agrupar Aliados de Ataque a Defensa\n- Límite de mano: 8 cartas",
-      "tokens": [
-        {
-          "name": "Oro_Virtual",
-          "image": "https://api.myl.cl/static/cards/125/337.png"
-        }
-      ],
+      "tokens": [],
       "countersStartingValues": [
         "1"
       ],
@@ -93,7 +88,8 @@
           "Ataque",
           "Defensa",
           "Apoyo",
-          "Efectos"
+          "Efectos",
+          "Baraja_Temporal"
         ],
         "layout": {
           "direction": "row",
@@ -137,10 +133,13 @@
               "content": [
                 {
                   "section": "Efectos"
+                },
+                {
+                  "section": "Baraja_Temporal"
                 }
               ],
               "optional": {
-                "key": "Efectos Activos"
+                "key": "Zonas Temporales"
               }
             }
           ]
@@ -255,6 +254,22 @@
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Baraja_Temporal": {
+            "title": "Baraja_Temporal",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Baraja Temporal",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           }

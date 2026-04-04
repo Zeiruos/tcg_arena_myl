@@ -301,6 +301,10 @@
     "ability": "SólopuedesjugarunNitenIchi-ryūporturnoycuandolojuegues,Destiérralo.ReducesucosteenunOroporcadaOroquehayaspagadoesteturno.GeneradosOrosyRobadoscartas.",
     "Set": [
       "Espíritu Samurái"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL",
+      "ORO_VIRTUAL"
     ]
   },
   "ESPIRITU_SAMURAI-012": {
@@ -2011,6 +2015,9 @@
     "ability": "Cuandoentraenjuego,generaunOro.Elportadorgana2deFuerzaysiestáenLíneadeAtaque,nopuedesserafectadoporefectosdecartasoponentes.EntuVigilia,unavezporturno,puedesDestruirunacartadecoste2omenos.",
     "Set": [
       "Espíritu Samurái"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ESPIRITU_SAMURAI-075": {
@@ -3157,6 +3164,9 @@
     "ability": "Cuandoentraenjuego,generaunOroporelturnoparajugarcartasquenoseanTalismán.EntuVigilia,unavezporturno,puedesDestruirunacartadecoste2omenosohacerqueelpróximoTalismánquejueguetuoponenteesteturnoseresuelvasinefecto.",
     "Set": [
       "Espíritu Samurái"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ESPIRITU_SAMURAI-117": {
@@ -3651,6 +3661,9 @@
     "ability": "Cuandoentraenjuego,BarajahastatantascartasoponentesquenoseanOrocomoAliadoscontroles.Cuandosalgadeljuego,generaunOroparajugarTalismanes.EseOrodurahastatupróximaFaseFinal.",
     "Set": [
       "Espíritu Samurái"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ESPIRITU_SAMURAI-135": {
@@ -7786,6 +7799,9 @@
     "ability": "Cuandoentraenjuego,generaunOroporelturnoparajugarcartasquenoseanTalismán.EntuVigilia,unavezporturno,puedesDestruirunacartadecoste2omenosohacerqueelpróximoTalismánquejueguetuoponenteesteturnoseresuelvasinefecto.",
     "Set": [
       "Espíritu Samurái"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ESPIRITU_SAMURAI-289": {
@@ -8280,6 +8296,9 @@
     "ability": "Cuandoentraenjuego,BarajahastatantascartasoponentesquenoseanOrocomoAliadoscontroles.Cuandosalgadeljuego,generaunOroparajugarTalismanes.EseOrodurahastatupróximaFaseFinal.",
     "Set": [
       "Espíritu Samurái"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ESPIRITU_SAMURAI-307": {
@@ -10572,6 +10591,10 @@
     "ability": "Parajugarlo,muestraunArmaoTótemdetumanooCementerioyDestierraesteTalismán.GeneradosOrosparajugarunAliadodecoste3omás.Cuandolosuses,BarajahastatantascartasdelosCementerioscomoFuerzatengaeseAliadoyRobatantascartascomosucoste.",
     "Set": [
       "IMP - Escuadrón Mecha"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL",
+      "ORO_VIRTUAL"
     ]
   },
   "ESCUADRONMECHA-036": {
@@ -10598,6 +10621,9 @@
     "ability": "Cuandoentraenjuego,sinoestuprimerturno,generaunOroparajugarArmasoTótemdecoste2omás.Unavezporturno,puedesBarajaroDesterrarunacartadeunCementerio.",
     "Set": [
       "IMP - Escuadrón Mecha"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ESCUADRONMECHA-037": {
@@ -10862,6 +10888,9 @@
     "ability": "Furia.Imbloqueable.Cuandoentraenjuego,puedesjugarunArmadesdetumanooCementerioreduciendosucosteendosOros,hastaunmínimode0yRobardoscartas.Cuandoataques,generaunOroporelturno.PuedesjugarArmasenGuerradeTalismanes.",
     "Set": [
       "IMP - Bestiarium"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "BESTIARIUM-003": {
@@ -10918,6 +10947,10 @@
     "ability": "Unavezporturno,generadosOrosparajugarTótemosubehastadoscartasquenoseanTalismándetuCementerioatumano.CuandopongasenjuegounAliadooTótem,hastadosvecesporturno,BarajaunacartaquenoseaOrootuoponenteDescartaunacarta.",
     "Set": [
       "IMP - Bestiarium"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL",
+      "ORO_VIRTUAL"
     ]
   },
   "BESTIARIUM-005": {
@@ -11648,6 +11681,9 @@
     "ability": "Exhumar.Unavezporturno,generaunOroparajugarAliadosoArmas.SiusaseseOro,puedesbuscarentuCastillounacartadelmismotipoquelacartajugadayponerlaentumanooRobardoscartas.TusAliadosganan2deFuerza.",
     "Set": [
       "IMP - Bestiarium"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "BESTIARIUM-032": {
@@ -13004,6 +13040,9 @@
     "ability": "Unavezporturno,puedespagarunOroparaRobarunacartayelegirentrequeunAliadoganeFuria,dupliquesuFuerza,osudañoseaenviadoalDestierroesteturno.Cuandobloquees,generaunOroporelturno.",
     "Set": [
       "IMP - Bestiarium"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "BESTIARIUM-082": {
@@ -15248,6 +15287,9 @@
     "ability": "Furia.Imbloqueable.Cuandoentraenjuego,puedesjugarunArmadesdetumanooCementerioreduciendosucosteendosOros,hastaunmínimode0yRobardoscartas.Cuandoataques,generaunOroporelturno.PuedesjugarArmasenGuerradeTalismanes.",
     "Set": [
       "IMP - Bestiarium"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "BESTIARIUM-164": {
@@ -15304,6 +15346,10 @@
     "ability": "Unavezporturno,generadosOrosparajugarTótemosubehastadoscartasquenoseanTalismándetuCementerioatumano.CuandopongasenjuegounAliadooTótem,hastadosvecesporturno,BarajaunacartaquenoseaOrootuoponenteDescartaunacarta.",
     "Set": [
       "IMP - Bestiarium"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL",
+      "ORO_VIRTUAL"
     ]
   },
   "BESTIARIUM-166": {
@@ -20759,6 +20805,9 @@
     "ability": "Indestructible.Unavezporturno,generaunOroparajugarcartasquenoseanAliado.Unavezentuturno,puedesjugarunAliadodetumanooCementerioreduciendosucosteenunOro,hastaunmínimode1odetuDestierropagandosucoste.",
     "Set": [
       "IMP - Bestiarium"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "BESTIARIUM-370": {
@@ -20815,6 +20864,10 @@
     "ability": "SólopuedesjugarunNitenIchi-ryūporturnoycuandolojuegues,Destiérralo.ReducesucosteenunOroporcadaOroquehayaspagadoesteturno.GeneradosOrosyRobadoscartas.",
     "Set": [
       "IMP - Bestiarium"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL",
+      "ORO_VIRTUAL"
     ]
   },
   "BESTIARIUM-372": {
@@ -22121,6 +22174,10 @@
     "ability": "SólopuedesjugarunNitenIchi-ryuporturnoycuandolojuegues,Destiérralo.ReducesucosteenunOroporcadaOroquehayaspagadoesteturno.GeneradosOrosyRobadoscartas.",
     "Set": [
       "IMP - Lootbox Imperio 2024"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL",
+      "ORO_VIRTUAL"
     ]
   },
   "LOOTBOX_2024-013": {
@@ -24327,6 +24384,9 @@
     "ability": "Exhumar.SubeunaodoscartasdeunmismotipoquenoseaTalismándetuCementerioatumano.GeneraunOroparajugarcartasdelmismotipoybuscaenunCastillounacartayDestiérrala.",
     "Set": [
       "IMP - Cenizas de Fuego"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "TOOLKIT_CENIZAS_DE_FUEGO-025": {
@@ -24405,6 +24465,9 @@
     "ability": "Cuandolojuegues,Destiérralo.SiesAnulado,generaunOroparajugarAliados.Hastatupróximoturno,tusAliadosnopuedensalirdeljuegoyAnularloscuestaunOroadicional.EntuFaseFinal,tusAliadospierdensuhabilidadhastatupróximoturno.",
     "Set": [
       "IMP - Cenizas de Fuego"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "TOOLKIT_CENIZAS_DE_FUEGO-028": {
@@ -24703,6 +24766,9 @@
     "ability": "Cuandoentraenjuego,puedesRobarhastadoscartasynopuedesserafectadoporefectosoponenteshastatupróximoturno.Unavezporturno,generaunOroparajugarAliadosdecoste2omásobuscaunAliadoentuCastilloyponloentumano.LosAliadosoponentespierden2deFuerza.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-006": {
@@ -24867,6 +24933,10 @@
     "ability": "Exhumar.SiesAnulado,generadosOrosporelturnoparajugarAliados.MuestraseiscartasdeltopedetuCastillo.Puedesjugarunacartadecoste3omenosdeahísinpagarsucosteoponerunOrodeahíentuOroPagado.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL",
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-012": {
@@ -25405,6 +25475,9 @@
     "ability": "Elportadorgana2deFuerza,FuriaytutieneslaprioridadenGuerradeTalismanes.Cuandoentraenjuego,elportadornopuedesalirdeljuegohastatupróximoturno.Cuandoelportadorataque,siesdecoste1omás,generaunOrooRobaunacarta.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-032": {
@@ -26603,6 +26676,9 @@
     "ability": "Unavezporturno,siatacasteentuturnoanterior,generaunOroparajugarAliadosycuandouseseseOro,Robaunacarta.TusAliadosganan2deFuerzaylascartasenelCementeriooponentepierdensuhabilidad.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-076": {
@@ -27321,6 +27397,9 @@
     "ability": "Nopuedeatacar.PuedeBloquearAliadosImbloqueables.Unavezporturno,generaunOroporelturno.Sisaledeljuegoenelturnooponente,Robadoscartas.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-102": {
@@ -27749,6 +27828,9 @@
     "ability": "NopuedeserAnulado.SepuedejugaralcomienzodecualquierFaseysieselturnooponente,reducesucosteenunOro.Unavezentuturno,cuandotuoponentejuegueunacartaoutilicesuhabilidad,generaunOroparajugarAliadosoArmas.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-118": {
@@ -28895,6 +28977,9 @@
     "ability": "Cuandoentraenjuego,generaunOroparajugarcartasdecoste4omás.Unavezporturno,puedespagarunOroparaBarajarhastadoscartasdelosCementeriosyRobarunacarta.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-160": {
@@ -29061,6 +29146,9 @@
     "ability": "Cuandoentraenjuego,puedesRobarhastadoscartasynopuedesserafectadoporefectosoponenteshastatupróximoturno.Unavezporturno,generaunOroparajugarAliadosdecoste2omásobuscaunAliadoentuCastilloyponloentumano.LosAliadosoponentespierden2deFuerza.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-166": {
@@ -29225,6 +29313,10 @@
     "ability": "Exhumar.SiesAnulado,generadosOrosporelturnoparajugarAliados.MuestraseiscartasdeltopedetuCastillo.Puedesjugarunacartadecoste3omenosdeahísinpagarsucosteoponerunOrodeahíentuOroPagado.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL",
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-172": {
@@ -30021,6 +30113,9 @@
     "ability": "Nopuedeatacar.PuedeBloquearAliadosImbloqueables.Unavezporturno,generaunOroporelturno.Sisaledeljuegoenelturnooponente,Robadoscartas.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-201": {
@@ -30449,6 +30544,9 @@
     "ability": "NopuedeserAnulado.SepuedejugaralcomienzodecualquierFaseysieselturnooponente,reducesucosteenunOro.Unavezentuturno,cuandotuoponentejuegueunacartaoutilicesuhabilidad,generaunOroparajugarAliadosoArmas.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-217": {
@@ -31595,6 +31693,9 @@
     "ability": "Cuandoentraenjuego,generaunOroparajugarcartasdecoste4omás.Unavezporturno,puedespagarunOroparaBarajarhastadoscartasdelosCementeriosyRobarunacarta.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-259": {
@@ -33948,6 +34049,9 @@
     "ability": "Cuandolojuegues,Destiérralo.Barajaunacartadecoste2omenos.HastaunAliadodecoste1omásquecontrolesganalahabilidad\"Indesterrable.AlcomienzodetuVigilia,generaunOroyRobaunacarta\"mientrasestéenjuego.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-347": {
@@ -33974,6 +34078,9 @@
     "ability": "Tuoponentemuestrasumanoytúeligeunefecto:-ElsiguienteTalismánquejueguetuoponenteesteturnoseresuelvesinefecto.-Nombraunacarta.LascartasconesenombrenopuedenserjugadasensupróximoturnoygeneraunOroporelturno.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-348": {
@@ -34271,6 +34378,9 @@
     "ability": "SiesAnuladogeneraunOroparajugarunArma.EligeunAliadoymiratantascartasdeltopedeambosCastilloscomoFuerzaimpresatenga.PontuscartasentumanoolasoponentesensuCementerioyordenaelresto.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-359": {
@@ -34543,6 +34653,9 @@
     "ability": "Unavezporturno,sinocontrolasAliados,puedesponerenjuegobajotucontrolunAliadodecoste2omenosdetuCementeriocomounAliadosinhabilidad.Unavezporturno,siunodetusAliadosdecoste2omásesAnulado,generaunOroparajugarAliadosdecoste2omás.",
     "Set": [
       "IMP - Onyria"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "ONYRIA-369": {
@@ -35111,6 +35224,9 @@
     "ability": "Indestructible.CuandoentraenjuegoDestierracartasoponentescuyoscostesumenhasta6.Alcomienzodelturnooponente,generaunOroporelturnoyRobadoscartas.Unavezporturno,puedesBarajarcartadetumanoparaprevenirunefecto.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-005": {
@@ -35195,6 +35311,9 @@
     "ability": "Furia.HacedobledañodecombatealDestierro.Cuandoataquesolo,RobaunacartayhastatupróximoturnoatuoponentelecuestaunOroadicionalafectaratusAliados.Alcomienzodelturno,generaunOroparaAliadosoBarajaunacartadecoste3omenos.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-008": {
@@ -35251,6 +35370,9 @@
     "ability": "Exhumar.Indesterrable.Unavezentuturno,puedesDestruirlascartasoponentesdecoste1omenosoDesterrarunacartaoponentequenoseaOro.Unavezporturno,buscaentuCastillooCementeriounAliado,ponloentumanoygeneraunOroparajugarAliados.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-010": {
@@ -35465,6 +35587,9 @@
     "ability": "Unavezentuturno,generaunOroparajugarArmasoAliadosCaballeroporelturno.Cuandoentraenjuego,puedessubirunArmaquecontrolesalamanodesudueñoparajugarunArmadelmismoomenorcostedesdetumanosinpagarsucoste.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-018": {
@@ -35743,6 +35868,9 @@
     "ability": "NopuedeserAnulado.BuscaentuCastillooCementeriounacartaquenoseaTalismán,ponlaentumanoygeneraunOroparajugarcartasdecoste3omás.SiestáentuCementerio,puedespagarunOroyDesterrarloparabuscarentuCastillodoscartasdedistintotipoyponerlasentumano.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-028": {
@@ -35769,6 +35897,9 @@
     "ability": "SiesAnulado,generaunOroparajugarAliados.Cuandolojuegues,Destiérralo.RobadoscartasyDestierrahastaunAliadodecoste3omenosounTótem.Unacartaquecontrolesganalahabilidad\"Unavezentuturno,puedesBarajary/oDesterrarhastatrescartasdelosCementerios\".",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-029": {
@@ -35821,6 +35952,9 @@
     "ability": "Única.Cuandolojuegues,Destiérralo.SiesAnulado,generaunOroporelturno.BarajacualquiercantidaddecartasdetuCementerioyDestierroentuCastilloyRobatrescartas.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-031": {
@@ -35925,6 +36059,9 @@
     "ability": "Exhumar.Cuandoentraenjuego,generaunOroporelturno.Estahabilidadnopuedesercancelada.Unavezporturno,puedeshacerquehastatupróximoturno,unacartatuCementerioganaExhumarynorecibesdañodecombate.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-035": {
@@ -36033,6 +36170,9 @@
     "ability": "Furia.Cuandoentraenjuego,RobaunacartaypuedesjugarunAliadooArmadetumanooCementeriopagandosucoste.SijugasteunBandidodeestaforma,generaunOroporelturnoparajugarAliadosoArmas.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-039": {
@@ -37235,6 +37375,9 @@
     "ability": "EsteOrogeneraunOroadicionalcuandoseausadoparapagarArmasdecoste2omás.Unavezporturno,puedesmostrarunArmadetumanoparaponerunacartadeltopedetuCastilloenjuegocomounAliadosinhabilidaddeFuerza0.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-083": {
@@ -37261,6 +37404,9 @@
     "ability": "Cuandoentraenjuego,Robaunacartaypuedesmostrartumano.SinotienesmásdeunTalismán,generaunOroparajugarArmasyRobaunacartaadicional.TusAliadospuedenportarunArmaadicional.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-084": {
@@ -38361,6 +38507,9 @@
     "ability": "PuedesDescartaroDestruirunArmaquecontrolesparaquenopuedaserAnulado.Unavezporturno,generaunOroparaArmasybuscaunArmaentuCastilloyponlaentumano.TusAliadosqueportenArmasgananFuria.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-124": {
@@ -39027,6 +39176,9 @@
     "ability": "Indestructible.Cuandoentraenjuego,buscaentuCastillounAliadoyponloentumano.SibuscasteunCarrera,generaunOroporelturnoparajugarAliadosdecoste2omás.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-148": {
@@ -39645,6 +39797,9 @@
     "ability": "Indestructible.CuandoentraenjuegoDestierracartasoponentescuyoscostesumenhasta6.Alcomienzodelturnooponente,generaunOroporelturnoyRobadoscartas.Unavezporturno,puedesBarajarcartadetumanoparaprevenirunefecto.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-171": {
@@ -39729,6 +39884,9 @@
     "ability": "Furia.HacedobledañodecombatealDestierro.Cuandoataquesolo,RobaunacartayhastatupróximoturnoatuoponentelecuestaunOroadicionalafectaratusAliados.Alcomienzodelturno,generaunOroparaAliadosoBarajaunacartadecoste3omenos.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-174": {
@@ -39785,6 +39943,9 @@
     "ability": "Exhumar.Unavezporturno,buscaentuCastillounAliadoyponloentumano.GeneraunOroparajugarAliados.Unavezporturno,buscaunacartaentuCastillo,ponlasentumanoybuscaenelCastillooponentetrescartasyDestiérralas.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-176": {
@@ -39837,6 +39998,9 @@
     "ability": "Única.Cuandolojuegues,Destiérralo.SiesAnulado,generaunOroporelturno.BarajacualquiercantidaddecartasdetuCementerioyDestierroentuCastilloyRobatrescartas.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-178": {
@@ -40260,6 +40424,9 @@
     "ability": "Exhumar.Elportadorgana3deFuerzayFuria.Cuandoentraenjuego,generaunOroporelturno.Alcomienzodecadaturno,tuoponenteBarajaunacartadesumano.SicontrolasotraArma,Robadoscartas.",
     "Set": [
       "IMP - Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-194": {
@@ -42338,6 +42505,9 @@
     "ability": "Indestructible.Unavezporturno,puedesBarajarunacartadetumanooquecontrolesparaAnularunacartadecoste2omenosoprevenirqueunAliadoseaafectadoporunefectooponente.AlcomienzodelAtaque,generaunOroporelturnoparajugarAliadosoArmas.",
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "KVSM_TITANES-014": {
@@ -42618,6 +42788,9 @@
     "ability": "Indestructible.Unavezporturno,puedesBarajarunacartadetumanooquecontrolesparaAnularunacartadecoste2omenosoprevenirqueunAliadoseaafectadoporunefectooponente.AlcomienzodelAtaque,generaunOroporelturnoparajugarAliadosoArmas.",
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "KVSM_TITANES-024": {
@@ -42830,6 +43003,9 @@
     "ability": "Exhumar.SiesAnulado,generaunOroyRobaunacarta.ConvierteunOroocartadecoste3omenosenunacartadelmismotipo,sinhabilidad.MuestracartasdeltopedetuCastillohastamostrarhastadoscartasdeesetipo,ponlasentumanoyBarajaelresto.",
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "KVSM_TITANES-032": {
@@ -43858,6 +44034,9 @@
     "ability": "Cuandoentraenjuego,Robaunacarta.CuandounodetusTalismanesseresuelva,puedespagarunOroparavolverajugarlosinpagarsucoste.Cuandosalgadeljuegoenelturnooponente,generaunOroyélDescartaunacarta.",
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "KVSM_TITANES-070": {
@@ -45308,6 +45487,9 @@
     "ability": "Exhumar.CadajugadoreligeunAliadoquecontroleyBarajasusdemásAliadosenjuego.SiBarajastetresomásAliadosdeestaforma,generaunOroparajugarAliados.Delocontrario,Robadoscartas.",
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "KVSM_TITANES-124": {
@@ -45334,6 +45516,9 @@
     "ability": "PuedesjugarloalcomienzodecualquierFase.HastadosAliadosenjuegodebenatacarobloquearesteturnosipueden.Siestuturno,generaunOroparajugarArmasoTótem.Delocontrario,tusAliadosganan1deFuerza,IndestructibleeIndesterrableporelturno.",
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "KVSM_TITANES-125": {
@@ -46118,6 +46303,9 @@
     "ability": "DestierratodaslascartasdelCementeriooponente.PorcadaOroDesterradodeestamanera,tuoponenteBotatrescartas.SiDesterrastemenosdeseiscartasdeestamanera,generaunOroparajugarAliados.",
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "KVSM_TITANES-154": {
@@ -46248,6 +46436,9 @@
     "ability": "Cuandoentraenjuego,generaunOroparaAliadosdecoste2omásoRobadoscartas.EntuVigilia,puedesconvertirloenunAliadoconFuerza3hastalaFaseFinal.Cuandoataca,unAliadoquenoseaMetropolitanseconvierteporelturnoenunAliadodeFuerzaycoste5.",
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "KVSM_TITANES-159": {
@@ -46928,6 +47119,9 @@
     "ability": "Exhumar.CadajugadoreligeunAliadoquecontroleyBarajasusdemásAliadosenjuego.SiBarajastetresomásAliadosdeestaforma,generaunOroparajugarAliados.Delocontrario,Robadoscartas.",
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "KVSM_TITANES-184": {
@@ -46954,6 +47148,9 @@
     "ability": "PuedesjugarloalcomienzodecualquierFase.HastadosAliadosenjuegodebenatacarobloquearesteturnosipueden.Siestuturno,generaunOroparajugarArmasoTótem.Delocontrario,tusAliadosganan1deFuerza,IndestructibleeIndesterrableporelturno.",
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "KVSM_TITANES-185": {
@@ -47738,6 +47935,9 @@
     "ability": "DestierratodaslascartasdelCementeriooponente.PorcadaOroDesterradodeestamanera,tuoponenteBotatrescartas.SiDesterrastemenosdeseiscartasdeestamanera,generaunOroparajugarAliados.",
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "KVSM_TITANES-214": {
@@ -47868,6 +48068,9 @@
     "ability": "Cuandoentraenjuego,generaunOroparaAliadosdecoste2omásoRobadoscartas.EntuVigilia,puedesconvertirloenunAliadoconFuerza3hastalaFaseFinal.Cuandoataca,unAliadoquenoseaMetropolitanseconvierteporelturnoenunAliadodeFuerzaycoste5.",
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "KVSM_TITANES-219": {
@@ -49647,5 +49850,21 @@
     "Set": [
       "IMP - Kaiju vs Mecha - Titanes"
     ]
+  },
+  "ORO_VIRTUAL": {
+    "id": "ORO_VIRTUAL",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Oro Virtual",
+        "type": "Oro",
+        "cost": 0,
+        "image": "https://api.myl.cl/static/cards/125/337.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oro Virtual",
+    "type": "Oro",
+    "cost": 0
   }
 }
