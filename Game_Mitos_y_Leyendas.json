@@ -77,6 +77,28 @@
       },
       "defaultNotes": "RECORDAR:\n- Robar 1 carta en Fase Final (excepto T1 del J1)\n- Agrupar Oros Pagados a Reserva\n- Agrupar Aliados de Ataque a Defensa\n- Límite de mano: 8 cartas",
       "tokens": [],
+      "draggableTokens": [
+        {
+          "id": "orange-token",
+          "name": "Orange token",
+          "image": "https://zeiruos.github.io/tcg_arena_myl/assets/tokens/Orange.png"
+        },
+        {
+          "id": "green-token",
+          "name": "Green token",
+          "image": "https://zeiruos.github.io/tcg_arena_myl/assets/tokens/Green.png"
+        },
+        {
+          "id": "blue-token",
+          "name": "Blue token",
+          "image": "https://zeiruos.github.io/tcg_arena_myl/assets/tokens/Blue.png"
+        },
+        {
+          "id": "purple-token",
+          "name": "Purple token",
+          "image": "https://zeiruos.github.io/tcg_arena_myl/assets/tokens/Purple.png"
+        }
+      ],
       "countersStartingValues": [
         "1"
       ],
@@ -155,6 +177,7 @@
           "Talismán": "Stack"
         },
         "autoPlayFromStack": {
+          "Oro": "Oro_Reserva",
           "Aliado": "Defensa",
           "Arma": "Defensa",
           "Tótem": "Apoyo",
