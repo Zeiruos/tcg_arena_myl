@@ -198,7 +198,14 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Oro_Pagado"
+              }
+
+            }
           },
           "Oro_Pagado": {
             "title": "Oro_Pagado",
@@ -214,7 +221,14 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Oro_Reserva"
+              }
+
+            }
           },
           "Defensa": {
             "title": "Defensa",
@@ -230,7 +244,14 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Ataque"
+              }
+
+            }
           },
           "Ataque": {
             "title": "Ataque",
@@ -246,7 +267,14 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Defensa"
+              }
+
+            }
           },
           "Apoyo": {
             "title": "Apoyo",
