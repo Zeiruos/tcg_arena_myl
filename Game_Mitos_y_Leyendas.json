@@ -226,8 +226,8 @@
               "action": "MOVE",
               "actionData": {
                 "destination": "Oro_Reserva"
-              }
-
+              },
+              "image": "https://zeiruos.github.io/tcg_arena_myl/assets/buttons/icon_arrow_down.png"
             }
           },
           "Defensa": {
@@ -272,8 +272,8 @@
               "action": "MOVE",
               "actionData": {
                 "destination": "Defensa"
-              }
-
+              },
+              "image": "https://zeiruos.github.io/tcg_arena_myl/assets/buttons/icon_arrow_down.png"
             }
           },
           "Apoyo": {
