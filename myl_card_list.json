@@ -183,7 +183,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": 2
+      "IR": true
     },
     "race": [
       "Héroe"
@@ -4710,7 +4710,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": 2
+      "IR": true
     },
     "race": [
       "Héroe"
@@ -6560,7 +6560,7 @@
     "type": "Aliado",
     "cost": 1,
     "_legal": {
-      "IR": false
+      "IR": true
     },
     "race": [
       "Bestia",
@@ -11081,7 +11081,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": 2
+      "IR": 1
     },
     "race": [
       "Sombra"
@@ -11754,7 +11754,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": 2
+      "IR": 1
     },
     "race": [
       "Sombra"
@@ -15480,7 +15480,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": 2
+      "IR": 1
     },
     "race": [
       "Sombra"
@@ -33614,7 +33614,7 @@
     "type": "Talismán",
     "cost": 0,
     "_legal": {
-      "IR": true
+      "IR": 1
     },
     "race": [],
     "rarity": "P",
@@ -35214,7 +35214,7 @@
     "type": "Aliado",
     "cost": 4,
     "_legal": {
-      "IR": 2
+      "IR": true
     },
     "race": [
       "Eterno"
@@ -35301,7 +35301,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": true
+      "IR": 2
     },
     "race": [
       "Héroe"
@@ -35918,7 +35918,7 @@
     "type": "Talismán",
     "cost": 2,
     "_legal": {
-      "IR": 1
+      "IR": false
     },
     "race": [],
     "rarity": "MR",
@@ -37985,7 +37985,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": true
+      "IR": false
     },
     "race": [
       "Guerrero"
@@ -39787,7 +39787,7 @@
     "type": "Aliado",
     "cost": 4,
     "_legal": {
-      "IR": 2
+      "IR": true
     },
     "race": [
       "Eterno"
@@ -39874,7 +39874,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": true
+      "IR": 2
     },
     "race": [
       "Héroe"
@@ -41709,7 +41709,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": 2
+      "IR": true
     },
     "race": [
       "Héroe"
@@ -41765,7 +41765,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": 2
+      "IR": 1
     },
     "race": [
       "Sombra"
@@ -49147,7 +49147,7 @@
     "type": "Aliado",
     "cost": 1,
     "_legal": {
-      "IR": true
+      "IR": 2
     },
     "race": [
       "Faerie"
