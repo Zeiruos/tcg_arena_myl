@@ -1,0 +1,155 @@
+{
+  "edicion": {
+    "codigo": "TMP2",
+    "slug": "chile_oscuro_2",
+    "titulo": "Chile Oscuro 2",
+    "fecha_lanzamiento": null
+  },
+  "total_cartas": 12,
+  "cartas": [
+    {
+      "nombre": "La Rubia de Kennedy",
+      "tipo": "Aliado",
+      "raza": "Eterno/Faerie",
+      "coste": 1,
+      "fuerza": 2,
+      "edicion": "CHILE_OSCURO_2-001",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_01.png"
+    },
+    {
+      "nombre": "Yeti de Rengo",
+      "tipo": "Aliado",
+      "raza": "Bestia/Guerrero",
+      "coste": 1,
+      "fuerza": 2,
+      "edicion": "CHILE_OSCURO_2-003",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_03.png"
+    },
+    {
+      "nombre": "La Hora del Diablo",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "CHILE_OSCURO_2-006",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_06.png"
+    },
+    {
+      "nombre": "Fantasmas del Palacio",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "CHILE_OSCURO_2-007",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_07.png"
+    },
+    {
+      "nombre": "Abduccion del Cabo",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "CHILE_OSCURO_2-010",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_10.png"
+    },
+    {
+      "nombre": "Avistamientos",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "CHILE_OSCURO_2-011",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_11.png"
+    },
+    {
+      "nombre": "Contrato con Friendship",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "CHILE_OSCURO_2-013",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_13.png"
+    },
+    {
+      "nombre": "Cementerio General",
+      "tipo": "Totem",
+      "raza": null,
+      "coste": 2,
+      "fuerza": null,
+      "edicion": "CHILE_OSCURO_2-017",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_17.png"
+    },
+    {
+      "nombre": "La Ouija",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "CHILE_OSCURO_2-018",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_18.png"
+    },
+    {
+      "nombre": "Romualdito",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "CHILE_OSCURO_2-019",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_19.png"
+    },
+    {
+      "nombre": "Psicofonia",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "CHILE_OSCURO_2-020",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_20.png"
+    },
+    {
+      "nombre": "Sesion Espiritista",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "CHILE_OSCURO_2-021",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_21.png"
+    }
+  ]
+}

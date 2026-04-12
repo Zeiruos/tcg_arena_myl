@@ -49851,6 +49851,1042 @@
       "IMP - Kaiju vs Mecha - Titanes"
     ]
   },
+  "25-ANIVERSARIO_20": {
+    "id": "25-ANIVERSARIO_20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Colmillo de vampiro",
+        "type": "Oro",
+        "cost": 0,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/25-ANIVERSARIO_20.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Colmillo de vampiro",
+    "type": "Oro",
+    "cost": null,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "25 Aniversario"
+    ]
+  },
+  "25-ANIVERSARIO_22": {
+    "id": "25-ANIVERSARIO_22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gilgamesh el Paladin",
+        "type": "Aliado",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/25-ANIVERSARIO_22.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gilgamesh el Paladin",
+    "type": "Aliado",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [
+      "Caballero",
+      "Guerrero",
+      "Heroe"
+    ],
+    "rarity": "P",
+    "strength": 4,
+    "ability": "preventa",
+    "Set": [
+      "25 Aniversario"
+    ]
+  },
+  "25-ANIVERSARIO_23": {
+    "id": "25-ANIVERSARIO_23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Demonio Tenebris",
+        "type": "Aliado",
+        "cost": 3,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/25-ANIVERSARIO_23.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demonio Tenebris",
+    "type": "Aliado",
+    "cost": 3,
+    "_legal": {
+      "IR": true
+    },
+    "race": [
+      "Bestia",
+      "Dragón",
+      "Sombra"
+    ],
+    "rarity": "P",
+    "strength": 5,
+    "ability": "preventa",
+    "Set": [
+      "25 Aniversario"
+    ]
+  },
+  "25-ANIVERSARIO_24": {
+    "id": "25-ANIVERSARIO_24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Amazona Desafiante",
+        "type": "Aliado",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/25-ANIVERSARIO_24.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Amazona Desafiante",
+    "type": "Aliado",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [
+      "Eterno",
+      "Faerie",
+      "Sacerdote"
+    ],
+    "rarity": "P",
+    "strength": 2,
+    "ability": "preventa",
+    "Set": [
+      "25 Aniversario"
+    ]
+  },
+  "CHILE_OSCURO_2-001": {
+    "id": "CHILE_OSCURO_2-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "La Rubia de Kennedy",
+        "type": "Aliado",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_01.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "La Rubia de Kennedy",
+    "type": "Aliado",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [
+      "Eterno",
+      "Faerie"
+    ],
+    "rarity": "P",
+    "strength": 2,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-003": {
+    "id": "CHILE_OSCURO_2-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yeti de Rengo",
+        "type": "Aliado",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_03.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yeti de Rengo",
+    "type": "Aliado",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [
+      "Bestia",
+      "Guerrero"
+    ],
+    "rarity": "P",
+    "strength": 2,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-006": {
+    "id": "CHILE_OSCURO_2-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "La Hora del Diablo",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_06.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "La Hora del Diablo",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-007": {
+    "id": "CHILE_OSCURO_2-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fantasmas del Palacio",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_07.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fantasmas del Palacio",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-010": {
+    "id": "CHILE_OSCURO_2-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abduccion del Cabo",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_10.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abduccion del Cabo",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-011": {
+    "id": "CHILE_OSCURO_2-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Avistamientos",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_11.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Avistamientos",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-013": {
+    "id": "CHILE_OSCURO_2-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Contrato con Friendship",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_13.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Contrato con Friendship",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-017": {
+    "id": "CHILE_OSCURO_2-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cementerio General",
+        "type": "Totem",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_17.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cementerio General",
+    "type": "Totem",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-018": {
+    "id": "CHILE_OSCURO_2-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "La Ouija",
+        "type": "Oro",
+        "cost": 0,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_18.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "La Ouija",
+    "type": "Oro",
+    "cost": null,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-019": {
+    "id": "CHILE_OSCURO_2-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Romualdito",
+        "type": "Oro",
+        "cost": 0,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_19.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Romualdito",
+    "type": "Oro",
+    "cost": null,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-020": {
+    "id": "CHILE_OSCURO_2-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Psicofonia",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_20.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Psicofonia",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-021": {
+    "id": "CHILE_OSCURO_2-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sesion Espiritista",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_21.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sesion Espiritista",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "KVM_JO-001": {
+    "id": "KVM_JO-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soberbia",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soberbia",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "KVM JO"
+    ]
+  },
+  "KVM_JO-002": {
+    "id": "KVM_JO-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Avaricia",
+        "type": "Talisman",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Avaricia",
+    "type": "Talisman",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "KVM JO"
+    ]
+  },
+  "KVM_JO-003": {
+    "id": "KVM_JO-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lujuria",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lujuria",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "KVM JO"
+    ]
+  },
+  "KVM_JO-004": {
+    "id": "KVM_JO-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ira",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ira",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "KVM JO"
+    ]
+  },
+  "KVM_JO-005": {
+    "id": "KVM_JO-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gula",
+        "type": "Talisman",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-5.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gula",
+    "type": "Talisman",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "KVM JO"
+    ]
+  },
+  "KVM_JO-006": {
+    "id": "KVM_JO-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pereza",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-6.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pereza",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "KVM JO"
+    ]
+  },
+  "KVM_JO-007": {
+    "id": "KVM_JO-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Envidia",
+        "type": "Talisman",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Envidia",
+    "type": "Talisman",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "KVM JO"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-009": {
+    "id": "TOOLKIT_26_IMPERIO-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dia de Los Muertos",
+        "type": "Talisman",
+        "cost": 7,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio9.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dia de Los Muertos",
+    "type": "Talisman",
+    "cost": 7,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-010": {
+    "id": "TOOLKIT_26_IMPERIO-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iluminar el Camino",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio10.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iluminar el Camino",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-011": {
+    "id": "TOOLKIT_26_IMPERIO-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tamales",
+        "type": "Oro",
+        "cost": 0,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio11.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tamales",
+    "type": "Oro",
+    "cost": null,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "OroInicial.preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-013": {
+    "id": "TOOLKIT_26_IMPERIO-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "La Catrina",
+        "type": "Aliado",
+        "cost": 3,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio13.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "La Catrina",
+    "type": "Aliado",
+    "cost": 3,
+    "_legal": {
+      "IR": true
+    },
+    "race": [
+      "Sin Raza"
+    ],
+    "rarity": "P",
+    "strength": 2,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-014": {
+    "id": "TOOLKIT_26_IMPERIO-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ofrenda a Los Abuelos",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio14.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ofrenda a Los Abuelos",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-016": {
+    "id": "TOOLKIT_26_IMPERIO-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guadaña de Santa Muerte",
+        "type": "Arma",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio16.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guadaña de Santa Muerte",
+    "type": "Arma",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-017": {
+    "id": "TOOLKIT_26_IMPERIO-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altar De Muertos",
+        "type": "Totem",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio17.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Altar De Muertos",
+    "type": "Totem",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-022": {
+    "id": "TOOLKIT_26_IMPERIO-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ritual Vudu",
+        "type": "Talisman",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio22.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ritual Vudu",
+    "type": "Talisman",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-023": {
+    "id": "TOOLKIT_26_IMPERIO-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rito de Pontchartrain",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio23.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rito de Pontchartrain",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-025": {
+    "id": "TOOLKIT_26_IMPERIO-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Muñeco Vudu",
+        "type": "Oro",
+        "cost": 0,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio25.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Muñeco Vudu",
+    "type": "Oro",
+    "cost": null,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-026": {
+    "id": "TOOLKIT_26_IMPERIO-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Papa Legba",
+        "type": "Aliado",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio26.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Papa Legba",
+    "type": "Aliado",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [
+      "Sin Raza"
+    ],
+    "rarity": "P",
+    "strength": 4,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-027": {
+    "id": "TOOLKIT_26_IMPERIO-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Contactar Ancestros",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio27.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Contactar Ancestros",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-028": {
+    "id": "TOOLKIT_26_IMPERIO-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maldicion Vudu",
+        "type": "Talisman",
+        "cost": 0,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio28.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maldicion Vudu",
+    "type": "Talisman",
+    "cost": 0,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-032": {
+    "id": "TOOLKIT_26_IMPERIO-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Medalla de Santa Muerte",
+        "type": "Oro",
+        "cost": 0,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio32.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medalla de Santa Muerte",
+    "type": "Oro",
+    "cost": null,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-033": {
+    "id": "TOOLKIT_26_IMPERIO-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Medalla de Papa Legba",
+        "type": "Oro",
+        "cost": 0,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio33.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medalla de Papa Legba",
+    "type": "Oro",
+    "cost": null,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-036": {
+    "id": "TOOLKIT_26_IMPERIO-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Levantar Zombi",
+        "type": "Talisman",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio36.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Levantar Zombi",
+    "type": "Talisman",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
   "ORO_VIRTUAL": {
     "id": "ORO_VIRTUAL",
     "isToken": true,

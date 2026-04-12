@@ -1,0 +1,203 @@
+{
+  "edicion": {
+    "codigo": "TMP4",
+    "slug": "toolkit_26_imperio",
+    "titulo": "Toolkit 26 Imperio",
+    "fecha_lanzamiento": null
+  },
+  "total_cartas": 16,
+  "cartas": [
+    {
+      "nombre": "Dia de Los Muertos",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 7,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-009",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio9.png"
+    },
+    {
+      "nombre": "Iluminar el Camino",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-010",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio10.png"
+    },
+    {
+      "nombre": "Tamales",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-011",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Oro Inicial. preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio11.png"
+    },
+    {
+      "nombre": "La Catrina",
+      "tipo": "Aliado",
+      "raza": null,
+      "coste": 3,
+      "fuerza": 2,
+      "edicion": "TOOLKIT_26_IMPERIO-013",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio13.png"
+    },
+    {
+      "nombre": "Ofrenda a Los Abuelos",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-014",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio14.png"
+    },
+    {
+      "nombre": "Guadaña de Santa Muerte",
+      "tipo": "Arma",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-016",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio16.png"
+    },
+    {
+      "nombre": "Altar De Muertos",
+      "tipo": "Totem",
+      "raza": null,
+      "coste": 2,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-017",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio17.png"
+    },
+    {
+      "nombre": "Ritual Vudu",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 2,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-022",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio22.png"
+    },
+    {
+      "nombre": "Rito de Pontchartrain",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-023",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio23.png"
+    },
+    {
+      "nombre": "Muñeco Vudu",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-025",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio25.png"
+    },
+    {
+      "nombre": "Papa Legba",
+      "tipo": "Aliado",
+      "raza": null,
+      "coste": 1,
+      "fuerza": 4,
+      "edicion": "TOOLKIT_26_IMPERIO-026",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio26.png"
+    },
+    {
+      "nombre": "Contactar Ancestros",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-027",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio27.png"
+    },
+    {
+      "nombre": "Maldicion Vudu",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 0,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-028",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio28.png"
+    },
+    {
+      "nombre": "Medalla de Santa Muerte",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-032",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio32.png"
+    },
+    {
+      "nombre": "Medalla de Papa Legba",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-033",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio33.png"
+    },
+    {
+      "nombre": "Levantar Zombi",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-036",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio36.png"
+    }
+  ]
+}

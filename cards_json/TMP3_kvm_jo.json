@@ -1,0 +1,95 @@
+{
+  "edicion": {
+    "codigo": "TMP3",
+    "slug": "kvm_jo",
+    "titulo": "KVM JO",
+    "fecha_lanzamiento": null
+  },
+  "total_cartas": 7,
+  "cartas": [
+    {
+      "nombre": "Soberbia",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "KVM_JO-001",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-1.png"
+    },
+    {
+      "nombre": "Avaricia",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 2,
+      "fuerza": null,
+      "edicion": "KVM_JO-002",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-2.png"
+    },
+    {
+      "nombre": "Lujuria",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "KVM_JO-003",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-3.png"
+    },
+    {
+      "nombre": "Ira",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "KVM_JO-004",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-4.png"
+    },
+    {
+      "nombre": "Gula",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 2,
+      "fuerza": null,
+      "edicion": "KVM_JO-005",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-5.png"
+    },
+    {
+      "nombre": "Pereza",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "KVM_JO-006",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-6.png"
+    },
+    {
+      "nombre": "Envidia",
+      "tipo": "Talisman",
+      "raza": null,
+      "coste": 2,
+      "fuerza": null,
+      "edicion": "KVM_JO-007",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-7.png"
+    }
+  ]
+}

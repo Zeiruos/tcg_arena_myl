@@ -1,0 +1,59 @@
+{
+  "edicion": {
+    "codigo": "TMP1",
+    "slug": "aniversario_2025",
+    "titulo": "25 Aniversario",
+    "fecha_lanzamiento": null
+  },
+  "total_cartas": 4,
+  "cartas": [
+    {
+      "nombre": "Colmillo de vampiro",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "25-ANIVERSARIO_20",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/25-ANIVERSARIO_20.png"
+    },
+    {
+      "nombre": "Gilgamesh el Paladin",
+      "tipo": "Aliado",
+      "raza": "Caballero/Guerrero/Heroe",
+      "coste": 2,
+      "fuerza": 4,
+      "edicion": "25-ANIVERSARIO_22",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/25-ANIVERSARIO_22.png"
+    },
+    {
+      "nombre": "Demonio Tenebris",
+      "tipo": "Aliado",
+      "raza": "Bestia/Dragon/Sombra",
+      "coste": 3,
+      "fuerza": 5,
+      "edicion": "25-ANIVERSARIO_23",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/25-ANIVERSARIO_23.png"
+    },
+    {
+      "nombre": "Amazona Desafiante",
+      "tipo": "Aliado",
+      "raza": "Eterno/Faerie/Sacerdote",
+      "coste": 2,
+      "fuerza": 2,
+      "edicion": "25-ANIVERSARIO_24",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/25-ANIVERSARIO_24.png"
+    }
+  ]
+}
