@@ -31,12 +31,19 @@ REPLACE_OUTPUT = "myl_card_list.json"
 # Known races for splitting compound race strings
 KNOWN_RACES = [
     "Bestia", "Caballero", "Dragón", "Dragon", "Eterno",
-    "Faerie", "Guerrero", "Héroe", "Sacerdote", "Sombra",
+    "Faerie", "Guerrero", "Héroe", "Heroe", "Sacerdote", "Sombra",
 ]
 
 # Fix known typos in source data: source_value -> corrected_value
 RACE_FIXES = {
     "Dragon": "Dragón",
+    "Heroe": "Héroe",
+}
+
+# Fix known typos in card types
+TYPE_FIXES = {
+    "Talisman": "Talismán",
+    "Totem": "Tótem",
 }
 
 # Gold generation patterns in ability text (no spaces, as stored)
@@ -149,7 +156,7 @@ def transform_card(source_card, set_title, banlist):
     """Transform a single source card to TCG Arena format."""
     card_id = source_card["edicion"]
     nombre = source_card["nombre"]
-    tipo = source_card["tipo"]
+    tipo = TYPE_FIXES.get(source_card["tipo"], source_card["tipo"])
     raza = source_card.get("raza")
     coste = source_card.get("coste")
     fuerza = source_card.get("fuerza")

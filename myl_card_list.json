@@ -49898,7 +49898,7 @@
     "race": [
       "Caballero",
       "Guerrero",
-      "Heroe"
+      "Héroe"
     ],
     "rarity": "P",
     "strength": 4,
@@ -50031,14 +50031,14 @@
     "face": {
       "front": {
         "name": "La Hora del Diablo",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_06.png",
         "isHorizontal": false
       }
     },
     "name": "La Hora del Diablo",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50057,14 +50057,14 @@
     "face": {
       "front": {
         "name": "Fantasmas del Palacio",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_07.png",
         "isHorizontal": false
       }
     },
     "name": "Fantasmas del Palacio",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50083,14 +50083,14 @@
     "face": {
       "front": {
         "name": "Abduccion del Cabo",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_10.png",
         "isHorizontal": false
       }
     },
     "name": "Abduccion del Cabo",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50109,14 +50109,14 @@
     "face": {
       "front": {
         "name": "Avistamientos",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_11.png",
         "isHorizontal": false
       }
     },
     "name": "Avistamientos",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50135,14 +50135,14 @@
     "face": {
       "front": {
         "name": "Contrato con Friendship",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_13.png",
         "isHorizontal": false
       }
     },
     "name": "Contrato con Friendship",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50161,14 +50161,14 @@
     "face": {
       "front": {
         "name": "Cementerio General",
-        "type": "Totem",
+        "type": "Tótem",
         "cost": 2,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_17.png",
         "isHorizontal": false
       }
     },
     "name": "Cementerio General",
-    "type": "Totem",
+    "type": "Tótem",
     "cost": 2,
     "_legal": {
       "IR": true
@@ -50239,14 +50239,14 @@
     "face": {
       "front": {
         "name": "Psicofonia",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_20.png",
         "isHorizontal": false
       }
     },
     "name": "Psicofonia",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50265,14 +50265,14 @@
     "face": {
       "front": {
         "name": "Sesion Espiritista",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_21.png",
         "isHorizontal": false
       }
     },
     "name": "Sesion Espiritista",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50291,14 +50291,14 @@
     "face": {
       "front": {
         "name": "Soberbia",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-1.png",
         "isHorizontal": false
       }
     },
     "name": "Soberbia",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50317,14 +50317,14 @@
     "face": {
       "front": {
         "name": "Avaricia",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 2,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-2.png",
         "isHorizontal": false
       }
     },
     "name": "Avaricia",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 2,
     "_legal": {
       "IR": true
@@ -50343,14 +50343,14 @@
     "face": {
       "front": {
         "name": "Lujuria",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-3.png",
         "isHorizontal": false
       }
     },
     "name": "Lujuria",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50369,14 +50369,14 @@
     "face": {
       "front": {
         "name": "Ira",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-4.png",
         "isHorizontal": false
       }
     },
     "name": "Ira",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50395,14 +50395,14 @@
     "face": {
       "front": {
         "name": "Gula",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 2,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-5.png",
         "isHorizontal": false
       }
     },
     "name": "Gula",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 2,
     "_legal": {
       "IR": true
@@ -50421,14 +50421,14 @@
     "face": {
       "front": {
         "name": "Pereza",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-6.png",
         "isHorizontal": false
       }
     },
     "name": "Pereza",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50447,14 +50447,14 @@
     "face": {
       "front": {
         "name": "Envidia",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 2,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-7.png",
         "isHorizontal": false
       }
     },
     "name": "Envidia",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 2,
     "_legal": {
       "IR": true
@@ -50473,14 +50473,14 @@
     "face": {
       "front": {
         "name": "Dia de Los Muertos",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 7,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio9.png",
         "isHorizontal": false
       }
     },
     "name": "Dia de Los Muertos",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 7,
     "_legal": {
       "IR": true
@@ -50499,14 +50499,14 @@
     "face": {
       "front": {
         "name": "Iluminar el Camino",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio10.png",
         "isHorizontal": false
       }
     },
     "name": "Iluminar el Camino",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50579,14 +50579,14 @@
     "face": {
       "front": {
         "name": "Ofrenda a Los Abuelos",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio14.png",
         "isHorizontal": false
       }
     },
     "name": "Ofrenda a Los Abuelos",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50631,14 +50631,14 @@
     "face": {
       "front": {
         "name": "Altar De Muertos",
-        "type": "Totem",
+        "type": "Tótem",
         "cost": 2,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio17.png",
         "isHorizontal": false
       }
     },
     "name": "Altar De Muertos",
-    "type": "Totem",
+    "type": "Tótem",
     "cost": 2,
     "_legal": {
       "IR": true
@@ -50657,14 +50657,14 @@
     "face": {
       "front": {
         "name": "Ritual Vudu",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 2,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio22.png",
         "isHorizontal": false
       }
     },
     "name": "Ritual Vudu",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 2,
     "_legal": {
       "IR": true
@@ -50683,14 +50683,14 @@
     "face": {
       "front": {
         "name": "Rito de Pontchartrain",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio23.png",
         "isHorizontal": false
       }
     },
     "name": "Rito de Pontchartrain",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50763,14 +50763,14 @@
     "face": {
       "front": {
         "name": "Contactar Ancestros",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio27.png",
         "isHorizontal": false
       }
     },
     "name": "Contactar Ancestros",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true
@@ -50789,14 +50789,14 @@
     "face": {
       "front": {
         "name": "Maldicion Vudu",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 0,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio28.png",
         "isHorizontal": false
       }
     },
     "name": "Maldicion Vudu",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 0,
     "_legal": {
       "IR": true
@@ -50867,14 +50867,14 @@
     "face": {
       "front": {
         "name": "Levantar Zombi",
-        "type": "Talisman",
+        "type": "Talismán",
         "cost": 1,
         "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio36.png",
         "isHorizontal": false
       }
     },
     "name": "Levantar Zombi",
-    "type": "Talisman",
+    "type": "Talismán",
     "cost": 1,
     "_legal": {
       "IR": true

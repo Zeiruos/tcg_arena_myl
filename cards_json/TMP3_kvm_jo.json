@@ -9,7 +9,7 @@
   "cartas": [
     {
       "nombre": "Soberbia",
-      "tipo": "Talisman",
+      "tipo": "Talismán",
       "raza": null,
       "coste": 1,
       "fuerza": null,
@@ -21,7 +21,7 @@
     },
     {
       "nombre": "Avaricia",
-      "tipo": "Talisman",
+      "tipo": "Talismán",
       "raza": null,
       "coste": 2,
       "fuerza": null,
@@ -33,7 +33,7 @@
     },
     {
       "nombre": "Lujuria",
-      "tipo": "Talisman",
+      "tipo": "Talismán",
       "raza": null,
       "coste": 1,
       "fuerza": null,
@@ -45,7 +45,7 @@
     },
     {
       "nombre": "Ira",
-      "tipo": "Talisman",
+      "tipo": "Talismán",
       "raza": null,
       "coste": 1,
       "fuerza": null,
@@ -57,7 +57,7 @@
     },
     {
       "nombre": "Gula",
-      "tipo": "Talisman",
+      "tipo": "Talismán",
       "raza": null,
       "coste": 2,
       "fuerza": null,
@@ -69,7 +69,7 @@
     },
     {
       "nombre": "Pereza",
-      "tipo": "Talisman",
+      "tipo": "Talismán",
       "raza": null,
       "coste": 1,
       "fuerza": null,
@@ -81,7 +81,7 @@
     },
     {
       "nombre": "Envidia",
-      "tipo": "Talisman",
+      "tipo": "Talismán",
       "raza": null,
       "coste": 2,
       "fuerza": null,
