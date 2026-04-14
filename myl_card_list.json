@@ -399,7 +399,7 @@
     },
     "name": "Armadura Imperial",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -859,7 +859,7 @@
     },
     "name": "Cinco Anillos",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -885,7 +885,7 @@
     },
     "name": "Koto",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -1041,7 +1041,7 @@
     },
     "name": "Cinco Anillos",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -2138,7 +2138,7 @@
     },
     "name": "Torii",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": 1
     },
@@ -2164,7 +2164,7 @@
     },
     "name": "Onsen",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -2190,7 +2190,7 @@
     },
     "name": "Tsuba",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -3235,7 +3235,7 @@
     },
     "name": "Ofuda",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": 50
     },
@@ -3261,7 +3261,7 @@
     },
     "name": "Kamidana",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -3287,7 +3287,7 @@
     },
     "name": "Tambor Daiko",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -4332,7 +4332,7 @@
     },
     "name": "Kagura Suzu",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -4358,7 +4358,7 @@
     },
     "name": "Dotaku",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -4384,7 +4384,7 @@
     },
     "name": "Shamisen",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -4410,7 +4410,7 @@
     },
     "name": "Ukiyo-E",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -4436,7 +4436,7 @@
     },
     "name": "Otoko-E",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -4462,7 +4462,7 @@
     },
     "name": "Haiku",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -4488,7 +4488,7 @@
     },
     "name": "Renga",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -4514,7 +4514,7 @@
     },
     "name": "Onna-E",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -4844,7 +4844,7 @@
     },
     "name": "Regalia Imperial",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -4922,7 +4922,7 @@
     },
     "name": "Teatro Kabuki",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -5130,7 +5130,7 @@
     },
     "name": "Menpo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -5286,7 +5286,7 @@
     },
     "name": "Incienso Sagrado",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -5732,7 +5732,7 @@
     },
     "name": "Regalo Maldito",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -5758,7 +5758,7 @@
     },
     "name": "Sake",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -5888,7 +5888,7 @@
     },
     "name": "Mascara Noh",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -5940,7 +5940,7 @@
     },
     "name": "Karesansui",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -5992,7 +5992,7 @@
     },
     "name": "Biwa",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -6368,7 +6368,7 @@
     },
     "name": "Ankh",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -6446,7 +6446,7 @@
     },
     "name": "Don De Amma",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -6721,7 +6721,7 @@
     },
     "name": "Kokudaka",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -7870,7 +7870,7 @@
     },
     "name": "Ofuda",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": 50
     },
@@ -7896,7 +7896,7 @@
     },
     "name": "Kamidana",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -7922,7 +7922,7 @@
     },
     "name": "Tambor Daiko",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -8967,7 +8967,7 @@
     },
     "name": "Kagura Suzu",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -8993,7 +8993,7 @@
     },
     "name": "Dotaku",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -9019,7 +9019,7 @@
     },
     "name": "Shamisen",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -9045,7 +9045,7 @@
     },
     "name": "Ukiyo-E",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -9071,7 +9071,7 @@
     },
     "name": "Otoko-E",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -9097,7 +9097,7 @@
     },
     "name": "Haiku",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -9123,7 +9123,7 @@
     },
     "name": "Renga",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -9149,7 +9149,7 @@
     },
     "name": "Onna-E",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -9887,7 +9887,7 @@
     },
     "name": "Fuente De Ladurum",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -9991,7 +9991,7 @@
     },
     "name": "Animita",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -10069,7 +10069,7 @@
     },
     "name": "Nombre De Horus",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -10611,7 +10611,7 @@
     },
     "name": "Espiritu De La Maquina",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -10666,7 +10666,7 @@
     },
     "name": "Nombre De Horus",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -10796,7 +10796,7 @@
     },
     "name": "Animita",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -11237,7 +11237,7 @@
     },
     "name": "Signo Amarillo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -11700,7 +11700,7 @@
     },
     "name": "Tyet",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -11726,7 +11726,7 @@
     },
     "name": "Lagrima Del Dragon",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -11832,7 +11832,7 @@
     },
     "name": "Signo Amarillo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -12978,7 +12978,7 @@
     },
     "name": "Esquirla Del Latigo Salvaje",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -13004,7 +13004,7 @@
     },
     "name": "Piedra Alatyr",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -13030,7 +13030,7 @@
     },
     "name": "Libro De Thoth",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -14075,7 +14075,7 @@
     },
     "name": "Palo Del Caos",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -14101,7 +14101,7 @@
     },
     "name": "Hito Del Valor",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -14127,7 +14127,7 @@
     },
     "name": "Reliquia Divina",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -15169,7 +15169,7 @@
     },
     "name": "Colmillo Arcano",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -15195,7 +15195,7 @@
     },
     "name": "Gema Del Grifo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -15221,7 +15221,7 @@
     },
     "name": "Amuleto De Cazador",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -15532,7 +15532,7 @@
     },
     "name": "Lagrima Del Dragon",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -15558,7 +15558,7 @@
     },
     "name": "Tyet",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -16784,7 +16784,7 @@
     },
     "name": "Palo Del Caos",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -16810,7 +16810,7 @@
     },
     "name": "Hito Del Valor",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -16836,7 +16836,7 @@
     },
     "name": "Reliquia Divina",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -17878,7 +17878,7 @@
     },
     "name": "Colmillo Arcano",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -17904,7 +17904,7 @@
     },
     "name": "Gema Del Grifo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -17930,7 +17930,7 @@
     },
     "name": "Amuleto De Cazador",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18320,7 +18320,7 @@
     },
     "name": "Hidromiel",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18450,7 +18450,7 @@
     },
     "name": "Huitzilin",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18476,7 +18476,7 @@
     },
     "name": "Camino Del Inca",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18502,7 +18502,7 @@
     },
     "name": "Hervidero De Sangre",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": 1
     },
@@ -18528,7 +18528,7 @@
     },
     "name": "Compendium Maleficarum",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18554,7 +18554,7 @@
     },
     "name": "Santa Diestra",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18580,7 +18580,7 @@
     },
     "name": "Tetramorfo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18606,7 +18606,7 @@
     },
     "name": "Salmon Del Saber",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18632,7 +18632,7 @@
     },
     "name": "Carro De Sol",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18658,7 +18658,7 @@
     },
     "name": "Yelmo Jepresh",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18684,7 +18684,7 @@
     },
     "name": "Legion De Honor",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18710,7 +18710,7 @@
     },
     "name": "Flor De Lis",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18736,7 +18736,7 @@
     },
     "name": "Guitarra Morisca",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18762,7 +18762,7 @@
     },
     "name": "Directorium Inquisitorum",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18788,7 +18788,7 @@
     },
     "name": "Grimorio",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18814,7 +18814,7 @@
     },
     "name": "Was",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18840,7 +18840,7 @@
     },
     "name": "Udjat",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18866,7 +18866,7 @@
     },
     "name": "Hem Hem Real",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18892,7 +18892,7 @@
     },
     "name": "Abu Simbel",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -18918,7 +18918,7 @@
     },
     "name": "Onsen",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -19256,7 +19256,7 @@
     },
     "name": "Bestiarium 2024",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -19386,7 +19386,7 @@
     },
     "name": "Anillo De Claridad",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -19516,7 +19516,7 @@
     },
     "name": "Cuernos Del Inmortal",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -19542,7 +19542,7 @@
     },
     "name": "Cabeza De Mimir",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -19620,7 +19620,7 @@
     },
     "name": "Frasco Canopico",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -19910,7 +19910,7 @@
     },
     "name": "Trapezoedro",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -20101,7 +20101,7 @@
     },
     "name": "Armadura Imperial",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -20127,7 +20127,7 @@
     },
     "name": "Koto",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -20179,7 +20179,7 @@
     },
     "name": "Ankh",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -20311,7 +20311,7 @@
     },
     "name": "Piedra Del Chaman",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -20523,7 +20523,7 @@
     },
     "name": "Signo Amarillo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -20657,7 +20657,7 @@
     },
     "name": "Anillo De Invisibilidad",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -20735,7 +20735,7 @@
     },
     "name": "Amuleto De Bendang Sari",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -20936,7 +20936,7 @@
     },
     "name": "Armadura Imperial",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -20962,7 +20962,7 @@
     },
     "name": "Parche Pirata",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -21066,7 +21066,7 @@
     },
     "name": "Tabla Isiaca",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -21118,7 +21118,7 @@
     },
     "name": "Tetramorfo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -21170,7 +21170,7 @@
     },
     "name": "Piramide Roja",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -21352,7 +21352,7 @@
     },
     "name": "Cena Navidea",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -21838,7 +21838,7 @@
     },
     "name": "La Estrella",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -21864,7 +21864,7 @@
     },
     "name": "Pulsera De Energia",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -22138,7 +22138,7 @@
     },
     "name": "Medallon De Piedra",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -22350,7 +22350,7 @@
     },
     "name": "Amuleto De Thor",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -22428,7 +22428,7 @@
     },
     "name": "Parche Pirata",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -22558,7 +22558,7 @@
     },
     "name": "Bifrost",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -22916,7 +22916,7 @@
     },
     "name": "Cabeza De Mimir",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -22942,7 +22942,7 @@
     },
     "name": "Laterna",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -22968,7 +22968,7 @@
     },
     "name": "Fuente De La Juventud",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -22994,7 +22994,7 @@
     },
     "name": "Aegishjalmur",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -23020,7 +23020,7 @@
     },
     "name": "Don De Amma",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -23046,7 +23046,7 @@
     },
     "name": "Torii",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": 1
     },
@@ -23072,7 +23072,7 @@
     },
     "name": "Alicanto",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -23098,7 +23098,7 @@
     },
     "name": "Was",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -23776,7 +23776,7 @@
     },
     "name": "Cabeza De Mimir",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -23802,7 +23802,7 @@
     },
     "name": "Laterna",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -23828,7 +23828,7 @@
     },
     "name": "Fuente De La Juventud",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -23854,7 +23854,7 @@
     },
     "name": "Aegishjalmur",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -23880,7 +23880,7 @@
     },
     "name": "Don De Amma",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -23906,7 +23906,7 @@
     },
     "name": "Torii",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": 1
     },
@@ -23932,7 +23932,7 @@
     },
     "name": "Alicanto",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -23958,7 +23958,7 @@
     },
     "name": "Was",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -25005,7 +25005,7 @@
     },
     "name": "Dracula",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -25031,7 +25031,7 @@
     },
     "name": "Dracula",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -25057,7 +25057,7 @@
     },
     "name": "Alicia En El Pais De Las Maravillas",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -25083,7 +25083,7 @@
     },
     "name": "Frankenstein O El Nuevo Prometeo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -25572,7 +25572,7 @@
     },
     "name": "Las Aventuras De Alicia En El Pais De Las Maravillas",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -25598,7 +25598,7 @@
     },
     "name": "Frankenstein O El Moderno Prometeo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -25624,7 +25624,7 @@
     },
     "name": "En Las Montaas De La Locura",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -25650,7 +25650,7 @@
     },
     "name": "Viaje Al Centro De La Tierra",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -25676,7 +25676,7 @@
     },
     "name": "Las Aventuras De Sherlock Holmes",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -26695,7 +26695,7 @@
     },
     "name": "En Las Montaas De La Locura",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -26721,7 +26721,7 @@
     },
     "name": "Un Viaje Al Centro De La Tierra",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -26747,7 +26747,7 @@
     },
     "name": "Las Aventuras De Sherlock Holmes",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -26773,7 +26773,7 @@
     },
     "name": "Veinte Mil Leguas De Viaje Submarino",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -26799,7 +26799,7 @@
     },
     "name": "La Isla Del Tesoro",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -27847,7 +27847,7 @@
     },
     "name": "El Cuervo Y Otros Poemas",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -27873,7 +27873,7 @@
     },
     "name": "Veinte Mil Leguas De Viaje Submarino",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -27899,7 +27899,7 @@
     },
     "name": "La Isla Del Tesoro",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -28941,7 +28941,7 @@
     },
     "name": "El Mundo Perdido",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -28967,7 +28967,7 @@
     },
     "name": "La Isla Del Doctor Moreau",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -28996,7 +28996,7 @@
     },
     "name": "El Ultimo Hombre",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -30563,7 +30563,7 @@
     },
     "name": "El Cuervo Y Otros Poemas",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -30589,7 +30589,7 @@
     },
     "name": "Veinte Mil Leguas De Viaje Submarino",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -30615,7 +30615,7 @@
     },
     "name": "La Isla Del Tesoro",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -31657,7 +31657,7 @@
     },
     "name": "El Mundo Perdido",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -31683,7 +31683,7 @@
     },
     "name": "La Isla Del Doctor Moreau",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -31712,7 +31712,7 @@
     },
     "name": "El Ultimo Hombre",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32558,7 +32558,7 @@
     },
     "name": "Huitzilin",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32584,7 +32584,7 @@
     },
     "name": "Camino Del Inca",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32610,7 +32610,7 @@
     },
     "name": "Hervidero De Sangre",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": 1
     },
@@ -32636,7 +32636,7 @@
     },
     "name": "Compendium Maleficarum",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32662,7 +32662,7 @@
     },
     "name": "Santa Diestra",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32688,7 +32688,7 @@
     },
     "name": "Tetramorfo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32714,7 +32714,7 @@
     },
     "name": "Salmon Del Saber",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32740,7 +32740,7 @@
     },
     "name": "Carro De Sol",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32766,7 +32766,7 @@
     },
     "name": "Yelmo Jepresh",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32792,7 +32792,7 @@
     },
     "name": "Legion De Honor",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32818,7 +32818,7 @@
     },
     "name": "Flor De Lis",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32844,7 +32844,7 @@
     },
     "name": "Guitarra Morisca",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32870,7 +32870,7 @@
     },
     "name": "Directorium Inquisitorum",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32896,7 +32896,7 @@
     },
     "name": "Grimorio",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32922,7 +32922,7 @@
     },
     "name": "Was",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32948,7 +32948,7 @@
     },
     "name": "Udjat",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -32974,7 +32974,7 @@
     },
     "name": "Hem Hem Real",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -33000,7 +33000,7 @@
     },
     "name": "Abu Simbel",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -33026,7 +33026,7 @@
     },
     "name": "Onsen",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -33052,7 +33052,7 @@
     },
     "name": "Hidromiel",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -33078,7 +33078,7 @@
     },
     "name": "Onyria",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -33212,7 +33212,7 @@
     },
     "name": "Dulce Canasta",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -33346,7 +33346,7 @@
     },
     "name": "Espejo Magico",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -33452,7 +33452,7 @@
     },
     "name": "Nombre De Horus",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -33987,7 +33987,7 @@
     },
     "name": "Zapatillas Rojas",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -34013,7 +34013,7 @@
     },
     "name": "Huevos De Oro",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -34449,7 +34449,7 @@
     },
     "name": "Biblioteca De Caballeria",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -34643,7 +34643,7 @@
     },
     "name": "Miguel De Cervantes",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -34672,7 +34672,7 @@
     },
     "name": "Necronomicon",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -34698,7 +34698,7 @@
     },
     "name": "Trofeo De Cazador",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -34920,7 +34920,7 @@
     },
     "name": "Animita",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -34946,7 +34946,7 @@
     },
     "name": "Don De Amma",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -34998,7 +34998,7 @@
     },
     "name": "Abu Simbel",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -35493,7 +35493,7 @@
     },
     "name": "Escarapela Nacional",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -36078,7 +36078,7 @@
     },
     "name": "Tesoro De Los Cesares",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": 1
     },
@@ -36104,7 +36104,7 @@
     },
     "name": "Aurora De Chile",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -37339,7 +37339,7 @@
     },
     "name": "Tesoro De La Marquesa",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -37365,7 +37365,7 @@
     },
     "name": "Monitor Araucano",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -37394,7 +37394,7 @@
     },
     "name": "Levisterio",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": 1
     },
@@ -38526,7 +38526,7 @@
     },
     "name": "Garrote Vil",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -38552,7 +38552,7 @@
     },
     "name": "Kultrung",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -38578,7 +38578,7 @@
     },
     "name": "Tesoro Del Santiaguillo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -39623,7 +39623,7 @@
     },
     "name": "Trapelacucha",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -39649,7 +39649,7 @@
     },
     "name": "Peral Encantado",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -39675,7 +39675,7 @@
     },
     "name": "Campana Hundida",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -40201,7 +40201,7 @@
     },
     "name": "Escudo Nacional",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": 50
     },
@@ -40227,7 +40227,7 @@
     },
     "name": "Libertadores",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -40307,7 +40307,7 @@
     },
     "name": "Chupilca Del Diablo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -40443,7 +40443,7 @@
     },
     "name": "Salitre",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -40707,7 +40707,7 @@
     },
     "name": "La Estrella Solitaria",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -40733,7 +40733,7 @@
     },
     "name": "Cruz De Borgoa",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -40759,7 +40759,7 @@
     },
     "name": "Patria Vieja",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -40785,7 +40785,7 @@
     },
     "name": "Primer Escudo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -40863,7 +40863,7 @@
     },
     "name": "Arpon Sagrado",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -41165,7 +41165,7 @@
     },
     "name": "Pintura Sagrada",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -41243,7 +41243,7 @@
     },
     "name": "Manu Tara",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -41545,7 +41545,7 @@
     },
     "name": "Tukuturi",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -41571,7 +41571,7 @@
     },
     "name": "Cristo De Mayo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -41791,7 +41791,7 @@
     },
     "name": "Tyet",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -41869,7 +41869,7 @@
     },
     "name": "Dracula",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -41973,7 +41973,7 @@
     },
     "name": "Empanada",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -42051,7 +42051,7 @@
     },
     "name": "Pebre",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -42245,7 +42245,7 @@
     },
     "name": "Estrella De Kirin",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -42271,7 +42271,7 @@
     },
     "name": "Diadema Celestial",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -43074,7 +43074,7 @@
     },
     "name": "Estrella De Kirin",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -43100,7 +43100,7 @@
     },
     "name": "Diadema Celestial",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -43614,7 +43614,7 @@
     },
     "name": "Perla De Sangre",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -43640,7 +43640,7 @@
     },
     "name": "Crono Diamante",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -43666,7 +43666,7 @@
     },
     "name": "Dracula",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -43692,7 +43692,7 @@
     },
     "name": "Signo Amarillo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -44719,7 +44719,7 @@
     },
     "name": "Mente Suprema",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -44745,7 +44745,7 @@
     },
     "name": "Terminal P-12",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -44771,7 +44771,7 @@
     },
     "name": "Muro De Los Caidos",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -44797,7 +44797,7 @@
     },
     "name": "Craneo De Duvel",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -44823,7 +44823,7 @@
     },
     "name": "Amuleto Indibi",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -45639,7 +45639,7 @@
     },
     "name": "Quantum Megumi",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -46455,7 +46455,7 @@
     },
     "name": "Cerebelum",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -47271,7 +47271,7 @@
     },
     "name": "Quantum Megumi",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -48087,7 +48087,7 @@
     },
     "name": "Cerebelum",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -48113,7 +48113,7 @@
     },
     "name": "Kaiju Vs Mecha Titanes",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -48191,7 +48191,7 @@
     },
     "name": "Embrion Titan",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -48217,7 +48217,7 @@
     },
     "name": "Argos",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -48349,7 +48349,7 @@
     },
     "name": "Belta",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -48481,7 +48481,7 @@
     },
     "name": "Lycon",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -48507,7 +48507,7 @@
     },
     "name": "Lagrima De Dragon",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -48559,7 +48559,7 @@
     },
     "name": "Biblioteca De Caballeria",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -48717,7 +48717,7 @@
     },
     "name": "Matriz V",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -48959,7 +48959,7 @@
     },
     "name": "Pallax",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -49037,7 +49037,7 @@
     },
     "name": "Piedra Del Chaman",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -49063,7 +49063,7 @@
     },
     "name": "Corazon De Muerte",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -49305,7 +49305,7 @@
     },
     "name": "Bullnax",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -49383,7 +49383,7 @@
     },
     "name": "Frankenstein O El Moderno Prometeo",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -49735,7 +49735,7 @@
     },
     "name": "Escarapela Nacional",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -49865,7 +49865,7 @@
     },
     "name": "Colmillo de vampiro",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -49991,6 +49991,35 @@
     ],
     "rarity": "P",
     "strength": 2,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-002": {
+    "id": "CHILE_OSCURO_2-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vampiro de Rancagua",
+        "type": "Aliado",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_02.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vampiro de Rancagua",
+    "type": "Aliado",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [
+      "Caballero",
+      "Sombra"
+    ],
+    "rarity": "P",
+    "strength": 3,
     "ability": "preventa",
     "Set": [
       "Chile Oscuro 2"
@@ -50195,7 +50224,7 @@
     },
     "name": "La Ouija",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -50221,7 +50250,7 @@
     },
     "name": "Romualdito",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -50533,7 +50562,7 @@
     },
     "name": "Tamales",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -50717,7 +50746,7 @@
     },
     "name": "Muñeco Vudu",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -50823,7 +50852,7 @@
     },
     "name": "Medalla de Santa Muerte",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },
@@ -50849,7 +50878,7 @@
     },
     "name": "Medalla de Papa Legba",
     "type": "Oro",
-    "cost": null,
+    "cost": 0,
     "_legal": {
       "IR": true
     },

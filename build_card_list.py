@@ -185,7 +185,7 @@ def transform_card(source_card, set_title, banlist):
     }
     card["name"] = nombre
     card["type"] = tipo
-    card["cost"] = coste
+    card["cost"] = face_cost
     card["_legal"] = compute_legality(card_id, ability, banlist)
     card["race"] = race
     card["rarity"] = frecuencia

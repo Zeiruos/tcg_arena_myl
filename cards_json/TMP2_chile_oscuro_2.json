@@ -20,6 +20,18 @@
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_01.png"
     },
     {
+      "nombre": "Vampiro de Rancagua",
+      "tipo": "Aliado",
+      "raza": "Caballero/Sombra",
+      "coste": 2,
+      "fuerza": 3,
+      "edicion": "CHILE_OSCURO_2-002",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_02.png"
+    },
+    {
       "nombre": "Yeti de Rengo",
       "tipo": "Aliado",
       "raza": "Bestia/Guerrero",
