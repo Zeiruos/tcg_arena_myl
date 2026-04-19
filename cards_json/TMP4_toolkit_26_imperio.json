@@ -44,6 +44,18 @@
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio11.png"
     },
     {
+      "nombre": "Pan de Muerto",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-012",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio12.png"
+    },
+    {
       "nombre": "La Catrina",
       "tipo": "Aliado",
       "raza": null,
@@ -115,7 +127,7 @@
       "habilidad": "preventa",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio23.png"
     },
-    {      
+    {
       "nombre": "Grisgrís",
       "tipo": "Oro",
       "raza": null,
@@ -186,7 +198,7 @@
       "descripcion": null,
       "habilidad": "preventa",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio29.png"
-     },
+    },
     {
       "nombre": "Bayou St. John",
       "tipo": "Tótem",
@@ -198,7 +210,7 @@
       "descripcion": null,
       "habilidad": "preventa",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio30.png"
-     },
+    },
     {
       "nombre": "Amuleto de Serpiente",
       "tipo": "Oro",
@@ -234,6 +246,18 @@
       "descripcion": null,
       "habilidad": "preventa",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio33.png"
+    },
+    {
+      "nombre": "Culto a la Muerte",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-035",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Única. preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio35.png"
     },
     {
       "nombre": "Levantar Zombi",

@@ -50574,6 +50574,32 @@
       "Toolkit 26 Imperio"
     ]
   },
+  "TOOLKIT_26_IMPERIO-012": {
+    "id": "TOOLKIT_26_IMPERIO-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pan de Muerto",
+        "type": "Oro",
+        "cost": 0,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio12.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pan de Muerto",
+    "type": "Oro",
+    "cost": 0,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
   "TOOLKIT_26_IMPERIO-013": {
     "id": "TOOLKIT_26_IMPERIO-013",
     "isToken": false,
@@ -50990,6 +51016,32 @@
     "rarity": "P",
     "strength": 0,
     "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-035": {
+    "id": "TOOLKIT_26_IMPERIO-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Culto a la Muerte",
+        "type": "Talismán",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio35.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Culto a la Muerte",
+    "type": "Talismán",
+    "cost": 1,
+    "_legal": {
+      "IR": 1
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "Única.preventa",
     "Set": [
       "Toolkit 26 Imperio"
     ]
