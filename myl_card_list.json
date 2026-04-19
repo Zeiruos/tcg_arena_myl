@@ -50184,6 +50184,32 @@
       "Chile Oscuro 2"
     ]
   },
+  "CHILE_OSCURO_2-014": {
+    "id": "CHILE_OSCURO_2-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Machete del Abuelo",
+        "type": "Arma",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_14.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Machete del Abuelo",
+    "type": "Arma",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
   "CHILE_OSCURO_2-017": {
     "id": "CHILE_OSCURO_2-017",
     "isToken": false,

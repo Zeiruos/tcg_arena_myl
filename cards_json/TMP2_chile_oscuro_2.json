@@ -104,6 +104,18 @@
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_13.png"
     },
     {
+      "nombre": "Machete del Abuelo",
+      "tipo": "Arma",
+      "raza": null,
+      "coste": 2,
+      "fuerza": null,
+      "edicion": "CHILE_OSCURO_2-014",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_14.png"
+    },
+    {
       "nombre": "Cementerio General",
       "tipo": "Tótem",
       "raza": null,
