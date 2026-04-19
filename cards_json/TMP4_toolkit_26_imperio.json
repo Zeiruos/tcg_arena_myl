@@ -115,6 +115,18 @@
       "habilidad": "preventa",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio23.png"
     },
+    {      
+      "nombre": "Grisgrís",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-024",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Oro Inicial. preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio24.png"
+    },
     {
       "nombre": "Muñeco Vudu",
       "tipo": "Oro",
@@ -162,6 +174,42 @@
       "descripcion": null,
       "habilidad": "preventa",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio28.png"
+    },
+    {
+      "nombre": "Daga Ritual",
+      "tipo": "Arma",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-029",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio29.png"
+     },
+    {
+      "nombre": "Bayou St. John",
+      "tipo": "Tótem",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-030",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio30.png"
+     },
+    {
+      "nombre": "Amuleto de Serpiente",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "TOOLKIT_26_IMPERIO-031",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "preventa",
+      "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio31.png"
     },
     {
       "nombre": "Medalla de Santa Muerte",

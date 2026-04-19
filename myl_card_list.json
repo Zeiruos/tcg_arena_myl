@@ -50732,6 +50732,32 @@
       "Toolkit 26 Imperio"
     ]
   },
+  "TOOLKIT_26_IMPERIO-024": {
+    "id": "TOOLKIT_26_IMPERIO-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grisgrís",
+        "type": "Oro",
+        "cost": 0,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio24.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grisgrís",
+    "type": "Oro",
+    "cost": 0,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "OroInicial.preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
   "TOOLKIT_26_IMPERIO-025": {
     "id": "TOOLKIT_26_IMPERIO-025",
     "isToken": false,
@@ -50826,6 +50852,84 @@
     },
     "name": "Maldicion Vudu",
     "type": "Talismán",
+    "cost": 0,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-029": {
+    "id": "TOOLKIT_26_IMPERIO-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daga Ritual",
+        "type": "Arma",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio29.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daga Ritual",
+    "type": "Arma",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-030": {
+    "id": "TOOLKIT_26_IMPERIO-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bayou St. John",
+        "type": "Tótem",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio30.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bayou St. John",
+    "type": "Tótem",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "preventa",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-031": {
+    "id": "TOOLKIT_26_IMPERIO-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Amuleto de Serpiente",
+        "type": "Oro",
+        "cost": 0,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio31.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Amuleto de Serpiente",
+    "type": "Oro",
     "cost": 0,
     "_legal": {
       "IR": true
