@@ -63,11 +63,21 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "translations.mulliganInfo",
+        "triggeredByButton": true,
         "startingHandSize": 8,
-        "drawNewHand": false,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
+        "mulliganCount": {
+          "min": 0,
+          "max": 4
+        },
+        "mulliganCycle": {
+          "info": "translations.mulliganInfo",
+          "steps": ["toBottom", "shuffle", "applyPenalty", "draw"],
+          "selectionRange": {
+            "min": 1,
+            "max": 99
+          },
+          "keepCardsOrder": false
+        }
       },
       "newTurn": {
         "drawOnStart": false,
