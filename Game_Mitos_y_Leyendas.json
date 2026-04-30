@@ -71,7 +71,7 @@
         },
         "mulliganCycle": {
           "info": "translations.mulliganInfo",
-          "steps": ["toBottom", "shuffle", "draw", "applyPenalty"],
+          "steps": ["toBottom", "shuffle", "applyPenalty", "draw"],
           "selectionRange": {
             "min": 8
           }
