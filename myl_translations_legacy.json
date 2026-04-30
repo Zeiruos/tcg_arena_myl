@@ -1,5 +1,17 @@
 {
+  "additionalLanguages": [
+    "es"
+  ],
   "en": {
+    "Gameplay": {
+      "Classic": "Classic"
+    },
+    "Big stuffs": {
+      "translations.customHelp": "TURN PHASES:\n1. Grouping: Allies return from Attack to Defense, Paid Gold returns to Reserve.\n2. Vigil: Place a Gold, play cards and use abilities.\n3. Mythological Battle: Attack → Block → Talisman War → Damage Assignment.\n4. Final Phase: End-of-turn effects resolve. Draw 1 card (except first turn of P1). Hand limit: 8.\n\nDRAW: Drawing is manual (draw per turn = 0). Remember to draw 1 card in your Final Phase.\nMULLIGAN: Draw 8. If you change, draw 7, then 6, etc.\nDAMAGE: Cards milled from the Castle by combat damage go to the Graveyard (Discard).\n\nDECK RULES (Imperio Racial):\n- Exactly 50 cards. Max 3 copies per card (Unique = 1 copy).\n- Minimum 17 Allies + Weapons + Totems combined.\n- All your Allies must be the same race (or raceless). Max 4 raceless Allies.\n- Optional sideboard: 15 cards, shares copy limit with main deck.",
+      "translations.mulliganInfo": "Mulligan: up to 4 times (8 → 7 → 6 → 5 → 4). Each mulligan returns your full hand to the deck and draws one less.\n\nSpecial rule (manual): if you have 1 or fewer Gold in your hand, keep your hand, reveal it to your opponent, and then redraw the same number of cards."
+    }
+  },
+  "es": {
     "Deck - Card types": {
       "Aliado": "Aliado",
       "Arma": "Arma",
