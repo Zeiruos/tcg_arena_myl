@@ -323,7 +323,7 @@
     "type": "Talismán",
     "cost": 2,
     "_legal": {
-      "IR": 1
+      "IR": false
     },
     "race": [],
     "rarity": "UR",
@@ -913,7 +913,7 @@
     "type": "Talismán",
     "cost": 2,
     "_legal": {
-      "IR": 1
+      "IR": false
     },
     "race": [],
     "rarity": "UR",
@@ -6723,7 +6723,7 @@
     "type": "Oro",
     "cost": 0,
     "_legal": {
-      "IR": true
+      "IR": false
     },
     "race": [],
     "rarity": "P",
@@ -12136,7 +12136,7 @@
     "type": "Aliado",
     "cost": 1,
     "_legal": {
-      "IR": true
+      "IR": 2
     },
     "race": [
       "Dragón"
@@ -22196,7 +22196,7 @@
     "type": "Talismán",
     "cost": 2,
     "_legal": {
-      "IR": 1
+      "IR": false
     },
     "race": [],
     "rarity": "P",
@@ -22836,7 +22836,7 @@
     "type": "Aliado",
     "cost": 0,
     "_legal": {
-      "IR": true
+      "IR": 1
     },
     "race": [
       "Sombra"
@@ -34344,7 +34344,7 @@
     "type": "Talismán",
     "cost": 0,
     "_legal": {
-      "IR": true
+      "IR": 1
     },
     "race": [],
     "rarity": "P",
@@ -37593,7 +37593,7 @@
     "type": "Aliado",
     "cost": 0,
     "_legal": {
-      "IR": true
+      "IR": 1
     },
     "race": [
       "Caballero"
@@ -38343,7 +38343,7 @@
     "type": "Talismán",
     "cost": 1,
     "_legal": {
-      "IR": true
+      "IR": 1
     },
     "race": [],
     "rarity": "C",
@@ -42079,7 +42079,7 @@
     "type": "Aliado",
     "cost": 1,
     "_legal": {
-      "IR": 2
+      "IR": 1
     },
     "race": [
       "Caballero",
@@ -42439,7 +42439,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": true
+      "IR": 2
     },
     "race": [
       "Guerrero"
@@ -42722,7 +42722,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": true
+      "IR": 2
     },
     "race": [
       "Guerrero"
@@ -48587,7 +48587,7 @@
     "type": "Talismán",
     "cost": 0,
     "_legal": {
-      "IR": true
+      "IR": 1
     },
     "race": [],
     "rarity": "P",
@@ -49575,7 +49575,7 @@
     "type": "Aliado",
     "cost": 1,
     "_legal": {
-      "IR": 2
+      "IR": 1
     },
     "race": [
       "Sin Raza"
