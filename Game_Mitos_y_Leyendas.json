@@ -72,6 +72,10 @@
         "mulliganCycle": {
           "info": "translations.mulliganInfo",
           "steps": ["toBottom", "shuffle", "applyPenalty", "draw"],
+          "selectionRange": {
+            "min": 0,
+            "max": 999
+          },
           "keepCardsOrder": false
         }
       },
