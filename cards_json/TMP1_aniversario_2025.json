@@ -16,7 +16,7 @@
       "edicion": "25-ANIVERSARIO_20",
       "frecuencia": "P",
       "descripcion": null,
-      "habilidad": "preventa",
+      "habilidad": "Al comienzo de la Vigilia, puedes Barajar y/o Desterrar hasta dos cartas de los Cementerios.\nSi controlas Aliados y no hay Oros en tu Reserva, además Roba una carta.\nA tu oponente le cuesta un Oro adicional afectar tus demás Oros u Aliados atacantes, por efectos de Aliados u Oros.",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/25-ANIVERSARIO_20.png"
     },
     {
@@ -28,7 +28,7 @@
       "edicion": "25-ANIVERSARIO_22",
       "frecuencia": "P",
       "descripcion": null,
-      "habilidad": "preventa",
+      "habilidad": "Furia. Imbloqueable.\nCuando entra o sale del juego, Destruye un Aliado de coste 2 o menor Fuerza que este Aliado o una carta de coste 2 o menos.\nA tu oponente le cuesta un Oro adicional afectar a Aliados en tu Línea de Ataque y tus demás Aliados ganan 1 de Fuerza.",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/25-ANIVERSARIO_22.png"
     },
     {
@@ -40,7 +40,7 @@
       "edicion": "25-ANIVERSARIO_23",
       "frecuencia": "P",
       "descripcion": null,
-      "habilidad": "preventa",
+      "habilidad": "Exhumar. Indestructible.\nEn tu Vigilia, una vez por turno, Destierra hasta una carta que sea Oro y tantas cartas del tope de un Castillo como coste tenga una carta que controles y Roba hasta tres cartas.\nTus Aliados de coste 2 o más ganan Furia y no son afectados por Oros y Tótem oponentes.",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/25-ANIVERSARIO_23.png"
     },
     {
@@ -52,7 +52,7 @@
       "edicion": "25-ANIVERSARIO_24",
       "frecuencia": "P",
       "descripcion": null,
-      "habilidad": "preventa",
+      "habilidad": "Indestructible. Indesterrable.\nCuando entra en juego o en tu Fase Final, Baraja hasta una carta de coste 2 o menos y hasta cuatro cartas de los Cementerios.\nCuando sea Desterrado, nombra una carta y no puede ser jugada hasta tu próximo turno.\nLos Aliados oponentes pierden 2 de Fuerza.",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/25-ANIVERSARIO_24.png"
     }
   ]

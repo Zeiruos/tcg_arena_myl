@@ -49872,7 +49872,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "AlcomienzodelaVigilia,puedesBarajary/oDesterrarhastadoscartasdelosCementerios.SicontrolasAliadosynohayOrosentuReserva,ademásRobaunacarta.AtuoponentelecuestaunOroadicionalafectartusdemásOrosuAliadosatacantes,porefectosdeAliadosuOros.",
     "Set": [
       "25 Aniversario"
     ]
@@ -49902,7 +49902,7 @@
     ],
     "rarity": "P",
     "strength": 4,
-    "ability": "preventa",
+    "ability": "Furia.Imbloqueable.Cuandoentraosaledeljuego,DestruyeunAliadodecoste2omenorFuerzaqueesteAliadoounacartadecoste2omenos.AtuoponentelecuestaunOroadicionalafectaraAliadosentuLíneadeAtaqueytusdemásAliadosganan1deFuerza.",
     "Set": [
       "25 Aniversario"
     ]
@@ -49932,7 +49932,7 @@
     ],
     "rarity": "P",
     "strength": 5,
-    "ability": "preventa",
+    "ability": "Exhumar.Indestructible.EntuVigilia,unavezporturno,DestierrahastaunacartaqueseaOroytantascartasdeltopedeunCastillocomocostetengaunacartaquecontrolesyRobahastatrescartas.TusAliadosdecoste2omásgananFuriaynosonafectadosporOrosyTótemoponentes.",
     "Set": [
       "25 Aniversario"
     ]
@@ -49962,7 +49962,7 @@
     ],
     "rarity": "P",
     "strength": 2,
-    "ability": "preventa",
+    "ability": "Indestructible.Indesterrable.CuandoentraenjuegooentuFaseFinal,Barajahastaunacartadecoste2omenosyhastacuatrocartasdelosCementerios.CuandoseaDesterrado,nombraunacartaynopuedeserjugadahastatupróximoturno.LosAliadosoponentespierden2deFuerza.",
     "Set": [
       "25 Aniversario"
     ]
@@ -49991,7 +49991,7 @@
     ],
     "rarity": "P",
     "strength": 2,
-    "ability": "preventa",
+    "ability": "Exhumar.Cuandoentraenjuego,puedesbuscarunacartaentuCastilloyponerlaentumanoyBarajarunacartadecoste2omenos.Cuandotuoponentejuegueunacartaoutiliceunahabilidad,puedesBarajarlaparareducirencuatroelpróximodañoquerecibatuCastillo.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50020,7 +50020,7 @@
     ],
     "rarity": "P",
     "strength": 3,
-    "ability": "preventa",
+    "ability": "Exhumar.Cuandoentraenjuego,conviertehastaunacartaquenoseaOroenAliadosinhabilidaddeFuerza3,ganasucontrolyRobaunacarta.EntuVigilia,unavezporturno,puedesjugarunAliadooArmadeunCementerioreduciendosucosteenunOro,hastaunmínimode0.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50049,7 +50049,61 @@
     ],
     "rarity": "P",
     "strength": 2,
-    "ability": "preventa",
+    "ability": "Furia.Cuandoentraenjuego,unAliadogana2deFuerzapermanentementeoDestruyeunacartaoponentedecoste1omenos.CuandoesteuotroAliadosalgadeljuegoporefectos,unavezporturno,unAliadoganasuFuerzapermanentemente.",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-004": {
+    "id": "CHILE_OSCURO_2-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viejo del Saco",
+        "type": "Aliado",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_04.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Viejo del Saco",
+    "type": "Aliado",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [
+      "Sombra"
+    ],
+    "rarity": "P",
+    "strength": 3,
+    "ability": "Exhumar.Cuandoentraenjuegooataca,convierteunacartadeltopedeunCastilloounacartadecoste1omenosenunAliadodeFuerza2conlahabilidad\"Furia.Imbloqueable.HacedañodecombatealDestierro.\"yponloenjuegobajotucontrologanasucontrol.",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-005": {
+    "id": "CHILE_OSCURO_2-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Exorcismo de Carmen Marín",
+        "type": "Talismán",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_05.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Exorcismo de Carmen Marín",
+    "type": "Talismán",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "Eligeunefecto.PuedesBotardoscartasoDescartarunacartaparaelegirambos:-DestierraunCementerio.LascartasenlosDestierrospierdensuhabilidadduranteesteylossiguientestresturnos.-Unacartapierdesuhabilidadynopuedeatacarnibloquearporelrestodeljuego.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50075,7 +50129,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "CuandojueguesesteTalismán,Destiérralo.BuscadoscartasencadaCastillo,ponlasenelCementeriodetudueñoyRobaunacarta.PuedespagartresOrosyBarajartrescopiasdeLaHoradelDiabloentuDestierroentuCastilloparaDesterrarhastatrescartasoponentesdedistintotipo.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50101,7 +50155,59 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Cuandolojuegues,puedespagarunOroadicionalparaelegirunacartadecualquiercosteenvezdecoste3omenos.Barajaunacartadecoste3omenos.SiestáentuCementerio,puedespagarelcostedeunAliadoentuCementerioparaponeresteTalismánenjuegocomounacopiadeeseAliado.",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-008": {
+    "id": "CHILE_OSCURO_2-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estación Fantasma",
+        "type": "Tótem",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_08.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estación Fantasma",
+    "type": "Tótem",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "Unavezporturno,puedesnombrarunacartaquenoseaOro.TuoponenteBarajalascartasquecontroleconesenombre.Cuandoataques,eligehastadosAliadosconFuriaquecontrolesparaquenohagandañoesteturnoytuoponenteDestierretantascartasdelfondodesuCastillocomosuFuerza.",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-009": {
+    "id": "CHILE_OSCURO_2-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Amarre de Bruja",
+        "type": "Talismán",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_09.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Amarre de Bruja",
+    "type": "Talismán",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "Cuandolojuegues,Destiérralo.EligeunAliadoquecontrolesdecoste2omásyunAliadoquecontroletuoponentedeigualomenorFuerza.GanaelcontroldelAliadooponente,mientrastuAliadoestéenjuego.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50127,7 +50233,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Subealamanodesudueñounacartaoponentedecoste3omenos.SiesacartaeraunAliadooTótem,tuoponentenopuedejugarcartasconesenombrehastatupróximoturnoytúgenerasunOroparajugarArmasoTótem.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50153,7 +50259,33 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Eligeunefecto.MuestralaprimeracartadelCastilloysiesunAliado,eligeambos:-Miralamanodetuoponente,eligeunacartadeahíquenoseaOroyBarájalaensuCastillo.-EnlapróximaFaseFinaloponente,puedesmoverunOrooponenteasuOroPagado.",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-012": {
+    "id": "CHILE_OSCURO_2-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aparición del Sanatorio",
+        "type": "Talismán",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_12.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aparición del Sanatorio",
+    "type": "Talismán",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "ConvierteunAliadodecoste2omenosdeunCementerioenunTótemyponloenjuegobajotucontrol.MientraseseTótemestéenjuegoyesteTalismánestéentuCementerio,lascartasdecoste1omenosnodisparansushabilidades.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50179,7 +50311,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "GanaelcontroldeunArma.SiereseldueñodeesaArma,generasunOroporelturno.Siatacasteobloqueastedesdetuturnoanterior,puedesDesterrarlodetumanooCementerioparaprevenirquetuoponenteBarajey/oDestierrecartasdelosCementerios.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50205,7 +50337,59 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Unavezentuturno,unAliadoganaFuria,2deFuerzapermanentementeypuedesRobarhastatantascartascomocostetengamásuna.Unavezporturno,unacartaquenoseaOropierdesuhabilidadyesDesterrada.Estahabilidadnopuedeserprevenidanicancelada.",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-015": {
+    "id": "CHILE_OSCURO_2-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Túneles Secretos",
+        "type": "Tótem",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_15.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Túneles Secretos",
+    "type": "Tótem",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "Cuandoentraenjuego,juegaunacartadetumanooCementerioreduciendosucosteenunOro,hastaunmínimode0.Unavezporturno,cuandounodetusAliadossalgadeljuego,puedessubirloatumano.EntuFaseFinal,Barajay/oDestierrahastacincocartasdelosCementeriosyRobaunacarta.",
+    "Set": [
+      "Chile Oscuro 2"
+    ]
+  },
+  "CHILE_OSCURO_2-016": {
+    "id": "CHILE_OSCURO_2-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hospital de San José",
+        "type": "Tótem",
+        "cost": 2,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/chile-oscuro-2_16.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hospital de San José",
+    "type": "Tótem",
+    "cost": 2,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "Cuandoentraenjuego,puedesDesterrarelCementeriodetuoponente.Unavezporturno,puedesBarajarhastaseiscartasdelosCementeriosyRobartantascartascomoTótemdedistintocostecontroles.EnlaFaseFinaloponenteocuandosalgadeljuego,tuoponenteBotacincocartas.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50231,7 +50415,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Exhumar.Cuandoentraenjuego,Barajahastatantascartasoponentesdecoste3omenoscomocartasExhumarcontrolesyRobadoscartas.LascartasqueentrenatuCementerionopuedenperdersuhabilidadniserDesterradasporefectos.TusAliadosconExhumargananFuria.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50257,7 +50441,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Cuandoentraenjuego,ponlaprimeraolaúltimacartadetuCastilloentumano.Unavezporturno,puedesjugarunacartadetuCementerioodesdeeltopedetuCastillo.JuegamostrandolaprimeracartadetuCastillo.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50283,7 +50467,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "AlcomienzodelaVigilia,sinotienesOrosenReserva,DestierradoscartasdeltopedeunCastilloyhastaunacartadeunCementerio.PuedesconvertirloenunOrosinhabilidadparaprevenirqueunAliadoseaDestruido,cambiedecontroladoroseaconvertido,porunefectooponente.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50309,7 +50493,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Eligeunefecto.SipagastedosOrosporesteTalismán,nosepuedenjugarcartasniutilizarhabilidadesenrespuestaaesteefecto.-Unacartadecoste2omenospierdesuhabilidadyesDesterradayRobadoscartas.-PagaunOroparaqueunAliadopierdasuhabilidad,seaDesterradoyRobadoscartas.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50335,7 +50519,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Cuandolojuegues,Destiérralo.Hastatupróximoturnocadavezquetuoponentepongacartasensumanoporunefecto,puedesponeresamismacantidaddecartasdeltopedetuCastilloensuCementerio.PorelrestodeljuegoeldañodecombateatuCastillosereduceendos.",
     "Set": [
       "Chile Oscuro 2"
     ]
@@ -50361,7 +50545,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "UnAliadoganalahabilidad:\"EntuVigilia,unavezporturno,puedesBarajartodoslosAliadosdemenorFuerzaqueesteAliado.\"SiestáentuCementerio,tuAliadodemayorcostenopuedeserafectadoporAliadosoponentesdemenorcostequeél.",
     "Set": [
       "KVM JO"
     ]
@@ -50387,7 +50571,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "BuscaentuCastillotresOros.PondosdeellosatuOroPagado,sinhabilidadporelturno,yelotroentumano.SicontrolassieteomásOros,Robadoscartas.CuandopongasunOroenjuego,puedessubiresteTalismándetuCementerioatumano.",
     "Set": [
       "KVM JO"
     ]
@@ -50413,7 +50597,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "BuscadosAliadosentuCastilloyponlosentumano.Hastatupróximoturnonotieneslímitedecartasenmanoynopuedesserafectadoporefectosoponentesesteturno.PuedesDesterrarlodetuCementerioparaBarajarhastatrescartasdelosCementerios.",
     "Set": [
       "KVM JO"
     ]
@@ -50439,7 +50623,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "UnAliadoganaFuria,Imbloqueable,+3deFuerzayhacedañoalDestierroporelturno.SiestáentuCementerio,puedesDesterrarloparaqueunAliadogane+1deFuerzaysuataquenopuedasercanceladoporelturno.",
     "Set": [
       "KVM JO"
     ]
@@ -50465,7 +50649,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Robasietecartas.CadavezquemuevasOrosatuOroPagadoesteturno,BarajahastaunacartadetuCementerioyRobaunacarta.AlcomienzodelaVigilia,siestáentuCementerioynotienesOrosenReserva,Robaunacarta.",
     "Set": [
       "KVM JO"
     ]
@@ -50491,7 +50675,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Cuandolojuegues,Desterrarlo.Lospróximosdosturnos,nosepuedeatacarynopuedejugarmásdeunacartaporturno.SiestáentuCementerio,nosepuedeponermásdeunacartaenjuegodesdeunaZonaquenosealamanoporturno.",
     "Set": [
       "KVM JO"
     ]
@@ -50517,7 +50701,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Anulaunacartadecoste3omenos.Juegaesacartabajotucontrolsinpagarsucoste.SiesunTalismán,puedeselegirnuevosobjetivos.SiestáentuCementerioysetienenmenoscartasentumanoquetuoponente,puedesDesterrarloparaRobarunacarta.",
     "Set": [
       "KVM JO"
     ]
@@ -50543,7 +50727,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "ReducesucosteenunOroporcadacartaquenoseaOroenjuego,hastaunmínimode1.ConviertelosAliadosdeFuerza1conlahabilidad\"NopuedeportarArmas\".SiestáentuCementerio,eldañodirectoydecombatequerecibetuCastillosereduceendos.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50569,7 +50753,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "SólopuedesjugarloenrespuestaaquetuoponentejueguesusegundacartadelturnoynopuedeserAnulado.Tuoponentesólopuedejugarunacartamásdeesemismotipoesteturnoytúnopuedesjugarmáscartasesteturno.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50595,7 +50779,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "OroInicial.preventa",
+    "ability": "OroInicial.NopuedeserafectadoporAliados.TuoponentesólopuedeutilizarlashabilidadesdeOrosycartasdecoste2omássinocontrolamáscopiasdeesacarta.EntuFaseFinal,puedesBarajarhastatrescartasdelosCementerios.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50621,7 +50805,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "EntuVigilia,unavezporturno,puedespagarloparabuscarunTalismánoTótemdecoste2omásentuCastilloyjugarloreduciendosucosteenunOro.SólosepuedeBotary/oDesterrarhastaquincecartasdecadaCastilloporturnoytusAliadossonIndestructiblesmientrasbloquean.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50649,7 +50833,7 @@
     ],
     "rarity": "P",
     "strength": 2,
-    "ability": "preventa",
+    "ability": "Exhumar.Cuandoentraenjuego,BarajalascartasoponentesquenoseanOroyporcadaOroquecontroletuoponente,leDestierralaprimeracartadeltopedesuCastillo.LascartasenelCementerioyDestierrooponentepierdensuhabilidad.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50675,7 +50859,33 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "EnrespuestaaquetuoponentefueraabuscarcartasentuCastillooporsegundavezentuCastilloesteturno;juégalosinpagarsucoste.BuscahastadoscartascondistintonombreenunCastilloyDestiérralasoprevénquetuoponentebusquecartasentuCastillo.",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-015": {
+    "id": "TOOLKIT_26_IMPERIO-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Celebrar la Muerte",
+        "type": "Talismán",
+        "cost": 1,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio15.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Celebrar la Muerte",
+    "type": "Talismán",
+    "cost": 1,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "Destierraunacartadecoste3omenos.Nosepuedenjugarcartasconelmismonombrehastatupróximoturno.Cuandoseresuelva,BarajaesteTalismánentuCastillo.CuandoBotesestacartapordañooponente,puedesDesterrarloparaBarajarhastacincocartasdelosCementerios.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50701,7 +50911,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "NopuedeportarseenAliadosdeFuerza2o3.Elportadorgana2deFuerzaeIndestructible.Cuandoentraenjuego,puedesDestruirunAliado.EntuFaseFinal,sinocontrolasAliadosconFuriaoImbloqueable,agrupaunOroymuestracartasdeltopedetuCastillohastamostrarunTalismányponloentumano.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50727,7 +50937,33 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Cuandoentraenjuego,BarajalamitaddelosAliadosdecadajugadorredondeadohaciaarribaounacartadecoste3omenos.Unavezentuturno,eligequetuoponenteBotedosoDestierraunacartadeltopedesuCastillo,porcadaTótemquecontroles.SicontrolasdosTótemomenos,Robaunacarta.",
+    "Set": [
+      "Toolkit 26 Imperio"
+    ]
+  },
+  "TOOLKIT_26_IMPERIO-018": {
+    "id": "TOOLKIT_26_IMPERIO-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Calavera de Azúcar",
+        "type": "Oro",
+        "cost": 0,
+        "image": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/Toolkit-26-Imperio18.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Calavera de Azúcar",
+    "type": "Oro",
+    "cost": 0,
+    "_legal": {
+      "IR": true
+    },
+    "race": [],
+    "rarity": "P",
+    "strength": 0,
+    "ability": "Cuandoentraenjuego,muestracartasdeltopedetuCastillohastamostrardosOrosdedistintonombre,ponlosentumanoyBarajaelresto.Enelturnooponente,puedessubirloatumanoparaprevenirunefectoqueAnule,canceleoprevenga.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50753,9 +50989,12 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "EntuVigilia,reducesucosteenunOroporcadacartaquejugótuoponenteesteturnohastaunmínimode0ynopuedesjugarmásRitualVudúesteturno.Robaunacarta,subehastaunAliadodetuCementerioatumanoyalcomienzodetupróximoturnogeneraunOroyRobadoscartas.",
     "Set": [
       "Toolkit 26 Imperio"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "TOOLKIT_26_IMPERIO-023": {
@@ -50779,7 +51018,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Eligeunefecto:SituoponentetienemenosdeveintecartasensuCastillo,eligeambos.-ConvierteunacartaoponenteenunadelmismotiposinhabilidadyRobaunacarta.-Situoponentenoharecibidodañoesteturno,BotacincocartasdesuCastilloycuandoseresuelva,subeestacartaatumano.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50805,7 +51044,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "OroInicial.preventa",
+    "ability": "OroInicial.DurantelaVigiliadesuoponente,losjugadoressólopuedenjugarhastadosTalismanesy/outilizarhastadoshabilidades.AlcomienzodetuVigiliaoponente,puedesDesterrarhastaunacartadeunCementerioporcadaAliadoquehayaatacadoentuturno.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50831,7 +51070,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "EntuVigilia,sicontrolasAliadosconFuria,puedespagarloparamirarlamanodetuoponente.EligeunTalismánoTótemdeahíyBarájalo.Estahabilidadnopuedesercanceladaniprevenida.EntuVigilia,unavezporturno,unAliadogana2deFuerzapermanentemente.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50859,7 +51098,7 @@
     ],
     "rarity": "P",
     "strength": 4,
-    "ability": "preventa",
+    "ability": "Cuandoentraenjuegooataque,puedesmostrarcartasdeltopedetuCastillohastamostrarunAliadoconFuriayunArma,ponunaentumanoylaotraentuCementerio.Simostrasteambos,buscaenunCastillodoscartascondistintonombreyDestiérralas.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50885,7 +51124,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "PrevénqueunAliadoseaAnulado,Destruido,Desterradoocambiedecontrolador.EntuVigilia,sinohaspuestoOrosenjuegoesteturno,puedesconvertiresteTalismándetumanoenunOrosinhabilidad,ponloentuReservayRobaunacarta.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50911,7 +51150,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Sólopuedesjugarlodurantetuturno.Cancelaunahabilidadounacartaenjuegopierdesuhabilidadporelturno.EntuFaseFinalmuevetusOrosatuOroPagado.PuedesDesterrarlodetuCementerioparaBarajaroDesterrarunacartadeunCementerio.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50937,7 +51176,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Exhumar.Elportadorgana2deFuerza,FuriayhacedañodecombatealDestierro.Cuandoelportadorhagadañodecombate,ponunOrodelDestierroentuOroPagadoobuscaunAliadoyunArmaentuCastilloyponlosentumano.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50963,7 +51202,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Cuandoentraenjuego,Robaunacarta.Unavezporturno,DescartaoDestruyeunacartaquecontrolesparaquehastadosAliadosdecoste2omenosganen1deFuerzayFuria.EntuVigiliaoFaseFinal,DestierrahastatrescartasdelCementeriooponente.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -50989,7 +51228,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "CuandoentraenjuegoyalcomienzodetuVigilia,puedesmostrarlastresprimerascartasdetuCastilloyponerunAliadodecoste1omenosoconFuria,ounArmadeahíentumano.Silohaces,hastatupróximoturnojugarTalismanescuestaunOroadicionalsiesejugadorhajugadoTalismanesenelturno.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -51015,7 +51254,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Alcomienzodelturno,puedesDescartarunacartaparanombrarunacartaquenoseaOro.Lascartasconesenombrenotienenhabilidadporelturno.Losjugadoressólopuedenjugary/outilizarhastatreshabilidadesdeOros,cartasdecoste0y/odecartasfueradeljuegoporturno.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -51041,7 +51280,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Cuandoentraenjuego,puedesRobarunacarta.EntuVigilia,unavezporturno,situoponentejugócartasy/outilizóhabilidadesmásdedosvecesesteturnoycontrolasAliadosconFuria,puedesponerlaprimeracartadetuCastilloentuOroPagadocomounOrosinhabilidad.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -51067,7 +51306,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "Única.preventa",
+    "ability": "Única.Eligeunefecto:-Anulaunacartadecoste2omenosquenoseaAliadoyDestierraesacarta.-Cancelalahabilidaddeunacartaytuoponentenopuedeutilizarmáshabilidadesdecartasconesenombreesteturno.",
     "Set": [
       "Toolkit 26 Imperio"
     ]
@@ -51093,7 +51332,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "preventa",
+    "ability": "Cuandolojuegues,Destiérralo.Hastatupróximoturno,cadavezquerecibasdañooponente,tuoponenteBotaesamismacantidadytúponesenjuegounAliadodeunCementeriocomounAliadosinhabilidad.PuedesDesterrarlodetuCementerioparaBarajarhastatrescartasdelosCementerios.",
     "Set": [
       "Toolkit 26 Imperio"
     ]

@@ -16,7 +16,7 @@
       "edicion": "KVM_JO-001",
       "frecuencia": "P",
       "descripcion": null,
-      "habilidad": "preventa",
+      "habilidad": "Un Aliado gana la habilidad: \"En tu Vigilia, una vez por turno, puedes Barajar todos los Aliados de menor Fuerza que este Aliado.\"\nSi está en tu Cementerio, tu Aliado de mayor coste no puede ser afectado por Aliados oponentes de menor coste que él.",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-1.png"
     },
     {
@@ -28,7 +28,7 @@
       "edicion": "KVM_JO-002",
       "frecuencia": "P",
       "descripcion": null,
-      "habilidad": "preventa",
+      "habilidad": "Busca en tu Castillo tres Oros. Pon dos de ellos a tu Oro Pagado, sin habilidad por el turno, y el otro en tu mano. Si controlas siete o más Oros, Roba dos cartas.\nCuando pongas un Oro en juego, puedes subir este Talismán de tu Cementerio a tu mano.",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-2.png"
     },
     {
@@ -40,7 +40,7 @@
       "edicion": "KVM_JO-003",
       "frecuencia": "P",
       "descripcion": null,
-      "habilidad": "preventa",
+      "habilidad": "Busca dos Aliados en tu Castillo y ponlos en tu mano. Hasta tu próximo turno no tienes límite de cartas en mano y no puedes ser afectado por efectos oponentes este turno.\nPuedes Desterrarlo de tu Cementerio para Barajar hasta tres cartas de los Cementerios.",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-3.png"
     },
     {
@@ -52,7 +52,7 @@
       "edicion": "KVM_JO-004",
       "frecuencia": "P",
       "descripcion": null,
-      "habilidad": "preventa",
+      "habilidad": "Un Aliado gana Furia, Imbloqueable, +3 de Fuerza y hace daño al Destierro por el turno.\nSi está en tu Cementerio, puedes Desterrarlo para que un Aliado gane +1 de Fuerza y su ataque no pueda ser cancelado por el turno.",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-4.png"
     },
     {
@@ -64,7 +64,7 @@
       "edicion": "KVM_JO-005",
       "frecuencia": "P",
       "descripcion": null,
-      "habilidad": "preventa",
+      "habilidad": "Roba siete cartas. Cada vez que muevas Oros a tu Oro Pagado este turno, Baraja hasta una carta de tu Cementerio y Roba una carta.\nAl comienzo de la Vigilia, si está en tu Cementerio y no tienes Oros en Reserva, Roba una carta.",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-5.png"
     },
     {
@@ -76,7 +76,7 @@
       "edicion": "KVM_JO-006",
       "frecuencia": "P",
       "descripcion": null,
-      "habilidad": "preventa",
+      "habilidad": "Cuando lo juegues, Desterrarlo. Los próximos dos turnos, no se puede atacar y no puede jugar más de una carta por turno.\nSi está en tu Cementerio, no se puede poner más de una carta en juego desde una Zona que no sea la mano por turno.",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-6.png"
     },
     {
@@ -88,7 +88,7 @@
       "edicion": "KVM_JO-007",
       "frecuencia": "P",
       "descripcion": null,
-      "habilidad": "preventa",
+      "habilidad": "Anula una carta de coste 3 o menos. Juega esa carta bajo tu control sin pagar su coste. Si es un Talismán, puedes elegir nuevos objetivos.\nSi está en tu Cementerio y se tienen menos cartas en tu mano que tu oponente, puedes Desterrarlo para Robar una carta.",
       "imagen_url": "https://zeiruos.github.io/tcg_arena_myl/assets/cards/KVM_JO-7.png"
     }
   ]
