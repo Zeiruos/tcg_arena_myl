@@ -1,5 +1,7 @@
 *.md
 !README.md
+!CHANGELOG.md
+!docs/activity/*.md
 *.txt
 *.csv
 __pycache__
