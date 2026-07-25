@@ -80,7 +80,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/169/006.png"
     },
     {
-      "nombre": "Totem de la Visión Eterna",
+      "nombre": "Tótem de la Visión Eterna",
       "tipo": "Tótem",
       "raza": null,
       "coste": 2,
@@ -128,7 +128,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/169/010.png"
     },
     {
-      "nombre": "Ngenechen",
+      "nombre": "Ngenechén",
       "tipo": "Aliado",
       "raza": "Eterno",
       "coste": 4,
@@ -308,7 +308,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/169/025.png"
     },
     {
-      "nombre": "Visión Heroica",
+      "nombre": "Visión Heróica",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -368,7 +368,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/169/030.png"
     },
     {
-      "nombre": "Transformacion",
+      "nombre": "Transformación",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,

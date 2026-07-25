@@ -32,7 +32,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/002.png"
     },
     {
-      "nombre": "Padre Dagon",
+      "nombre": "Padre Dagón",
       "tipo": "Aliado",
       "raza": "Dragón",
       "coste": 4,
@@ -1952,7 +1952,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/162.png"
     },
     {
-      "nombre": "Padre Dagon",
+      "nombre": "Padre Dagón",
       "tipo": "Aliado",
       "raza": "Dragón",
       "coste": 4,
@@ -4376,7 +4376,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/366.png"
     },
     {
-      "nombre": "Visión Heroica",
+      "nombre": "Visión Heróica",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,

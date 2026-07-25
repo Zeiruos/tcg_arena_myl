@@ -96,7 +96,8 @@ ACCENT_FIXES = {
     "jepresh": "Jepresh", "grisgris": "Grisgrís",
     # sustantivos comunes con tilde
     "dragon": "Dragón", "dragones": "Dragones", "leon": "León",
-    "dia": "Día", "da": "Día", "azucar": "Azúcar", "corazon": "Corazón",
+    # Ojo: "da" NO va aqui — es preposicion italiana ("Spada da Lato"), no "Día".
+    "dia": "Día", "azucar": "Azúcar", "corazon": "Corazón",
     "vision": "Visión", "invocacion": "Invocación", "cancion": "Canción",
     "espiritu": "Espíritu", "heroe": "Héroe", "magico": "Mágico",
     "magica": "Mágica", "ejercito": "Ejército", "tunel": "Túnel",

@@ -2264,7 +2264,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/166/188.png"
     },
     {
-      "nombre": "Spada Día Lato",
+      "nombre": "Spada da Lato",
       "tipo": "Arma",
       "raza": null,
       "coste": 2,
@@ -3356,7 +3356,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/166/279.png"
     },
     {
-      "nombre": "Transformacion",
+      "nombre": "Transformación",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,

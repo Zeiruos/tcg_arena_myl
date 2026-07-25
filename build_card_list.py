@@ -18,15 +18,32 @@ Output:
 import json
 import glob
 import argparse
+import re
 import sys
+import unicodedata
 from collections import OrderedDict
 
 # --- Constants ---
 
 CARDS_JSON_DIR = "cards_json"
 BANLIST_FILE = "myl_banlist.json"
+VIGENCIA_FILE = "vigencia_cartas.json"
 DEFAULT_OUTPUT = "myl_card_list_build.json"
 REPLACE_OUTPUT = "myl_card_list.json"
+
+# Temporadas legales actualmente. Para ejecutar una rotacion basta con sacar la
+# temporada de esta lista y regenerar: las cartas cuya vigencia sea esa temporada
+# desaparecen del card list, y las marcadas "inmortal" sobreviven siempre.
+# Los archivos de cards_json/ NO se borran: quedan como historico.
+TEMPORADAS_VIGENTES = [
+    "Bestiarium",
+    "Onyria",
+    "Libertadores",
+    "Kaiju vs Mecha",
+    "AyD Vigilantes",
+]
+
+INMORTAL = "Inmortal"
 
 # Known races for splitting compound race strings
 KNOWN_RACES = [
@@ -93,7 +110,8 @@ ORO_VIRTUAL_CARD = {
     },
     "name": "Oro Virtual",
     "type": "Oro",
-    "cost": 0
+    "cost": 0,
+    "Vigencia": ["Inmortal"]
 }
 
 
@@ -179,6 +197,34 @@ def compute_legality(card_id, ability_no_spaces, banlist):
     return {code: True}
 
 
+def normalize_name(name):
+    """Clave de comparacion de nombres: sin tildes, sin puntuacion, minusculas."""
+    n = unicodedata.normalize("NFD", name or "")
+    n = "".join(c for c in n if unicodedata.category(c) != "Mn")
+    return re.sub(r"[^a-z0-9]", "", n.lower())
+
+
+def load_vigencia(path):
+    """Carga las excepciones de vigencia, indexadas por nombre normalizado."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        print(f"Warning: {path} no encontrado, todas las cartas rotan con su set.")
+        return {}
+    return {normalize_name(k): v for k, v in data.get("vigencia", {}).items()}
+
+
+def vigencia_for(nombre, set_title, vigencias):
+    """Temporada con la que rota una carta, o INMORTAL si no rota nunca.
+
+    La vigencia se declara por NOMBRE y la heredan todas las impresiones: una
+    reimpresion en un set nuevo puede extender la vida de todas sus copias
+    anteriores. Sin excepcion declarada, la carta rota con su propio set.
+    """
+    return vigencias.get(normalize_name(nombre)) or season_for(set_title)
+
+
 def season_for(set_title):
     """Temporada a la que pertenece un set. Sin mapeo, usa el titulo tal cual."""
     if set_title not in SET_TO_SEASON:
@@ -187,7 +233,7 @@ def season_for(set_title):
     return SET_TO_SEASON[set_title]
 
 
-def transform_card(source_card, set_title, banlist):
+def transform_card(source_card, set_title, banlist, vigencias):
     """Transform a single source card to TCG Arena format."""
     card_id = source_card["edicion"]
     nombre = source_card["nombre"]
@@ -228,8 +274,10 @@ def transform_card(source_card, set_title, banlist):
     card["ability"] = ability
     # "Set" agrupa por temporada: array de pocos valores -> filtro dropdown.
     # "Edicion" guarda el set real como string -> busqueda por texto.
+    # "Vigencia" es la temporada con la que rota (o Inmortal) -> dropdown.
     card["Set"] = [season_for(set_title)]
     card["Edicion"] = set_title
+    card["Vigencia"] = [vigencia_for(nombre, set_title, vigencias)]
 
     # Gold token generation
     gold_count = detect_gold_generation(ability)
@@ -239,9 +287,10 @@ def transform_card(source_card, set_title, banlist):
     return card_id, card
 
 
-def build_card_list(banlist):
+def build_card_list(banlist, vigencias):
     """Build the complete card list from source files."""
     cards = OrderedDict()
+    rotadas = 0
 
     source_files = sorted(glob.glob(f"{CARDS_JSON_DIR}/*.json"))
     if not source_files:
@@ -253,13 +302,23 @@ def build_card_list(banlist):
             data = json.load(f)
 
         set_title = data["edicion"]["titulo"]
-        total = data["total_cartas"]
 
+        incluidas = 0
         for source_card in data["cartas"]:
-            card_id, card = transform_card(source_card, set_title, banlist)
+            card_id, card = transform_card(source_card, set_title, banlist, vigencias)
+            # Una carta sale del pool cuando su temporada de vigencia ya roto.
+            if card["Vigencia"][0] not in TEMPORADAS_VIGENTES + [INMORTAL]:
+                rotadas += 1
+                continue
             cards[card_id] = card
+            incluidas += 1
 
-        print(f"  {set_title}: {total} cards")
+        total = data["total_cartas"]
+        extra = "" if incluidas == total else f"  ({total - incluidas} rotadas)"
+        print(f"  {set_title}: {incluidas} cards{extra}")
+
+    if rotadas:
+        print(f"\n{rotadas} cartas excluidas por rotacion de temporada")
 
     # Add ORO_VIRTUAL token
     cards[ORO_VIRTUAL_ID] = ORO_VIRTUAL_CARD
@@ -278,8 +337,13 @@ def main():
     print(f"Loading banlist from {BANLIST_FILE}...")
     banlist = load_banlist(BANLIST_FILE)
 
-    print(f"Processing source files from {CARDS_JSON_DIR}/...")
-    cards = build_card_list(banlist)
+    print(f"Loading vigencia from {VIGENCIA_FILE}...")
+    vigencias = load_vigencia(VIGENCIA_FILE)
+    print(f"  {len(vigencias)} nombres con vigencia declarada")
+    print(f"  Temporadas vigentes: {', '.join(TEMPORADAS_VIGENTES)}")
+
+    print(f"\nProcessing source files from {CARDS_JSON_DIR}/...")
+    cards = build_card_list(banlist, vigencias)
 
     print(f"\nTotal cards: {len(cards)} (including {ORO_VIRTUAL_ID} token)")
 
@@ -314,6 +378,15 @@ def main():
             seasons[s] = seasons.get(s, 0) + 1
     print(f"\nTemporadas ({len(seasons)} valores en el filtro Set):")
     for name, n in sorted(seasons.items(), key=lambda x: -x[1]):
+        print(f"  {n:5}  {name}")
+
+    # Vigencia: con que temporada rota cada carta (Inmortal = no rota nunca)
+    vig = {}
+    for v in cards.values():
+        for s in v.get("Vigencia", []):
+            vig[s] = vig.get(s, 0) + 1
+    print(f"\nVigencia ({len(vig)} valores en el filtro):")
+    for name, n in sorted(vig.items(), key=lambda x: -x[1]):
         print(f"  {n:5}  {name}")
 
     with open(output_path, "w", encoding="utf-8") as f:

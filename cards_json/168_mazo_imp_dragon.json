@@ -56,7 +56,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/168/004.png"
     },
     {
-      "nombre": "Danza de los Dragones",
+      "nombre": "Danza de Dragones",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -80,7 +80,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/168/006.png"
     },
     {
-      "nombre": "Totem del Dragón Ancestral",
+      "nombre": "Tótem del Dragón Ancestral",
       "tipo": "Tótem",
       "raza": null,
       "coste": 1,
@@ -128,7 +128,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/168/010.png"
     },
     {
-      "nombre": "Padre Dagon",
+      "nombre": "Padre Dagón",
       "tipo": "Aliado",
       "raza": "Dragón",
       "coste": 4,
@@ -272,7 +272,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/168/022.png"
     },
     {
-      "nombre": "Visión Heroica",
+      "nombre": "Visión Heróica",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,

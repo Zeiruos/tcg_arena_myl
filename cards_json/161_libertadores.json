@@ -44,7 +44,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/003.png"
     },
     {
-      "nombre": "Ngenechen",
+      "nombre": "Ngenechén",
       "tipo": "Aliado",
       "raza": "Eterno",
       "coste": 4,
@@ -920,7 +920,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/076.png"
     },
     {
-      "nombre": "Macu",
+      "nombre": "Macuñ",
       "tipo": "Arma",
       "raza": null,
       "coste": 0,
@@ -1544,7 +1544,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/128.png"
     },
     {
-      "nombre": "De",
+      "nombre": "Deñ",
       "tipo": "Aliado",
       "raza": "Bestia",
       "coste": 1,
@@ -2036,7 +2036,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/169.png"
     },
     {
-      "nombre": "Ngenechen",
+      "nombre": "Ngenechén",
       "tipo": "Aliado",
       "raza": "Eterno",
       "coste": 4,
@@ -2396,7 +2396,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/199.png"
     },
     {
-      "nombre": "Caon Naval",
+      "nombre": "Cañón Naval",
       "tipo": "Arma",
       "raza": null,
       "coste": 2,

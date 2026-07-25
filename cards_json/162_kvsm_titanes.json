@@ -8,7 +8,7 @@
   "total_cartas": 285,
   "cartas": [
     {
-      "nombre": "Transformacion",
+      "nombre": "Transformación",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -320,7 +320,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/026.png"
     },
     {
-      "nombre": "Transformacion",
+      "nombre": "Transformación",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -1088,7 +1088,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/090.png"
     },
     {
-      "nombre": "Caon De Plasma",
+      "nombre": "Cañón de Plasma",
       "tipo": "Arma",
       "raza": null,
       "coste": 1,
@@ -1508,7 +1508,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/125.png"
     },
     {
-      "nombre": "Caon Silverado",
+      "nombre": "Cañón Silverado",
       "tipo": "Arma",
       "raza": null,
       "coste": 2,
@@ -2228,7 +2228,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/185.png"
     },
     {
-      "nombre": "Caon Silverado",
+      "nombre": "Cañón Silverado",
       "tipo": "Arma",
       "raza": null,
       "coste": 2,
@@ -2648,7 +2648,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/220.png"
     },
     {
-      "nombre": "Caon De Fusion",
+      "nombre": "Cañón de Fusión",
       "tipo": "Arma",
       "raza": null,
       "coste": 1,
@@ -3152,7 +3152,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/262.png"
     },
     {
-      "nombre": "Guadaa Gigante",
+      "nombre": "Guadaña Gigante",
       "tipo": "Arma",
       "raza": null,
       "coste": 1,
@@ -3188,7 +3188,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/265.png"
     },
     {
-      "nombre": "Visión Heroica",
+      "nombre": "Visión Heróica",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -3332,7 +3332,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/277.png"
     },
     {
-      "nombre": "Caleuche",
+      "nombre": "El Caleuche",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -3344,7 +3344,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/278.png"
     },
     {
-      "nombre": "Trempilcahue",
+      "nombre": "Tempilcahue",
       "tipo": "Talismán",
       "raza": null,
       "coste": 0,
