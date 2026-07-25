@@ -5,3 +5,7 @@
 *.txt
 *.csv
 __pycache__
+
+# Salida de prueba de build_card_list.py (sin --replace).
+# El archivo publicado es myl_card_list.json y ese si se versiona.
+myl_card_list_build.json

@@ -23,6 +23,12 @@ El detalle de cada jornada de trabajo está en [`docs/activity/`](docs/activity/
   Declara por nombre con qué temporada rota cada carta, o si es inmortal.
 - **Corrige nombres corruptos**
   Caracteres perdidos por la API, contrastados contra un dump externo.
+- **Corrige el separador de los Aliados de múltiples razas**
+  8 cartas traían la raza con espacio en vez de `/` o sin tilde (`Dragon Sombra`,
+  `Bestia Faerie`…). Corregidas en `cards_json/`, que es el origen.
+- **Agrega un warning para capturar separadores distintos al esperado**
+  `build_card_list.py` ahora avisa de razas malformadas en vez de absorberlas en
+  silencio, para que un scrape nuevo no las reintroduzca sin que nadie lo note.
 
 → [Detalle completo](docs/activity/changelog-2026-07-25.md)
 

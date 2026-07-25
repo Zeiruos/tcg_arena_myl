@@ -134,8 +134,26 @@ def load_banlist(path):
     }
 
 
-def parse_race(raza, tipo):
-    """Convert source raza to TCG Arena race array."""
+_RACE_WARNINGS = set()
+
+
+def warn_race(card_id, raza, problema):
+    """Avisa una vez por combinacion de raza malformada + problema."""
+    if (raza, problema) in _RACE_WARNINGS:
+        return
+    _RACE_WARNINGS.add((raza, problema))
+    donde = f" ({card_id})" if card_id else ""
+    print(f"  Warning: raza {raza!r}{donde}: {problema}")
+
+
+def parse_race(raza, tipo, card_id=None):
+    """Convert source raza to TCG Arena race array.
+
+    Avisa de razas malformadas en cards_json/: el separador canonico es "/" y
+    la ortografia debe ser la de RACE_FIXES (con tilde). El parser las absorbe
+    igual, pero hay que corregirlas en el origen — si no, un scrape nuevo las
+    vuelve a introducir en silencio.
+    """
     if raza is None or raza == "":
         if tipo == "Aliado":
             return ["Sin Raza"]
@@ -148,10 +166,16 @@ def parse_race(raza, tipo):
         # Some source data uses spaces instead of "/" (e.g. "Dragon Sombra")
         # Match known races within the string
         races = [r for r in KNOWN_RACES if r in raza]
+        if len(races) > 1:
+            warn_race(card_id, raza, "separador de multi-raza debe ser '/'")
         if not races:
+            warn_race(card_id, raza, "raza desconocida (no esta en KNOWN_RACES)")
             races = [raza]
 
     # Apply typo fixes
+    for r in races:
+        if r in RACE_FIXES:
+            warn_race(card_id, raza, f"{r!r} deberia escribirse {RACE_FIXES[r]!r}")
     races = [RACE_FIXES.get(r, r) for r in races]
     return races
 
@@ -248,7 +272,7 @@ def transform_card(source_card, set_title, banlist, vigencias):
     # Transform fields
     face_cost = 0 if coste is None else coste
     ability = transform_ability(habilidad)
-    race = parse_race(raza, tipo)
+    race = parse_race(raza, tipo, card_id)
     strength = 0 if fuerza is None else fuerza
 
     # Build card

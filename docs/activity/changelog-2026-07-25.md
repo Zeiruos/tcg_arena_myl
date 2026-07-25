@@ -86,6 +86,30 @@ filtro `Set` caía a campo de texto.
 - Tras una rotación quedan IDs muertos en `myl_banlist.json`. Es intencional: si la
   carta se reimprime, la restricción sigue declarada.
 
+## Separador de multi-raza
+
+8 cartas declaraban la raza con espacio en vez de `/`, o sin tilde:
+
+- `160_onyria.json` (7): `Dragon Sombra`, `Bestia Faerie`, `Eterno Héroe` ×2,
+  `Caballero Sacerdote`, `Faerie Sacerdote`, `Caballero Sombra`.
+- `TMP1_aniversario_2025.json` (1): `Bestia/Dragon/Sombra` → `Bestia/Dragón/Sombra`.
+
+`parse_race()` ya las absorbía por coincidencia de substring contra `KNOWN_RACES`,
+así que el `race` emitido era correcto y el bug no se veía en TCG Arena. El problema
+era el silencio: nada impedía que un scrape nuevo las reintrodujera. Se corrigieron
+en `cards_json/`, que es el origen, y `build_card_list.py` ahora avisa de tres casos
+—separador con espacio, ortografía sin tilde (derivada de `RACE_FIXES` para que no se
+desincronice) y raza fuera de `KNOWN_RACES`— con dedup por raza+problema para que 80
+cartas mal escritas den una línea y no 80.
+
+El tercer caso es el que faltaba: una raza nueva o con typo raro no entra en el
+fallback y se emitía tal cual al filtro, subiendo su cardinalidad sin aviso — el
+mismo riesgo que ya cubría `SET_TO_SEASON` para los sets.
+
+De paso, `CLAUDE.md` documentaba que el `type` de TCG Arena se componía como
+`"{tipo} - {raza}"`. Es falso: `build_card_list.py` emite el tipo desnudo, y las
+claves de `autoPlayFromHand` son `Oro`/`Aliado`/`Arma`/`Tótem`/`Talismán`. Corregido.
+
 ## Total
 
 1927 cartas (desde 1897), 17 ediciones agrupadas en 5 temporadas.

@@ -4006,7 +4006,7 @@
     {
       "nombre": "Jabberwocky Desatado",
       "tipo": "Aliado",
-      "raza": "Dragon Sombra",
+      "raza": "Dragón/Sombra",
       "coste": 3,
       "fuerza": 5,
       "edicion": "ONYRIA-336",
@@ -4018,7 +4018,7 @@
     {
       "nombre": "Lider Del Comite",
       "tipo": "Aliado",
-      "raza": "Bestia Faerie",
+      "raza": "Bestia/Faerie",
       "coste": 1,
       "fuerza": 2,
       "edicion": "ONYRIA-337",
@@ -4150,7 +4150,7 @@
     {
       "nombre": "Atenea En Wonderland",
       "tipo": "Aliado",
-      "raza": "Eterno Héroe",
+      "raza": "Eterno/Héroe",
       "coste": 2,
       "fuerza": 3,
       "edicion": "ONYRIA-348",
@@ -4162,7 +4162,7 @@
     {
       "nombre": "Nefertiti De Corazones",
       "tipo": "Aliado",
-      "raza": "Caballero Sacerdote",
+      "raza": "Caballero/Sacerdote",
       "coste": 2,
       "fuerza": 3,
       "edicion": "ONYRIA-349",
@@ -4330,7 +4330,7 @@
     {
       "nombre": "Dulcinea",
       "tipo": "Aliado",
-      "raza": "Eterno Héroe",
+      "raza": "Eterno/Héroe",
       "coste": 1,
       "fuerza": 2,
       "edicion": "ONYRIA-363",
@@ -4342,7 +4342,7 @@
     {
       "nombre": "Dorotea",
       "tipo": "Aliado",
-      "raza": "Faerie Sacerdote",
+      "raza": "Faerie/Sacerdote",
       "coste": 1,
       "fuerza": 2,
       "edicion": "ONYRIA-364",
@@ -4354,7 +4354,7 @@
     {
       "nombre": "Caballero Espejado",
       "tipo": "Aliado",
-      "raza": "Caballero Sombra",
+      "raza": "Caballero/Sombra",
       "coste": 2,
       "fuerza": 4,
       "edicion": "ONYRIA-365",
