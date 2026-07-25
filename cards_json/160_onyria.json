@@ -164,7 +164,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/013.png"
     },
     {
-      "nombre": "Dracula",
+      "nombre": "Drácula",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -176,7 +176,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/014.png"
     },
     {
-      "nombre": "Dracula",
+      "nombre": "Drácula",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -428,7 +428,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/035.png"
     },
     {
-      "nombre": "Frankenstein O El Moderno Prometeo",
+      "nombre": "Frankenstein o el Moderno Prometeo",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -884,7 +884,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/073.png"
     },
     {
-      "nombre": "Paris",
+      "nombre": "París",
       "tipo": "Tótem",
       "raza": null,
       "coste": 1,
@@ -3476,7 +3476,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/289.png"
     },
     {
-      "nombre": "Huitzilin",
+      "nombre": "Huitzilín",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3488,7 +3488,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/290.png"
     },
     {
-      "nombre": "Camino Del Inca",
+      "nombre": "Camino del Inca",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3500,7 +3500,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/291.png"
     },
     {
-      "nombre": "Hervidero De Sangre",
+      "nombre": "Hervidero de Sangre",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3548,7 +3548,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/295.png"
     },
     {
-      "nombre": "Salmon Del Saber",
+      "nombre": "Salmón del Saber",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3560,7 +3560,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/296.png"
     },
     {
-      "nombre": "Carro De Sol",
+      "nombre": "Carro de Sol",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3584,7 +3584,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/298.png"
     },
     {
-      "nombre": "Legion De Honor",
+      "nombre": "Legión de Honor",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3596,7 +3596,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/299.png"
     },
     {
-      "nombre": "Flor De Lis",
+      "nombre": "Flor de Lis",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3992,7 +3992,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/332.png"
     },
     {
-      "nombre": "Alicia En Wonderland",
+      "nombre": "Alicia en Wonderland",
       "tipo": "Aliado",
       "raza": null,
       "coste": 1,
@@ -4328,7 +4328,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/360.png"
     },
     {
-      "nombre": "Biblioteca De Caballeria",
+      "nombre": "Biblioteca de Caballería",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -4400,7 +4400,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/366.png"
     },
     {
-      "nombre": "Vision Heroica",
+      "nombre": "Visión Heroica",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -4544,7 +4544,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/378.png"
     },
     {
-      "nombre": "Don De Amma",
+      "nombre": "Don de Amma",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -4592,7 +4592,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/382.png"
     },
     {
-      "nombre": "Dragon Dorado",
+      "nombre": "Dragón Dorado",
       "tipo": "Talismán",
       "raza": null,
       "coste": 0,
@@ -4604,7 +4604,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/383.png"
     },
     {
-      "nombre": "Cienpies Sp",
+      "nombre": "Cienpies-Sp",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -4616,7 +4616,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/384.png"
     },
     {
-      "nombre": "Red De Plata",
+      "nombre": "Red de Plata",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,

@@ -32,7 +32,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/155/002.png"
     },
     {
-      "nombre": "Fuente De La Juventud",
+      "nombre": "Fuente de la Juventud",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -56,7 +56,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/155/004.png"
     },
     {
-      "nombre": "Don De Amma",
+      "nombre": "Don de Amma",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -116,7 +116,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/155/009.png"
     },
     {
-      "nombre": "Red De Plata",
+      "nombre": "Red de Plata",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -344,7 +344,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/155/028.png"
     },
     {
-      "nombre": "Templo De Hatshepsut",
+      "nombre": "Templo de Hatshepsut",
       "tipo": "Tótem",
       "raza": null,
       "coste": 1,
@@ -392,7 +392,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/155/032.png"
     },
     {
-      "nombre": "Dragon Dorado",
+      "nombre": "Dragón Dorado",
       "tipo": "Talismán",
       "raza": null,
       "coste": 0,

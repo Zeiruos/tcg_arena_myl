@@ -548,7 +548,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/045.png"
     },
     {
-      "nombre": "Apofis Del Caos",
+      "nombre": "Apofis del Caos",
       "tipo": "Aliado",
       "raza": "Dragón",
       "coste": 3,
@@ -2108,7 +2108,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/175.png"
     },
     {
-      "nombre": "Cienpies Sp",
+      "nombre": "Cienpies-Sp",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -3356,7 +3356,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/279.png"
     },
     {
-      "nombre": "Huitzilin",
+      "nombre": "Huitzilín",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3368,7 +3368,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/280.png"
     },
     {
-      "nombre": "Camino Del Inca",
+      "nombre": "Camino del Inca",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3380,7 +3380,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/281.png"
     },
     {
-      "nombre": "Hervidero De Sangre",
+      "nombre": "Hervidero de Sangre",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3428,7 +3428,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/285.png"
     },
     {
-      "nombre": "Salmon Del Saber",
+      "nombre": "Salmón del Saber",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3440,7 +3440,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/286.png"
     },
     {
-      "nombre": "Carro De Sol",
+      "nombre": "Carro de Sol",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3464,7 +3464,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/288.png"
     },
     {
-      "nombre": "Legion De Honor",
+      "nombre": "Legión de Honor",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3476,7 +3476,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/289.png"
     },
     {
-      "nombre": "Flor De Lis",
+      "nombre": "Flor de Lis",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -4460,7 +4460,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/371.png"
     },
     {
-      "nombre": "Red De Plata",
+      "nombre": "Red de Plata",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,

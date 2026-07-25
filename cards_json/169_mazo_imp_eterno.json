@@ -188,7 +188,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/169/015.png"
     },
     {
-      "nombre": "Shub-niggurath",
+      "nombre": "Shub-Niggurath",
       "tipo": "Aliado",
       "raza": "Eterno",
       "coste": 2,
@@ -488,7 +488,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/169/040.png"
     },
     {
-      "nombre": "Espíritu de la Maquina",
+      "nombre": "Espíritu de la Máquina",
       "tipo": "Oro",
       "raza": null,
       "coste": null,

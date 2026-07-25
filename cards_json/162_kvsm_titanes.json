@@ -44,7 +44,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/003.png"
     },
     {
-      "nombre": "Estrella De Kirin",
+      "nombre": "Estrella de Kirin",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -92,7 +92,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/007.png"
     },
     {
-      "nombre": "Mecha-Daikaiju",
+      "nombre": "Mecha-daikaiju",
       "tipo": "Aliado",
       "raza": "Dragón",
       "coste": 3,
@@ -128,7 +128,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/010.png"
     },
     {
-      "nombre": "Kuchiku El Cazador",
+      "nombre": "Kuchiku el Cazador",
       "tipo": "Aliado",
       "raza": "Guerrero",
       "coste": 2,
@@ -212,7 +212,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/017.png"
     },
     {
-      "nombre": "Mecha-Daikaiju",
+      "nombre": "Mecha-daikaiju",
       "tipo": "Aliado",
       "raza": "Dragón",
       "coste": 3,
@@ -248,7 +248,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/020.png"
     },
     {
-      "nombre": "Kuchiku El Cazador",
+      "nombre": "Kuchiku el Cazador",
       "tipo": "Aliado",
       "raza": "Guerrero",
       "coste": 2,
@@ -332,7 +332,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/027.png"
     },
     {
-      "nombre": "Supremacia Kaiju",
+      "nombre": "Supremacía Kaiju",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -368,7 +368,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/030.png"
     },
     {
-      "nombre": "Acabar La Esperanza",
+      "nombre": "Acabar la Esperanza",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -404,7 +404,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/033.png"
     },
     {
-      "nombre": "Estrella De Kirin",
+      "nombre": "Estrella de Kirin",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -644,7 +644,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/053.png"
     },
     {
-      "nombre": "Perla De Sangre",
+      "nombre": "Perla de Sangre",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -668,7 +668,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/055.png"
     },
     {
-      "nombre": "Dracula",
+      "nombre": "Drácula",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -692,7 +692,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/057.png"
     },
     {
-      "nombre": "Dragon Dorado",
+      "nombre": "Dragón Dorado",
       "tipo": "Talismán",
       "raza": null,
       "coste": 0,
@@ -2840,7 +2840,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/236.png"
     },
     {
-      "nombre": "Biblioteca De Caballeria",
+      "nombre": "Biblioteca de Caballería",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -2984,7 +2984,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/248.png"
     },
     {
-      "nombre": "Mano De Destruccion",
+      "nombre": "Mano de Destrucción",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -3188,7 +3188,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/265.png"
     },
     {
-      "nombre": "Vision Heroica",
+      "nombre": "Visión Heroica",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -3212,7 +3212,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/267.png"
     },
     {
-      "nombre": "Frankenstein O El Moderno Prometeo",
+      "nombre": "Frankenstein o el Moderno Prometeo",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -3224,7 +3224,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/268.png"
     },
     {
-      "nombre": "Fision Nuclear",
+      "nombre": "Fisión Nuclear",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,

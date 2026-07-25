@@ -140,7 +140,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/011.png"
     },
     {
-      "nombre": "Espada De Ohiggins",
+      "nombre": "Espada de O'Higgins",
       "tipo": "Arma",
       "raza": null,
       "coste": 1,
@@ -152,7 +152,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/012.png"
     },
     {
-      "nombre": "Ciudad De Los Cesares",
+      "nombre": "Ciudad de los Césares",
       "tipo": "Tótem",
       "raza": null,
       "coste": 2,
@@ -356,7 +356,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/029.png"
     },
     {
-      "nombre": "Abrazo De Maipu",
+      "nombre": "Abrazo de Maipú",
       "tipo": "Talismán",
       "raza": null,
       "coste": 3,
@@ -404,7 +404,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/033.png"
     },
     {
-      "nombre": "Quicavi",
+      "nombre": "Quicaví",
       "tipo": "Tótem",
       "raza": null,
       "coste": 2,
@@ -416,7 +416,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/034.png"
     },
     {
-      "nombre": "Tesoro De Los Cesares",
+      "nombre": "Tesoro de los Césares",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -2120,7 +2120,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/176.png"
     },
     {
-      "nombre": "Abrazo De Maipu",
+      "nombre": "Abrazo de Maipú",
       "tipo": "Talismán",
       "raza": null,
       "coste": 3,
@@ -2132,7 +2132,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/177.png"
     },
     {
-      "nombre": "Espada De Ohiggins",
+      "nombre": "Espada de O'Higgins",
       "tipo": "Arma",
       "raza": null,
       "coste": 1,
@@ -2948,7 +2948,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/245.png"
     },
     {
-      "nombre": "Dragon Dorado",
+      "nombre": "Dragón Dorado",
       "tipo": "Talismán",
       "raza": null,
       "coste": 0,
@@ -2960,7 +2960,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/246.png"
     },
     {
-      "nombre": "Dracula",
+      "nombre": "Drácula",
       "tipo": "Oro",
       "raza": null,
       "coste": null,

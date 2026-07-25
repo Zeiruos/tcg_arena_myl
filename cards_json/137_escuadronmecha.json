@@ -188,7 +188,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/137/034.png"
     },
     {
-      "nombre": "Energia Suprema",
+      "nombre": "Energía Suprema",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -200,7 +200,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/137/035.png"
     },
     {
-      "nombre": "Espiritu De La Maquina",
+      "nombre": "Espíritu de la Máquina",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -272,7 +272,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/137/042.png"
     },
     {
-      "nombre": "Fantasma Del Puente",
+      "nombre": "Fantasma del Puente",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
