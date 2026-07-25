@@ -46,6 +46,33 @@ TYPE_FIXES = {
     "Totem": "Tótem",
 }
 
+# Agrupacion de sets en temporadas para el campo "Set".
+#
+# TCG Arena renderiza un filtro como dropdown solo si el campo tiene pocos
+# valores unicos; con los 17 titulos de set reales caia a campo de texto libre.
+# Agrupando en 5 temporadas el filtro vuelve a ser dropdown, igual que "race"
+# (10 valores). El titulo de set real se conserva en el campo "Edicion", que
+# se emite como string (no array) para que sea busqueda por texto.
+SET_TO_SEASON = {
+    "IMP - Bestiarium": "Bestiarium",
+    "IMP - Secretos Arcanos": "Bestiarium",
+    "IMP - Lootbox Imperio 2024": "Bestiarium",
+    "IMP - Hielo Inmortal": "Bestiarium",
+    "IMP - Cenizas de Fuego": "Bestiarium",
+    "IMP - Onyria": "Onyria",
+    "IMP - Libertadores": "Libertadores",
+    "IMP - Kaiju vs Mecha - Titanes": "Kaiju vs Mecha",
+    "IMP - Toolkit 2026": "Kaiju vs Mecha",
+    "IMP - Chile Oculto": "Kaiju vs Mecha",
+    "IMP - Escuadrón Mecha": "Kaiju vs Mecha",
+    "25 Aniversario": "Kaiju vs Mecha",
+    "KVM JO": "Kaiju vs Mecha",
+    "IMP - AyD Vigilantes": "AyD Vigilantes",
+    "IMP - Mazo Dragón": "AyD Vigilantes",
+    "IMP - Mazo Eterno": "AyD Vigilantes",
+    "IMP - Mazo Guerrero": "AyD Vigilantes",
+}
+
 # Gold generation patterns in ability text (no spaces, as stored)
 GOLD_GEN_1 = ["generaunoro"]
 GOLD_GEN_2 = ["generadosoros"]
@@ -152,6 +179,14 @@ def compute_legality(card_id, ability_no_spaces, banlist):
     return {code: True}
 
 
+def season_for(set_title):
+    """Temporada a la que pertenece un set. Sin mapeo, usa el titulo tal cual."""
+    if set_title not in SET_TO_SEASON:
+        print(f"  Warning: set sin temporada asignada en SET_TO_SEASON: {set_title!r}")
+        return set_title
+    return SET_TO_SEASON[set_title]
+
+
 def transform_card(source_card, set_title, banlist):
     """Transform a single source card to TCG Arena format."""
     card_id = source_card["edicion"]
@@ -191,7 +226,10 @@ def transform_card(source_card, set_title, banlist):
     card["rarity"] = frecuencia
     card["strength"] = strength
     card["ability"] = ability
-    card["Set"] = [set_title]
+    # "Set" agrupa por temporada: array de pocos valores -> filtro dropdown.
+    # "Edicion" guarda el set real como string -> busqueda por texto.
+    card["Set"] = [season_for(set_title)]
+    card["Edicion"] = set_title
 
     # Gold token generation
     gold_count = detect_gold_generation(ability)
@@ -268,6 +306,15 @@ def main():
     # Gold token stats
     gold_cards = sum(1 for v in cards.values() if "tokens" in v)
     print(f"Gold generators: {gold_cards} cards with token creation")
+
+    # Temporadas (campo "Set"): pocas para que el filtro salga como dropdown
+    seasons = {}
+    for v in cards.values():
+        for s in v.get("Set", []):
+            seasons[s] = seasons.get(s, 0) + 1
+    print(f"\nTemporadas ({len(seasons)} valores en el filtro Set):")
+    for name, n in sorted(seasons.items(), key=lambda x: -x[1]):
+        print(f"  {n:5}  {name}")
 
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(cards, f, ensure_ascii=False, indent=2)

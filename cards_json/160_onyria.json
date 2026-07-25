@@ -5,7 +5,7 @@
     "titulo": "IMP - Onyria",
     "fecha_lanzamiento": "2025-04-11"
   },
-  "total_cartas": 385,
+  "total_cartas": 374,
   "cartas": [
     {
       "nombre": "El Monstruo",
@@ -3848,18 +3848,6 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/320.png"
     },
     {
-      "nombre": "Malevolente",
-      "tipo": "Aliado",
-      "raza": null,
-      "coste": 1,
-      "fuerza": 2,
-      "edicion": "ONYRIA-321",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Entra en juego con una Raza a tu elección.\nSólo puedes controlar una copia de esta carta.\nPuedes Desterrarlo para Anular un Talismán de coste 2 o menos o para prevenir que una carta salga del juego.",
-      "imagen_url": "https://api.myl.cl/static/cards/160/321.png"
-    },
-    {
       "nombre": "Invocar Anfibios",
       "tipo": "Talismán",
       "raza": null,
@@ -3882,18 +3870,6 @@
       "descripcion": null,
       "habilidad": "Solo puedes jugar un Golpe Fulminante por turno y si jugaste Aliados de coste 1 o más. \nPara jugar este Talismán, Baraja una carta de tu mano. \nMira la mano de tu oponente y Destierra un Talismán de ahí. ",
       "imagen_url": "https://api.myl.cl/static/cards/160/323.png"
-    },
-    {
-      "nombre": "Nombre De Horus",
-      "tipo": "Oro",
-      "raza": null,
-      "coste": null,
-      "fuerza": null,
-      "edicion": "ONYRIA-324",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Cuando entra en juego, puedes mirar las primeras seis cartas de un Castillo. Si es el Castillo oponente, pon tres cartas de ahí en su Destierro. Si no, pon una carta de ahí en tu mano y dos en tu Cementerio. Esta habilidad no puede ser cancelada.",
-      "imagen_url": "https://api.myl.cl/static/cards/160/324.png"
     },
     {
       "nombre": "El Cazador",
@@ -4448,102 +4424,6 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/370.png"
     },
     {
-      "nombre": "Jaculus",
-      "tipo": "Aliado",
-      "raza": "Dragón",
-      "coste": 1,
-      "fuerza": 3,
-      "edicion": "ONYRIA-371",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Cuando entra en juego, puedes buscar en tu Castillo un Aliado Dragón de coste 3 o más y jugarlo reduciendo su coste en un Oro. \nPuedes Desterrarlo para Anular o Destruir una carta de coste 1 o menos.",
-      "imagen_url": "https://api.myl.cl/static/cards/160/371.png"
-    },
-    {
-      "nombre": "Gersemi",
-      "tipo": "Aliado",
-      "raza": "Eterno",
-      "coste": 1,
-      "fuerza": 2,
-      "edicion": "ONYRIA-372",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Indestructible. \nCuando entra en juego, Roba una carta. \nPuedes Desterrar este Aliado para Anular o Barajar una carta oponente de coste 1 o menos.",
-      "imagen_url": "https://api.myl.cl/static/cards/160/372.png"
-    },
-    {
-      "nombre": "Haquika Tasherit",
-      "tipo": "Aliado",
-      "raza": "Sacerdote",
-      "coste": 1,
-      "fuerza": 2,
-      "edicion": "ONYRIA-373",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Imbloqueable. \nCuando entra en juego, muestra cartas de la parte superior de tu Castillo hasta mostrar tres Aliados Sacerdote, pon dos en tu mano y Destierra el otro. No puedes recibir daño de combate hasta tu próximo turno.",
-      "imagen_url": "https://api.myl.cl/static/cards/160/373.png"
-    },
-    {
-      "nombre": "Hattori Hanzo",
-      "tipo": "Aliado",
-      "raza": "Guerrero",
-      "coste": 2,
-      "fuerza": 4,
-      "edicion": "ONYRIA-374",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Furia. Imbloqueable. \nUna vez por turno, un Aliado gana 2 de Fuerza y hace daño al Destierro este turno. \nCuando fuera a ser afectado, puedes subirlo a tu mano para mostrar cartas del tope de tu Castillo hasta mostrar un Aliado de coste 2. Ponlo en juego y Baraja el resto.",
-      "imagen_url": "https://api.myl.cl/static/cards/160/374.png"
-    },
-    {
-      "nombre": "Imentet",
-      "tipo": "Aliado",
-      "raza": "Faerie",
-      "coste": 2,
-      "fuerza": 3,
-      "edicion": "ONYRIA-375",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Cuando entra en juego, Roba dos cartas. \nUna vez por turno, tu oponente Bota dos cartas por cada Aliado Faerie que controles o puedes Destruir o Desterrar una carta oponente que no sea Oro. \nTus demás Aliados Faerie son Imbloqueables.",
-      "imagen_url": "https://api.myl.cl/static/cards/160/375.png"
-    },
-    {
-      "nombre": "Bestia De Gevaudan",
-      "tipo": "Aliado",
-      "raza": "Bestia",
-      "coste": 2,
-      "fuerza": 4,
-      "edicion": "ONYRIA-376",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Puedes Descartar una carta para jugarlo desde tu mano por un Oro menos. \nEn tu Vigilia, una vez por turno, puedes Destruir una carta que controles para jugar un Aliado de tu Cementerio por un Oro menos. \nLos demás Aliados que controles ganan 1 de Fuerza.",
-      "imagen_url": "https://api.myl.cl/static/cards/160/376.png"
-    },
-    {
-      "nombre": "General Washington",
-      "tipo": "Aliado",
-      "raza": "Héroe",
-      "coste": 2,
-      "fuerza": 4,
-      "edicion": "ONYRIA-377",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Indestructible. \nEn tu Vigilia, una vez por turno, puedes jugar un Arma o un Aliado, que no sea General Washington, de tu mano o Cementerio, por un Oro menos. \nUna vez por turno, puedes Barajar una carta de tu mano para Anular una carta de coste 2 o menos.",
-      "imagen_url": "https://api.myl.cl/static/cards/160/377.png"
-    },
-    {
-      "nombre": "Animita",
-      "tipo": "Oro",
-      "raza": null,
-      "coste": null,
-      "fuerza": null,
-      "edicion": "ONYRIA-378",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Cuando entra en juego, cada jugador Bota tres cartas de su Castillo y tú Robas una carta. \nEn ti Vigilia, una vez por turno, puedes hacer que una carta de tu Cementerio que no sea Talismán gane Exhumar por el turno.",
-      "imagen_url": "https://api.myl.cl/static/cards/160/378.png"
-    },
-    {
       "nombre": "Don de Amma",
       "tipo": "Oro",
       "raza": null,
@@ -4554,18 +4434,6 @@
       "descripcion": null,
       "habilidad": "Cuando tu oponente ponga su segundo Oro en juego este turno, puedes poner este Oro desde tu mano o Cementerio en tu Oro Pagado. \nUna vez por turno, puedes Desterrar un Oro con habilidad de tu Reserva. Luego, busca un Oro en tu Castillo y ponlo en tu Reserva.",
       "imagen_url": "https://api.myl.cl/static/cards/160/379.png"
-    },
-    {
-      "nombre": "Pistola De Dos Caones",
-      "tipo": "Arma",
-      "raza": null,
-      "coste": 1,
-      "fuerza": null,
-      "edicion": "ONYRIA-380",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "El portador gana 2 de Fuerza. \nCuando el portador haga daño de combate, puedes Barajar una carta de coste 2 o menos. \nCuando Botes esta carta por daño, dejas de Botar cartas y Destierra esta Arma. \nPuedes Barajarla de tu mano para Robar una carta.",
-      "imagen_url": "https://api.myl.cl/static/cards/160/380.png"
     },
     {
       "nombre": "Abu Simbel",

@@ -5,7 +5,7 @@
     "titulo": "IMP - Escuadrón Mecha",
     "fecha_lanzamiento": "2024-09-01"
   },
-  "total_cartas": 25,
+  "total_cartas": 21,
   "cartas": [
     {
       "nombre": "Tenshi X-2",
@@ -212,30 +212,6 @@
       "imagen_url": "https://api.myl.cl/static/cards/137/036.png"
     },
     {
-      "nombre": "Expulsion",
-      "tipo": "Talismán",
-      "raza": null,
-      "coste": 1,
-      "fuerza": null,
-      "edicion": "ESCUADRONMECHA-037",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Puedes jugar este Talismán en respuesta a que tu oponente juegue una carta. Esa carta entra en juego sin habilidad por el turno. Si es un Talismán, esa carta se resuelve sin efecti.\nPuedes Desterrarla de tu Cementerio para que una carta su habilidad por el turno.",
-      "imagen_url": "https://api.myl.cl/static/cards/137/037.png"
-    },
-    {
-      "nombre": "Nombre De Horus",
-      "tipo": "Oro",
-      "raza": null,
-      "coste": null,
-      "fuerza": null,
-      "edicion": "ESCUADRONMECHA-038",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Cuando entra en juego, puedes mirar las primeras seis cartas de un Castillo. Si es el Castillo oponente, pon tres cartas de ahí en su Destierro. Si no, pon una carta de ahí en tu mano y dos en tu Cementerio. Esta habilidad no puede ser cancelada.",
-      "imagen_url": "https://api.myl.cl/static/cards/137/038.png"
-    },
-    {
       "nombre": "Un Nuevo Guardian",
       "tipo": "Talismán",
       "raza": null,
@@ -260,18 +236,6 @@
       "imagen_url": "https://api.myl.cl/static/cards/137/041.png"
     },
     {
-      "nombre": "Captura Colosal",
-      "tipo": "Talismán",
-      "raza": null,
-      "coste": 1,
-      "fuerza": null,
-      "edicion": "ESCUADRONMECHA-042",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Elige un Aliado que controles y uno oponente. El Aliado con menor Fuerza entre los dos no puede atacar ni bloquear y reemplaza su habilidad por \"En tu Fase Final, Destierra las primeras dos cartas de tu Castillo\".",
-      "imagen_url": "https://api.myl.cl/static/cards/137/042.png"
-    },
-    {
       "nombre": "Fantasma del Puente",
       "tipo": "Talismán",
       "raza": null,
@@ -282,18 +246,6 @@
       "descripcion": null,
       "habilidad": "Baraja y/o Destierra hasta cuatro cartas de los Cementerios. Luego, Roba dos cartas.\nEn tu Vigilia, si está en tu Cementerio, puedes Barajar este Talismán en tu Castillo.\nSi Botas esta carta desde tu Castillo por daño, dejas de Botar cartas y Destierra este Talismán.",
       "imagen_url": "https://api.myl.cl/static/cards/137/045.png"
-    },
-    {
-      "nombre": "Animita",
-      "tipo": "Oro",
-      "raza": null,
-      "coste": null,
-      "fuerza": null,
-      "edicion": "ESCUADRONMECHA-046",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Cuando entra en juego, cada jugador Bota tres cartas de su Castillo y tú Robas una carta.\nEn ti Vigilia, una vez por turno, puedes hacer que una carta de tu Cementerio que no sea Talismán gane Exhumar por el turno.",
-      "imagen_url": "https://api.myl.cl/static/cards/137/046.png"
     },
     {
       "nombre": "Golpe Fulminante",

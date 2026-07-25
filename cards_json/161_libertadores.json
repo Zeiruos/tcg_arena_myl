@@ -5,7 +5,7 @@
     "titulo": "IMP - Libertadores",
     "fecha_lanzamiento": "2025-08-08"
   },
-  "total_cartas": 257,
+  "total_cartas": 254,
   "cartas": [
     {
       "nombre": "Mocha Dick",
@@ -2852,30 +2852,6 @@
       "imagen_url": "https://api.myl.cl/static/cards/161/237.png"
     },
     {
-      "nombre": "Ryujin El Atormentador",
-      "tipo": "Aliado",
-      "raza": "Dragón",
-      "coste": 3,
-      "fuerza": 5,
-      "edicion": "LIBERTADORES-238",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Exhumar. Furia. \nCuando lo juegues, puedes Botar cuatro cartas para que cueste un Oro menos. \nCuando ataca, puedes Desterrar hasta dos cartas cuyos costes sumen 3 o menos. \nUna vez por turno, puedes Barajar hasta tres cartas de tu Cementerio y Robar dos cartas.",
-      "imagen_url": "https://api.myl.cl/static/cards/161/238.png"
-    },
-    {
-      "nombre": "Veborg",
-      "tipo": "Aliado",
-      "raza": "Faerie",
-      "coste": 1,
-      "fuerza": 2,
-      "edicion": "LIBERTADORES-239",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Cuando entra en juego, muestra cartas de la parte superior tu Castillo hasta mostrar un Aliado y un Oro, ponlos en tu mano y Baraja el resto. Puedes Desterrarlo para Anular un Talismán o Tótem de coste 2 o menos.",
-      "imagen_url": "https://api.myl.cl/static/cards/161/239.png"
-    },
-    {
       "nombre": "Depredar",
       "tipo": "Talismán",
       "raza": null,
@@ -2886,18 +2862,6 @@
       "descripcion": null,
       "habilidad": "No puede ser Anulado. Reduce su coste en un Oro por cada Aliado en juego, hasta un mínimo de 0. \nHasta tres Aliados cuyos costes sumen 3 o menos pierden su habilidad, tienen Fuerza 0 y no pueden ser Destruidos este turno.",
       "imagen_url": "https://api.myl.cl/static/cards/161/240.png"
-    },
-    {
-      "nombre": "Shoki",
-      "tipo": "Aliado",
-      "raza": "Héroe",
-      "coste": 2,
-      "fuerza": 4,
-      "edicion": "LIBERTADORES-241",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Furia. \nSi ataca solo, a tu oponente le cuesta un Oro adicional disparar habilidades de cartas de coste 3 o menos hasta tu próximo turno y Destruye hasta una carta de coste 3 o menos. \nEn tu Fase Final, Destierra dos cartas de un Cementerio. Luego, Roba una carta.",
-      "imagen_url": "https://api.myl.cl/static/cards/161/241.png"
     },
     {
       "nombre": "Gurzil",

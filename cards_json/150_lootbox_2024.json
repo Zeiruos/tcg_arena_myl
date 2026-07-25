@@ -5,7 +5,7 @@
     "titulo": "IMP - Lootbox Imperio 2024",
     "fecha_lanzamiento": "2024-12-13"
   },
-  "total_cartas": 39,
+  "total_cartas": 29,
   "cartas": [
     {
       "nombre": "Pulsera De Energia",
@@ -164,54 +164,6 @@
       "imagen_url": "https://api.myl.cl/static/cards/150/013.png"
     },
     {
-      "nombre": "Mandjet",
-      "tipo": "Talismán",
-      "raza": null,
-      "coste": 2,
-      "fuerza": null,
-      "edicion": "LOOTBOX_2024-014",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Exhumar. \nSólo puedes jugarlo pagando su coste y cuando lo juegues, Destiérralo. \nDestierra un Aliado, Oro o Tótem oponente y Roba dos cartas. No recibes daño hasta tu próximo turno.",
-      "imagen_url": "https://api.myl.cl/static/cards/150/014.png"
-    },
-    {
-      "nombre": "Envenenar",
-      "tipo": "Talismán",
-      "raza": null,
-      "coste": 0,
-      "fuerza": null,
-      "edicion": "LOOTBOX_2024-015",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Única. \nAnula una carta de coste 0 o que haya sido jugada sin pagar su coste y Destierra esa carta. \nSi está en tu mano, puedes Barajarla para mirar las primeras dos cartas de tu Castillo, poner una en tu mano y Barajar la otra.",
-      "imagen_url": "https://api.myl.cl/static/cards/150/015.png"
-    },
-    {
-      "nombre": "Nihon Koryo Jujutsu",
-      "tipo": "Talismán",
-      "raza": null,
-      "coste": 1,
-      "fuerza": null,
-      "edicion": "LOOTBOX_2024-016",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Única. Exhumar.\nCuando lo juegues, Destiérralo.\nPrevén que un Aliado que controles sea afectado por un efecto oponente o redirige un efecto que fuera a afectar a un Aliado.\nSi lo jugaste desde tu mano, Roba una carta.",
-      "imagen_url": "https://api.myl.cl/static/cards/150/016.png"
-    },
-    {
-      "nombre": "Gran Khopesh",
-      "tipo": "Arma",
-      "raza": null,
-      "coste": 1,
-      "fuerza": null,
-      "edicion": "LOOTBOX_2024-017",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Exhumar. \nEl portador gana 2 de Fuerza. \nEn tu Vigilia, una vez por turno, tu oponente Bota cartas igual a la Fuerza del portador. \nCuando salga del juego, puedes Desterrar una carta oponente de coste 2 o menos.",
-      "imagen_url": "https://api.myl.cl/static/cards/150/017.png"
-    },
-    {
       "nombre": "Templo de Hatshepsut",
       "tipo": "Tótem",
       "raza": null,
@@ -222,18 +174,6 @@
       "descripcion": null,
       "habilidad": "Exhumar. \nCuando entra en juego, Baraja o Destierra una carta oponente de coste 3 o menos. \nEn tu Vigilia o al comienzo de tu Fase Final, una vez por turno, puedes Desterrar o Barajar hasta tres cartas de los Cementerios.",
       "imagen_url": "https://api.myl.cl/static/cards/150/018.png"
-    },
-    {
-      "nombre": "Amuleto De Thor",
-      "tipo": "Oro",
-      "raza": null,
-      "coste": null,
-      "fuerza": null,
-      "edicion": "LOOTBOX_2024-019",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "No puedes controlar más copias de esta carta. \nCuando entra en juego, busca un Oro en tu Castillo y ponlo en tu mano. \nEn tu Fase Final, puedes Desterrar la primera carta de tu Castillo para agrupar este Oro.",
-      "imagen_url": "https://api.myl.cl/static/cards/150/019.png"
     },
     {
       "nombre": "Ryugu-Jo",
@@ -248,42 +188,6 @@
       "imagen_url": "https://api.myl.cl/static/cards/150/020.png"
     },
     {
-      "nombre": "Jujitsu",
-      "tipo": "Talismán",
-      "raza": null,
-      "coste": 1,
-      "fuerza": null,
-      "edicion": "LOOTBOX_2024-021",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Sólo puedes jugar un Jujitsu por turno. \nEn tu turno, si no controlas más Oros que tu oponente, cuesta un Oro menos y Destiérralo. \nElige una carta que no sea Oro. Paga tantos Oros como coste tenga esa carta menos uno. Luego, Barájala y Roba dos cartas.",
-      "imagen_url": "https://api.myl.cl/static/cards/150/021.png"
-    },
-    {
-      "nombre": "Parche Pirata",
-      "tipo": "Oro",
-      "raza": null,
-      "coste": null,
-      "fuerza": null,
-      "edicion": "LOOTBOX_2024-022",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Si está en tu Reserva, las cartas en los Cementerios pierden su habilidad y para jugar cartas desde una Zona que no sea la mano se debe pagar un Oro adicional. \nEn tu Vigilia, una vez por turno, puedes pagar un Oro para Robar dos cartas y Descartar una.",
-      "imagen_url": "https://api.myl.cl/static/cards/150/022.png"
-    },
-    {
-      "nombre": "Barnstokkr",
-      "tipo": "Tótem",
-      "raza": null,
-      "coste": 2,
-      "fuerza": null,
-      "edicion": "LOOTBOX_2024-023",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Cuando entra en juego, puedes poner un Oro de tu mano o Cementerio en tu Oro Pagado. \nUna vez por turno, puedes Barajar una carta en juego que no sea Oro o Robar dos cartas. \nLas habilidades de los Tótem y Oros que controles no pueden ser canceladas.",
-      "imagen_url": "https://api.myl.cl/static/cards/150/023.png"
-    },
-    {
       "nombre": "Sable De Napoleon",
       "tipo": "Arma",
       "raza": null,
@@ -296,18 +200,6 @@
       "imagen_url": "https://api.myl.cl/static/cards/150/024.png"
     },
     {
-      "nombre": "Beso De Loto",
-      "tipo": "Talismán",
-      "raza": null,
-      "coste": 2,
-      "fuerza": null,
-      "edicion": "LOOTBOX_2024-025",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "No puede ser Anulado.\nPuedes Barajar una carta de tu mano para subirlo de tu Cementerio a tu mano.\nHasta dos cartas oponentes de coste 2 o menos pierden su habilidad y son Destruidas. Roba dos cartas.",
-      "imagen_url": "https://api.myl.cl/static/cards/150/025.png"
-    },
-    {
       "nombre": "Justa",
       "tipo": "Talismán",
       "raza": null,
@@ -318,18 +210,6 @@
       "descripcion": null,
       "habilidad": "Cuando juegues este Talismán, Destiérralo.\nSube hasta una carta de tu Cementerio a tu mano y hasta un Aliado oponente de coste 2 o menos en juego a la mano de su dueño. \nPuedes Desterrarlo de tu mano para que una carta pierda su habilidad por el turno.",
       "imagen_url": "https://api.myl.cl/static/cards/150/026.png"
-    },
-    {
-      "nombre": "Bifrost",
-      "tipo": "Oro",
-      "raza": null,
-      "coste": null,
-      "fuerza": null,
-      "edicion": "LOOTBOX_2024-027",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "El primer Aliado o Tótem, de coste 2 o más, que juegues en tu turno no puede ser Anulado. Puedes pagarlo para buscar en tu Castillo una carta y jugarla por un Oro menos. Luego, convierte este Oro en un Oro sin habilidad y Roba dos cartas.",
-      "imagen_url": "https://api.myl.cl/static/cards/150/027.png"
     },
     {
       "nombre": "Sheut",

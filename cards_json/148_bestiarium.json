@@ -5,7 +5,7 @@
     "titulo": "IMP - Bestiarium",
     "fecha_lanzamiento": "2024-12-13"
   },
-  "total_cartas": 393,
+  "total_cartas": 377,
   "cartas": [
     {
       "nombre": "Gran Kraken",
@@ -3872,42 +3872,6 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/322.png"
     },
     {
-      "nombre": "Blasfemia",
-      "tipo": "Talismán",
-      "raza": null,
-      "coste": 1,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-323",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Puedes jugarlo en respuesta a que una carta fuera a ser afectada por un efecto oponente. Si es un Oro, esta carta cuesta un Oro menos. \nPrevén ese efecto o cambia sus objetivos. Luego, Roba dos cartas.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/323.png"
-    },
-    {
-      "nombre": "Juicio De Osiris",
-      "tipo": "Talismán",
-      "raza": null,
-      "coste": 1,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-324",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "No puede ser Anulado. \nBaraja o Destierra un Aliado oponente de Fuerza 4 o menos. \nSi hay tres o menos cartas en tu mano, Roba tres cartas, si no, pon este Talismán en tu Oro Pagado como un Oro sin habilidad.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/324.png"
-    },
-    {
-      "nombre": "Frasco Canopico",
-      "tipo": "Oro",
-      "raza": null,
-      "coste": null,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-325",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Cuando entra en juego, muestra las primeras cinco cartas de tu Castillo. Pon hasta dos Aliados de ahí en tu mano y Baraja el resto.\nSi controlas dos o más Aliados en Línea de Ataque, puedes Destruirlo para que tu oponente Bote cinco cartas.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/325.png"
-    },
-    {
       "nombre": "Festin Orco",
       "tipo": "Talismán",
       "raza": null,
@@ -4100,78 +4064,6 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/341.png"
     },
     {
-      "nombre": "Honjo Masamune",
-      "tipo": "Arma",
-      "raza": null,
-      "coste": 1,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-342",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "El portador gana 2 de Fuerza, Furia y no puede ser afectado por Talismanes oponentes.\nUna vez por turno, mira cartas del tope de tu Castillo como Aliados controles. Pon dos cartas de ahí en tu mano y Baraja el resto.\nLos Aliados que controlas ganan 1 de Fuerza.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/342.png"
-    },
-    {
-      "nombre": "Armadura Imperial",
-      "tipo": "Oro",
-      "raza": null,
-      "coste": null,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-343",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Oro Inicial. \nCuando entra en juego o al comienzo de tu Vigilia, si tu oponente tiene dos o más Oros en Reserva, puedes generar un Oro para jugar Aliados. \nEn tu Fase Final, si declaraste ataque este turno, puedes Barajar y/o Desterrar hasta dos cartas de los Cementerios.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/343.png"
-    },
-    {
-      "nombre": "Koto",
-      "tipo": "Oro",
-      "raza": null,
-      "coste": null,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-344",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Cuando entra en juego, muestra cartas del tope de tu Castillo hasta mostrar un Aliado. Ponlo en tu mano y Baraja el resto.\nUna vez en tu turno, elige una carta. Tu oponente no puede utilizar su habilidad este turno a menos que pague un Oro.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/344.png"
-    },
-    {
-      "nombre": "Templo De Uppsala",
-      "tipo": "Tótem",
-      "raza": null,
-      "coste": 1,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-345",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Exhumar.\nCuando entra en juego, busca hasta dos cartas en el Castillo oponente y Destiérralas.\nUna vez por turno, puedes Barajar una carta de tu mano para Robar una carta y Desterrar hasta dos cartas de un Cementerio.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/345.png"
-    },
-    {
-      "nombre": "Ankh",
-      "tipo": "Oro",
-      "raza": null,
-      "coste": null,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-346",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Si está en tu Reserva, tu oponente no puede disparar habilidades de cartas de coste 1 a menos que Destierre una carta de su mano. \nEn tu Vigilia, una vez por turno, puedes pagar un Oro para Robar dos cartas. Luego, puedes Barajar una carta de coste 1 o menos.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/346.png"
-    },
-    {
-      "nombre": "Expulsion",
-      "tipo": "Talismán",
-      "raza": null,
-      "coste": 1,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-347",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Puedes jugar este Talismán en respuesta a que tu oponente juegue una carta. Esa carta entra en juego sin habilidad por el turno. Si es un Talismán, esa carta se resuelve sin efecto.\nPuedes Desterrarla de tu Cementerio para que una carta pierda su habilidad por el turno.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/347.png"
-    },
-    {
       "nombre": "Aklo Sabaoth",
       "tipo": "Talismán",
       "raza": null,
@@ -4316,30 +4208,6 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/359.png"
     },
     {
-      "nombre": "Llamada Salvaje",
-      "tipo": "Talismán",
-      "raza": null,
-      "coste": 0,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-360",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Puedes jugar esta carta en respuesta a que tu oponente fuera a mirar tu mano o buscar cartas en un Castillo. Préven ese efecto.\nPuedes Barajar esta carta desde tu mano para Robar una carta.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/360.png"
-    },
-    {
-      "nombre": "Malevolente",
-      "tipo": "Aliado",
-      "raza": null,
-      "coste": 1,
-      "fuerza": 2,
-      "edicion": "BESTIARIUM-361",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Entra en juego con una Raza a tu elección.\nSólo puedes controlar una copia de esta carta.\nPuedes Desterrarlo para Anular un Talismán de coste 2 o menos o para prevenir que una carta salga del juego.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/361.png"
-    },
-    {
       "nombre": "Vorpal",
       "tipo": "Arma",
       "raza": null,
@@ -4482,66 +4350,6 @@
       "descripcion": null,
       "habilidad": "Si controlas menos Oros que tu oponente, puedes jugarlo por un Oro menos. Cuando lo juegues, Destiérralo.\nAnula un Aliado o Tótem, de coste 1 o menos, o cancela la habilidad de una carta.",
       "imagen_url": "https://api.myl.cl/static/cards/148/373.png"
-    },
-    {
-      "nombre": "Armadura Imperial",
-      "tipo": "Oro",
-      "raza": null,
-      "coste": null,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-374",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Oro Inicial. \nCuando entra en juego o al comienzo de tu Vigilia, si tu oponente tiene dos o más Oros en Reserva, puedes generar un Oro para jugar Aliados. \nEn tu Fase Final, si declaraste ataque este turno, puedes Barajar y/o Desterrar hasta dos cartas de los Cementerios.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/374.png"
-    },
-    {
-      "nombre": "Parche Pirata",
-      "tipo": "Oro",
-      "raza": null,
-      "coste": null,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-375",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Si está en tu Reserva, las cartas en los Cementerios pierden su habilidad y para jugar cartas desde una Zona que no sea la mano se debe pagar un Oro adicional. \nEn tu Vigilia, una vez por turno, puedes pagar un Oro para Robar dos cartas y Descartar una.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/375.png"
-    },
-    {
-      "nombre": "Envenenar",
-      "tipo": "Talismán",
-      "raza": null,
-      "coste": 0,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-376",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Única. \nAnula una carta de coste 0 o que haya sido jugada sin pagar su coste y Destierra esa carta. \nSi está en tu mano, puedes Barajarla para mirar las primeras dos cartas de tu Castillo, poner una en tu mano y Baraja la otra.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/376.png"
-    },
-    {
-      "nombre": "Honjo Masamune",
-      "tipo": "Arma",
-      "raza": null,
-      "coste": 1,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-377",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "El portador gana 2 de Fuerza, Furia y no puede ser afectado por Talismanes oponentes.\nUna vez por turno, mira cartas del tope de tu Castillo como Aliados controles. Pon dos cartas de ahí en tu mano y Baraja el resto.\nLos Aliados que controlas ganan 1 de Fuerza.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/377.png"
-    },
-    {
-      "nombre": "Jujitsu",
-      "tipo": "Talismán",
-      "raza": null,
-      "coste": 1,
-      "fuerza": null,
-      "edicion": "BESTIARIUM-378",
-      "frecuencia": "P",
-      "descripcion": null,
-      "habilidad": "Sólo puedes jugar un Jujitsu por turno. \nEn tu turno, si no controlas más Oros que tu oponente, cuesta un Oro menos y Destiérralo. \nElige una carta que no sea Oro. Paga tantos Oros como coste tenga esa carta menos uno. Luego, Barájala y Roba dos cartas.",
-      "imagen_url": "https://api.myl.cl/static/cards/148/378.png"
     },
     {
       "nombre": "Tabla Isiaca",
