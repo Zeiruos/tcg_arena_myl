@@ -3946,7 +3946,7 @@
     {
       "nombre": "Gog",
       "tipo": "Aliado",
-      "raza": null,
+      "raza": "Guerrero",
       "coste": 2,
       "fuerza": 4,
       "edicion": "BESTIARIUM-329",

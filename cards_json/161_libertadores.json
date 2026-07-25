@@ -2242,7 +2242,7 @@
     {
       "nombre": "Ignacio Carrera Pinto",
       "tipo": "Aliado",
-      "raza": null,
+      "raza": "Caballero/Héroe",
       "coste": 2,
       "fuerza": 4,
       "edicion": "LIBERTADORES-187",

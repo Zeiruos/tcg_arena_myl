@@ -94,7 +94,7 @@
     {
       "nombre": "Orden Siniestra",
       "tipo": "Talismán",
-      "raza": "Bestia",
+      "raza": null,
       "coste": 1,
       "fuerza": null,
       "edicion": "LOOTBOX_2024-008",

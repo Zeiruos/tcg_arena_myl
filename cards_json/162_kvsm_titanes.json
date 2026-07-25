@@ -3250,7 +3250,7 @@
     {
       "nombre": "Conde Dracula",
       "tipo": "Aliado",
-      "raza": null,
+      "raza": "Sombra",
       "coste": 1,
       "fuerza": 2,
       "edicion": "KVSM_TITANES-271",
@@ -3262,7 +3262,7 @@
     {
       "nombre": "Sombrerero Loco",
       "tipo": "Aliado",
-      "raza": null,
+      "raza": "Faerie",
       "coste": 1,
       "fuerza": 2,
       "edicion": "KVSM_TITANES-272",
@@ -3274,7 +3274,7 @@
     {
       "nombre": "Ereshkigal",
       "tipo": "Aliado",
-      "raza": null,
+      "raza": "Sacerdote",
       "coste": 1,
       "fuerza": 3,
       "edicion": "KVSM_TITANES-273",
@@ -3286,7 +3286,7 @@
     {
       "nombre": "Jabberwocky",
       "tipo": "Aliado",
-      "raza": null,
+      "raza": "Dragón",
       "coste": 2,
       "fuerza": 3,
       "edicion": "KVSM_TITANES-274",
@@ -3298,7 +3298,7 @@
     {
       "nombre": "Legion Paladin",
       "tipo": "Aliado",
-      "raza": null,
+      "raza": "Caballero/Guerrero/Héroe",
       "coste": 1,
       "fuerza": 3,
       "edicion": "KVSM_TITANES-275",
@@ -3310,7 +3310,7 @@
     {
       "nombre": "Horda Tenebris",
       "tipo": "Aliado",
-      "raza": null,
+      "raza": "Bestia/Dragón/Sombra",
       "coste": 2,
       "fuerza": 4,
       "edicion": "KVSM_TITANES-276",
@@ -3322,7 +3322,7 @@
     {
       "nombre": "Espiritu Desafiante",
       "tipo": "Aliado",
-      "raza": null,
+      "raza": "Eterno/Faerie/Sacerdote",
       "coste": 2,
       "fuerza": 2,
       "edicion": "KVSM_TITANES-277",
