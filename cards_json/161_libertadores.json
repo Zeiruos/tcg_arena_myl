@@ -3028,7 +3028,7 @@
       "edicion": "LIBERTADORES-255",
       "frecuencia": "P",
       "descripcion": null,
-      "habilidad": "Cuando entra o salga del juego puedes subir hasta un Aliado o Arma de tu Cementerio a tu mano y Robar una carta.\nPuedes Desterrarlo para prevenir que hasta dos Aliados que controles salgan del juego. \nEl primer Arma que juegues cada turno reduce su coste en un Oro, hasta un mínimo de 1.",
+      "habilidad": "Cuando entra en juego, Roba una carta, genera un Oro para jugar Aliados o Armas de coste 2 o más y sube hasta una carta de tu Cementerio a tu mano.\nPuedes Desterrarlo para prevenir que un Aliado que controlas salga del juego.",
       "imagen_url": "https://api.myl.cl/static/cards/161/255.png"
     },
     {

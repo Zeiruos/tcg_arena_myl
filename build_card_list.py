@@ -63,6 +63,15 @@ TYPE_FIXES = {
     "Totem": "Tótem",
 }
 
+# Los nombres se emiten sin tildes: el buscador de TCG Arena hace match literal
+# sobre el texto, asi que "Baculo" no encuentra "Báculo de los Eternos".
+# La ñ se conserva a proposito: es una letra distinta, no un diacritico
+# ("Cañón" -> "Cañon", no "Canon").
+ACCENT_MAP = str.maketrans({
+    "á": "a", "é": "e", "í": "i", "ó": "o", "ú": "u", "ü": "u",
+    "Á": "A", "É": "E", "Í": "I", "Ó": "O", "Ú": "U", "Ü": "U",
+})
+
 # Agrupacion de sets en temporadas para el campo "Set".
 #
 # TCG Arena renderiza un filtro como dropdown solo si el campo tiene pocos
@@ -221,6 +230,11 @@ def compute_legality(card_id, ability_no_spaces, banlist):
     return {code: True}
 
 
+def strip_accents(text):
+    """Quita las tildes de las vocales, conservando la ñ. Ver ACCENT_MAP."""
+    return (text or "").translate(ACCENT_MAP)
+
+
 def normalize_name(name):
     """Clave de comparacion de nombres: sin tildes, sin puntuacion, minusculas."""
     n = unicodedata.normalize("NFD", name or "")
@@ -260,7 +274,9 @@ def season_for(set_title):
 def transform_card(source_card, set_title, banlist, vigencias):
     """Transform a single source card to TCG Arena format."""
     card_id = source_card["edicion"]
-    nombre = source_card["nombre"]
+    # Sin tildes para que el buscador de TCG Arena encuentre igual.
+    # El lookup de vigencia normaliza aparte, asi que no se ve afectado.
+    nombre = strip_accents(source_card["nombre"])
     tipo = TYPE_FIXES.get(source_card["tipo"], source_card["tipo"])
     raza = source_card.get("raza")
     coste = source_card.get("coste")

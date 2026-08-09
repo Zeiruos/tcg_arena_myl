@@ -6,6 +6,22 @@ El detalle de cada jornada de trabajo está en [`docs/activity/`](docs/activity/
 
 ---
 
+## 2026-08-09
+
+- **Actualiza banlist — última actualización oficial 08/07/26**
+  Entran prohibidas Ereshkigal (subía de limitada a 2) y Resistencia de Acero (subía de
+  limitada a 1); Sherlock Holmes baja a limitada a 2; entran limitadas Mariano Osorio (2),
+  Voragh el Devorador (1) y Ángel Metatrón (1). Se liberan Los Umbras y Alicia en Wonderland.
+  Salen Niten Ichi-Ryu y Anillo de Vacío por estar fuera de rotación. Shakar Raj se mantiene
+  limitada a 1 pese a no aparecer en la tabla publicada (omisión del publisher).
+  IDs resueltos por nombre contra el pool real, incluidas todas las reimpresiones.
+- **Quita las tildes de los nombres de las cartas**
+  El buscador de TCG Arena hace match literal, así que "Baculo" no encontraba "Báculo de los
+  Eternos". `strip_accents()` lo aplica en el build; la ñ se conserva y `cards_json/` mantiene
+  sus tildes para que un re-scrape no haya que parcharlo.
+
+---
+
 ## 2026-07-25
 
 - **Agrega rotación de formato IMP, nuevo set AyD, precon, Chile Oscuro y Toolkit 2026**

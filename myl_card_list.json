@@ -472,14 +472,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Energía Suprema",
+        "name": "Energia Suprema",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/137/035.png",
         "isHorizontal": false
       }
     },
-    "name": "Energía Suprema",
+    "name": "Energia Suprema",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -506,14 +506,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Espíritu de la Máquina",
+        "name": "Espiritu de la Maquina",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/137/036.png",
         "isHorizontal": false
       }
     },
-    "name": "Espíritu de la Máquina",
+    "name": "Espiritu de la Maquina",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -1369,7 +1369,7 @@
     "type": "Aliado",
     "cost": 1,
     "_legal": {
-      "IR": 2
+      "IR": false
     },
     "race": [
       "Sacerdote"
@@ -9377,14 +9377,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Huitzilín",
+        "name": "Huitzilin",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/148/280.png",
         "isHorizontal": false
       }
     },
-    "name": "Huitzilín",
+    "name": "Huitzilin",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -9557,14 +9557,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Salmón del Saber",
+        "name": "Salmon del Saber",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/148/286.png",
         "isHorizontal": false
       }
     },
-    "name": "Salmón del Saber",
+    "name": "Salmon del Saber",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -9647,14 +9647,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Legión de Honor",
+        "name": "Legion de Honor",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/148/289.png",
         "isHorizontal": false
       }
     },
-    "name": "Legión de Honor",
+    "name": "Legion de Honor",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -11824,7 +11824,7 @@
     "type": "Talismán",
     "cost": 3,
     "_legal": {
-      "IR": false
+      "IR": true
     },
     "race": [],
     "rarity": "P",
@@ -13178,7 +13178,7 @@
     "type": "Talismán",
     "cost": 3,
     "_legal": {
-      "IR": false
+      "IR": true
     },
     "race": [],
     "rarity": "P",
@@ -13212,7 +13212,7 @@
     "type": "Talismán",
     "cost": 2,
     "_legal": {
-      "IR": false
+      "IR": true
     },
     "race": [],
     "rarity": "P",
@@ -13648,7 +13648,7 @@
     "type": "Aliado",
     "cost": 0,
     "_legal": {
-      "IR": 1
+      "IR": true
     },
     "race": [
       "Sombra"
@@ -14391,14 +14391,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ímpetu de Sela",
+        "name": "Impetu de Sela",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/155/023.png",
         "isHorizontal": false
       }
     },
-    "name": "Ímpetu de Sela",
+    "name": "Impetu de Sela",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -14451,14 +14451,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Águila Negra",
+        "name": "Aguila Negra",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/155/025.png",
         "isHorizontal": false
       }
     },
-    "name": "Águila Negra",
+    "name": "Aguila Negra",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -14693,14 +14693,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dragón Dorado",
+        "name": "Dragon Dorado",
         "type": "Talismán",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/155/033.png",
         "isHorizontal": false
       }
     },
-    "name": "Dragón Dorado",
+    "name": "Dragon Dorado",
     "type": "Talismán",
     "cost": 0,
     "_legal": {
@@ -15263,14 +15263,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Orden del Águila Negra",
+        "name": "Orden del Aguila Negra",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/156/019.png",
         "isHorizontal": false
       }
     },
-    "name": "Orden del Águila Negra",
+    "name": "Orden del Aguila Negra",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -15691,14 +15691,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dragón Dorado",
+        "name": "Dragon Dorado",
         "type": "Talismán",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/156/033.png",
         "isHorizontal": false
       }
     },
-    "name": "Dragón Dorado",
+    "name": "Dragon Dorado",
     "type": "Talismán",
     "cost": 0,
     "_legal": {
@@ -15764,7 +15764,7 @@
     "type": "Aliado",
     "cost": 3,
     "_legal": {
-      "IR": 1
+      "IR": 2
     },
     "race": [
       "Caballero"
@@ -15785,14 +15785,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Padre Dagón",
+        "name": "Padre Dagon",
         "type": "Aliado",
         "cost": 4,
         "image": "https://api.myl.cl/static/cards/160/003.png",
         "isHorizontal": false
       }
     },
-    "name": "Padre Dagón",
+    "name": "Padre Dagon",
     "type": "Aliado",
     "cost": 4,
     "_legal": {
@@ -16136,14 +16136,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Drácula",
+        "name": "Dracula",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/160/014.png",
         "isHorizontal": false
       }
     },
-    "name": "Drácula",
+    "name": "Dracula",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -16166,14 +16166,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Drácula",
+        "name": "Dracula",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/160/015.png",
         "isHorizontal": false
       }
     },
-    "name": "Drácula",
+    "name": "Dracula",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -18011,14 +18011,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "París",
+        "name": "Paris",
         "type": "Tótem",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/160/074.png",
         "isHorizontal": false
       }
     },
-    "name": "París",
+    "name": "Paris",
     "type": "Tótem",
     "cost": 1,
     "_legal": {
@@ -20784,7 +20784,7 @@
     "type": "Aliado",
     "cost": 3,
     "_legal": {
-      "IR": 1
+      "IR": 2
     },
     "race": [
       "Caballero"
@@ -20805,14 +20805,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Padre Dagón",
+        "name": "Padre Dagon",
         "type": "Aliado",
         "cost": 4,
         "image": "https://api.myl.cl/static/cards/160/163.png",
         "isHorizontal": false
       }
     },
-    "name": "Padre Dagón",
+    "name": "Padre Dagon",
     "type": "Aliado",
     "cost": 4,
     "_legal": {
@@ -24793,14 +24793,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Huitzilín",
+        "name": "Huitzilin",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/160/290.png",
         "isHorizontal": false
       }
     },
-    "name": "Huitzilín",
+    "name": "Huitzilin",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -24973,14 +24973,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Salmón del Saber",
+        "name": "Salmon del Saber",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/160/296.png",
         "isHorizontal": false
       }
     },
-    "name": "Salmón del Saber",
+    "name": "Salmon del Saber",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -25063,14 +25063,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Legión de Honor",
+        "name": "Legion de Honor",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/160/299.png",
         "isHorizontal": false
       }
     },
-    "name": "Legión de Honor",
+    "name": "Legion de Honor",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -26046,7 +26046,7 @@
     "type": "Aliado",
     "cost": 1,
     "_legal": {
-      "IR": 2
+      "IR": true
     },
     "race": [
       "Sin Raza"
@@ -26906,14 +26906,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Biblioteca de Caballería",
+        "name": "Biblioteca de Caballeria",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/160/361.png",
         "isHorizontal": false
       }
     },
-    "name": "Biblioteca de Caballería",
+    "name": "Biblioteca de Caballeria",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -27098,14 +27098,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Visión Heróica",
+        "name": "Vision Heroica",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/160/367.png",
         "isHorizontal": false
       }
     },
-    "name": "Visión Heróica",
+    "name": "Vision Heroica",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -27311,14 +27311,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dragón Dorado",
+        "name": "Dragon Dorado",
         "type": "Talismán",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/160/383.png",
         "isHorizontal": false
       }
     },
-    "name": "Dragón Dorado",
+    "name": "Dragon Dorado",
     "type": "Talismán",
     "cost": 0,
     "_legal": {
@@ -27497,14 +27497,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ngenechén",
+        "name": "Ngenechen",
         "type": "Aliado",
         "cost": 4,
         "image": "https://api.myl.cl/static/cards/161/004.png",
         "isHorizontal": false
       }
     },
-    "name": "Ngenechén",
+    "name": "Ngenechen",
     "type": "Aliado",
     "cost": 4,
     "_legal": {
@@ -27788,14 +27788,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciudad de los Césares",
+        "name": "Ciudad de los Cesares",
         "type": "Tótem",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/161/013.png",
         "isHorizontal": false
       }
     },
-    "name": "Ciudad de los Césares",
+    "name": "Ciudad de los Cesares",
     "type": "Tótem",
     "cost": 2,
     "_legal": {
@@ -28118,7 +28118,7 @@
     "type": "Aliado",
     "cost": 1,
     "_legal": {
-      "IR": true
+      "IR": 2
     },
     "race": [
       "Guerrero"
@@ -28331,14 +28331,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Abrazo de Maipú",
+        "name": "Abrazo de Maipu",
         "type": "Talismán",
         "cost": 3,
         "image": "https://api.myl.cl/static/cards/161/030.png",
         "isHorizontal": false
       }
     },
-    "name": "Abrazo de Maipú",
+    "name": "Abrazo de Maipu",
     "type": "Talismán",
     "cost": 3,
     "_legal": {
@@ -28454,14 +28454,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Quicaví",
+        "name": "Quicavi",
         "type": "Tótem",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/161/034.png",
         "isHorizontal": false
       }
     },
-    "name": "Quicaví",
+    "name": "Quicavi",
     "type": "Tótem",
     "cost": 2,
     "_legal": {
@@ -28487,14 +28487,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tesoro de los Césares",
+        "name": "Tesoro de los Cesares",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/161/035.png",
         "isHorizontal": false
       }
     },
-    "name": "Tesoro de los Césares",
+    "name": "Tesoro de los Cesares",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -32734,14 +32734,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ngenechén",
+        "name": "Ngenechen",
         "type": "Aliado",
         "cost": 4,
         "image": "https://api.myl.cl/static/cards/161/170.png",
         "isHorizontal": false
       }
     },
-    "name": "Ngenechén",
+    "name": "Ngenechen",
     "type": "Aliado",
     "cost": 4,
     "_legal": {
@@ -32965,14 +32965,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Abrazo de Maipú",
+        "name": "Abrazo de Maipu",
         "type": "Talismán",
         "cost": 3,
         "image": "https://api.myl.cl/static/cards/161/177.png",
         "isHorizontal": false
       }
     },
-    "name": "Abrazo de Maipú",
+    "name": "Abrazo de Maipu",
     "type": "Talismán",
     "cost": 3,
     "_legal": {
@@ -33673,14 +33673,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cañón Naval",
+        "name": "Cañon Naval",
         "type": "Arma",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/161/200.png",
         "isHorizontal": false
       }
     },
-    "name": "Cañón Naval",
+    "name": "Cañon Naval",
     "type": "Arma",
     "cost": 2,
     "_legal": {
@@ -35001,14 +35001,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dragón Dorado",
+        "name": "Dragon Dorado",
         "type": "Talismán",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/161/246.png",
         "isHorizontal": false
       }
     },
-    "name": "Dragón Dorado",
+    "name": "Dragon Dorado",
     "type": "Talismán",
     "cost": 0,
     "_legal": {
@@ -35031,14 +35031,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Drácula",
+        "name": "Dracula",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/161/247.png",
         "isHorizontal": false
       }
     },
-    "name": "Drácula",
+    "name": "Dracula",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -35291,13 +35291,16 @@
     ],
     "rarity": "P",
     "strength": 3,
-    "ability": "CuandoentraosalgadeljuegopuedessubirhastaunAliadooArmadetuCementerioatumanoyRobarunacarta.PuedesDesterrarloparaprevenirquehastadosAliadosquecontrolessalgandeljuego.ElprimerArmaquejueguescadaturnoreducesucosteenunOro,hastaunmínimode1.",
+    "ability": "Cuandoentraenjuego,Robaunacarta,generaunOroparajugarAliadosoArmasdecoste2omásysubehastaunacartadetuCementerioatumano.PuedesDesterrarloparaprevenirqueunAliadoquecontrolassalgadeljuego.",
     "Set": [
       "Libertadores"
     ],
     "Edicion": "IMP - Libertadores",
     "Vigencia": [
       "Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "LIBERTADORES-256": {
@@ -35373,14 +35376,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Transformación",
+        "name": "Transformacion",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/162/001.png",
         "isHorizontal": false
       }
     },
-    "name": "Transformación",
+    "name": "Transformacion",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -35534,7 +35537,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": true
+      "IR": 1
     },
     "race": [
       "Bestia"
@@ -35857,7 +35860,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": true
+      "IR": 1
     },
     "race": [
       "Bestia"
@@ -36199,14 +36202,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Transformación",
+        "name": "Transformacion",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/162/027.png",
         "isHorizontal": false
       }
     },
-    "name": "Transformación",
+    "name": "Transformacion",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -36229,14 +36232,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Supremacía Kaiju",
+        "name": "Supremacia Kaiju",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/162/028.png",
         "isHorizontal": false
       }
     },
-    "name": "Supremacía Kaiju",
+    "name": "Supremacia Kaiju",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -37092,14 +37095,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Drácula",
+        "name": "Dracula",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/162/056.png",
         "isHorizontal": false
       }
     },
-    "name": "Drácula",
+    "name": "Dracula",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -37152,14 +37155,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dragón Dorado",
+        "name": "Dragon Dorado",
         "type": "Talismán",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/162/058.png",
         "isHorizontal": false
       }
     },
-    "name": "Dragón Dorado",
+    "name": "Dragon Dorado",
     "type": "Talismán",
     "cost": 0,
     "_legal": {
@@ -38181,14 +38184,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cañón de Plasma",
+        "name": "Cañon de Plasma",
         "type": "Arma",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/162/091.png",
         "isHorizontal": false
       }
     },
-    "name": "Cañón de Plasma",
+    "name": "Cañon de Plasma",
     "type": "Arma",
     "cost": 1,
     "_legal": {
@@ -39267,14 +39270,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cañón Silverado",
+        "name": "Cañon Silverado",
         "type": "Arma",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/162/126.png",
         "isHorizontal": false
       }
     },
-    "name": "Cañón Silverado",
+    "name": "Cañon Silverado",
     "type": "Arma",
     "cost": 2,
     "_legal": {
@@ -41139,14 +41142,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cañón Silverado",
+        "name": "Cañon Silverado",
         "type": "Arma",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/162/186.png",
         "isHorizontal": false
       }
     },
-    "name": "Cañón Silverado",
+    "name": "Cañon Silverado",
     "type": "Arma",
     "cost": 2,
     "_legal": {
@@ -42225,14 +42228,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cañón de Fusión",
+        "name": "Cañon de Fusion",
         "type": "Arma",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/162/221.png",
         "isHorizontal": false
       }
     },
-    "name": "Cañón de Fusión",
+    "name": "Cañon de Fusion",
     "type": "Arma",
     "cost": 1,
     "_legal": {
@@ -42709,14 +42712,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Biblioteca de Caballería",
+        "name": "Biblioteca de Caballeria",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/162/237.png",
         "isHorizontal": false
       }
     },
-    "name": "Biblioteca de Caballería",
+    "name": "Biblioteca de Caballeria",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -43079,14 +43082,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mano de Destrucción",
+        "name": "Mano de Destruccion",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/162/249.png",
         "isHorizontal": false
       }
     },
-    "name": "Mano de Destrucción",
+    "name": "Mano de Destruccion",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -43597,14 +43600,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Visión Heróica",
+        "name": "Vision Heroica",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/162/266.png",
         "isHorizontal": false
       }
     },
-    "name": "Visión Heróica",
+    "name": "Vision Heroica",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -43687,14 +43690,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fisión Nuclear",
+        "name": "Fision Nuclear",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/162/269.png",
         "isHorizontal": false
       }
     },
-    "name": "Fisión Nuclear",
+    "name": "Fision Nuclear",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -43822,7 +43825,7 @@
     "type": "Aliado",
     "cost": 1,
     "_legal": {
-      "IR": 2
+      "IR": false
     },
     "race": [
       "Sacerdote"
@@ -43895,13 +43898,16 @@
     ],
     "rarity": "P",
     "strength": 3,
-    "ability": "CuandoentraosalgadeljuegopuedessubirhastaunAliadooArmadetuCementerioatumanoyRobarunacarta.PuedesDesterrarloparaprevenirquehastadosAliadosquecontrolessalgandeljuego.ElprimerArmaquejueguescadaturnoreducesucosteenunOro,hastaunmínimode1.",
+    "ability": "Cuandoentraenjuego,Robaunacarta,generaunOroparajugarAliadosoArmasdecoste2omásysubehastaunacartadetuCementerioatumano.PuedesDesterrarloparaprevenirqueunAliadoquecontrolassalgadeljuego.",
     "Set": [
       "Kaiju vs Mecha"
     ],
     "Edicion": "IMP - Kaiju vs Mecha - Titanes",
     "Vigencia": [
       "Libertadores"
+    ],
+    "tokens": [
+      "ORO_VIRTUAL"
     ]
   },
   "KVSM_TITANES-276": {
@@ -44138,7 +44144,7 @@
     "type": "Talismán",
     "cost": 1,
     "_legal": {
-      "IR": 1
+      "IR": false
     },
     "race": [],
     "rarity": "P",
@@ -44217,14 +44223,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Drácula",
+        "name": "Dracula",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/163/001.png",
         "isHorizontal": false
       }
     },
-    "name": "Drácula",
+    "name": "Dracula",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -44457,14 +44463,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Día de los Muertos",
+        "name": "Dia de los Muertos",
         "type": "Talismán",
         "cost": 7,
         "image": "https://api.myl.cl/static/cards/163/009.png",
         "isHorizontal": false
       }
     },
-    "name": "Día de los Muertos",
+    "name": "Dia de los Muertos",
     "type": "Talismán",
     "cost": 7,
     "_legal": {
@@ -44729,14 +44735,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Calaveras de Azúcar",
+        "name": "Calaveras de Azucar",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/163/018.png",
         "isHorizontal": false
       }
     },
-    "name": "Calaveras de Azúcar",
+    "name": "Calaveras de Azucar",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -44849,14 +44855,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ritual Vudú",
+        "name": "Ritual Vudu",
         "type": "Talismán",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/164/022.png",
         "isHorizontal": false
       }
     },
-    "name": "Ritual Vudú",
+    "name": "Ritual Vudu",
     "type": "Talismán",
     "cost": 2,
     "_legal": {
@@ -44912,14 +44918,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Grisgrís",
+        "name": "Grisgris",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/164/024.png",
         "isHorizontal": false
       }
     },
-    "name": "Grisgrís",
+    "name": "Grisgris",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -44942,14 +44948,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Muñeco Vudú",
+        "name": "Muñeco Vudu",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/164/025.png",
         "isHorizontal": false
       }
     },
-    "name": "Muñeco Vudú",
+    "name": "Muñeco Vudu",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -45034,14 +45040,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Maldición Vudú",
+        "name": "Maldicion Vudu",
         "type": "Talismán",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/164/028.png",
         "isHorizontal": false
       }
     },
-    "name": "Maldición Vudú",
+    "name": "Maldicion Vudu",
     "type": "Talismán",
     "cost": 0,
     "_legal": {
@@ -45214,14 +45220,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dragón Dorado",
+        "name": "Dragon Dorado",
         "type": "Talismán",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/163/034.png",
         "isHorizontal": false
       }
     },
-    "name": "Dragón Dorado",
+    "name": "Dragon Dorado",
     "type": "Talismán",
     "cost": 0,
     "_legal": {
@@ -45435,14 +45441,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Exorcismo de Carmen Marín",
+        "name": "Exorcismo de Carmen Marin",
         "type": "Talismán",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/165/042.png",
         "isHorizontal": false
       }
     },
-    "name": "Exorcismo de Carmen Marín",
+    "name": "Exorcismo de Carmen Marin",
     "type": "Talismán",
     "cost": 2,
     "_legal": {
@@ -45525,14 +45531,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Estación Fantasma",
+        "name": "Estacion Fantasma",
         "type": "Tótem",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/165/045.png",
         "isHorizontal": false
       }
     },
-    "name": "Estación Fantasma",
+    "name": "Estacion Fantasma",
     "type": "Tótem",
     "cost": 2,
     "_legal": {
@@ -45585,14 +45591,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Abducción del Cabo",
+        "name": "Abduccion del Cabo",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/165/047.png",
         "isHorizontal": false
       }
     },
-    "name": "Abducción del Cabo",
+    "name": "Abduccion del Cabo",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -45645,14 +45651,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Aparición del Sanatorio",
+        "name": "Aparicion del Sanatorio",
         "type": "Talismán",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/165/049.png",
         "isHorizontal": false
       }
     },
-    "name": "Aparición del Sanatorio",
+    "name": "Aparicion del Sanatorio",
     "type": "Talismán",
     "cost": 2,
     "_legal": {
@@ -45738,14 +45744,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Túneles Secretos",
+        "name": "Tuneles Secretos",
         "type": "Tótem",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/165/052.png",
         "isHorizontal": false
       }
     },
-    "name": "Túneles Secretos",
+    "name": "Tuneles Secretos",
     "type": "Tótem",
     "cost": 2,
     "_legal": {
@@ -45768,14 +45774,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Hospital San José",
+        "name": "Hospital San Jose",
         "type": "Tótem",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/165/053.png",
         "isHorizontal": false
       }
     },
-    "name": "Hospital San José",
+    "name": "Hospital San Jose",
     "type": "Tótem",
     "cost": 2,
     "_legal": {
@@ -45888,14 +45894,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Psicofonía",
+        "name": "Psicofonia",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/165/057.png",
         "isHorizontal": false
       }
     },
-    "name": "Psicofonía",
+    "name": "Psicofonia",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -45918,14 +45924,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sesión Espiritista",
+        "name": "Sesion Espiritista",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/165/058.png",
         "isHorizontal": false
       }
     },
-    "name": "Sesión Espiritista",
+    "name": "Sesion Espiritista",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -45980,14 +45986,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ángel Gabriel",
+        "name": "Angel Gabriel",
         "type": "Aliado",
         "cost": 3,
         "image": "https://api.myl.cl/static/cards/166/002.png",
         "isHorizontal": false
       }
     },
-    "name": "Ángel Gabriel",
+    "name": "Angel Gabriel",
     "type": "Aliado",
     "cost": 3,
     "_legal": {
@@ -46108,14 +46114,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ángel Jofiel",
+        "name": "Angel Jofiel",
         "type": "Aliado",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/006.png",
         "isHorizontal": false
       }
     },
-    "name": "Ángel Jofiel",
+    "name": "Angel Jofiel",
     "type": "Aliado",
     "cost": 1,
     "_legal": {
@@ -46204,14 +46210,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Satanás",
+        "name": "Satanas",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/009.png",
         "isHorizontal": false
       }
     },
-    "name": "Satanás",
+    "name": "Satanas",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -46239,14 +46245,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Belcebú",
+        "name": "Belcebu",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/010.png",
         "isHorizontal": false
       }
     },
-    "name": "Belcebú",
+    "name": "Belcebu",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -46558,14 +46564,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Caída del Alba",
+        "name": "Caida del Alba",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/020.png",
         "isHorizontal": false
       }
     },
-    "name": "Caída del Alba",
+    "name": "Caida del Alba",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -46738,14 +46744,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Trono del Dragón",
+        "name": "Trono del Dragon",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/166/026.png",
         "isHorizontal": false
       }
     },
-    "name": "Trono del Dragón",
+    "name": "Trono del Dragon",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -46768,14 +46774,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Satanás",
+        "name": "Satanas",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/027.png",
         "isHorizontal": false
       }
     },
-    "name": "Satanás",
+    "name": "Satanas",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -46835,14 +46841,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Gran Dragón",
+        "name": "Gran Dragon",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/029.png",
         "isHorizontal": false
       }
     },
-    "name": "Gran Dragón",
+    "name": "Gran Dragon",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -46867,14 +46873,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ángel Gabriel",
+        "name": "Angel Gabriel",
         "type": "Aliado",
         "cost": 3,
         "image": "https://api.myl.cl/static/cards/166/030.png",
         "isHorizontal": false
       }
     },
-    "name": "Ángel Gabriel",
+    "name": "Angel Gabriel",
     "type": "Aliado",
     "cost": 3,
     "_legal": {
@@ -46931,14 +46937,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Caín",
+        "name": "Cain",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/032.png",
         "isHorizontal": false
       }
     },
-    "name": "Caín",
+    "name": "Cain",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -47153,14 +47159,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Caída del Alba",
+        "name": "Caida del Alba",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/039.png",
         "isHorizontal": false
       }
     },
-    "name": "Caída del Alba",
+    "name": "Caida del Alba",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -47213,14 +47219,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Visión de Enoc",
+        "name": "Vision de Enoc",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/041.png",
         "isHorizontal": false
       }
     },
-    "name": "Visión de Enoc",
+    "name": "Vision de Enoc",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -47243,14 +47249,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Séptimo Sello",
+        "name": "Septimo Sello",
         "type": "Talismán",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/042.png",
         "isHorizontal": false
       }
     },
-    "name": "Séptimo Sello",
+    "name": "Septimo Sello",
     "type": "Talismán",
     "cost": 2,
     "_legal": {
@@ -47489,14 +47495,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ángel Jofiel",
+        "name": "Angel Jofiel",
         "type": "Aliado",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/050.png",
         "isHorizontal": false
       }
     },
-    "name": "Ángel Jofiel",
+    "name": "Angel Jofiel",
     "type": "Aliado",
     "cost": 1,
     "_legal": {
@@ -47588,14 +47594,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Noé",
+        "name": "Noe",
         "type": "Aliado",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/053.png",
         "isHorizontal": false
       }
     },
-    "name": "Noé",
+    "name": "Noe",
     "type": "Aliado",
     "cost": 1,
     "_legal": {
@@ -47652,14 +47658,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Belcebú",
+        "name": "Belcebu",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/055.png",
         "isHorizontal": false
       }
     },
-    "name": "Belcebú",
+    "name": "Belcebu",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -47744,14 +47750,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "El Dragón Emerge",
+        "name": "El Dragon Emerge",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/058.png",
         "isHorizontal": false
       }
     },
-    "name": "El Dragón Emerge",
+    "name": "El Dragon Emerge",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -47984,14 +47990,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Trono del Dragón",
+        "name": "Trono del Dragon",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/166/066.png",
         "isHorizontal": false
       }
     },
-    "name": "Trono del Dragón",
+    "name": "Trono del Dragon",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -48313,7 +48319,7 @@
     "type": "Aliado",
     "cost": 5,
     "_legal": {
-      "IR": true
+      "IR": 1
     },
     "race": [
       "Eterno"
@@ -48686,14 +48692,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Matusalén",
+        "name": "Matusalen",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/088.png",
         "isHorizontal": false
       }
     },
-    "name": "Matusalén",
+    "name": "Matusalen",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -49034,14 +49040,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Legión Demoníaca",
+        "name": "Legion Demoniaca",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/099.png",
         "isHorizontal": false
       }
     },
-    "name": "Legión Demoníaca",
+    "name": "Legion Demoniaca",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -49067,14 +49073,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Legión Celestial",
+        "name": "Legion Celestial",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/100.png",
         "isHorizontal": false
       }
     },
-    "name": "Legión Celestial",
+    "name": "Legion Celestial",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -49190,14 +49196,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Visión de Noé",
+        "name": "Vision de Noe",
         "type": "Talismán",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/104.png",
         "isHorizontal": false
       }
     },
-    "name": "Visión de Noé",
+    "name": "Vision de Noe",
     "type": "Talismán",
     "cost": 2,
     "_legal": {
@@ -49340,14 +49346,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cetro Demoníaco",
+        "name": "Cetro Demoniaco",
         "type": "Arma",
         "cost": 3,
         "image": "https://api.myl.cl/static/cards/166/109.png",
         "isHorizontal": false
       }
     },
-    "name": "Cetro Demoníaco",
+    "name": "Cetro Demoniaco",
     "type": "Arma",
     "cost": 3,
     "_legal": {
@@ -49647,14 +49653,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Paladín de la Esperanza",
+        "name": "Paladin de la Esperanza",
         "type": "Aliado",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/119.png",
         "isHorizontal": false
       }
     },
-    "name": "Paladín de la Esperanza",
+    "name": "Paladin de la Esperanza",
     "type": "Aliado",
     "cost": 1,
     "_legal": {
@@ -49775,14 +49781,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ángel Raziel",
+        "name": "Angel Raziel",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/123.png",
         "isHorizontal": false
       }
     },
-    "name": "Ángel Raziel",
+    "name": "Angel Raziel",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -50189,14 +50195,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fin de Travesía",
+        "name": "Fin de Travesia",
         "type": "Talismán",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/136.png",
         "isHorizontal": false
       }
     },
-    "name": "Fin de Travesía",
+    "name": "Fin de Travesia",
     "type": "Talismán",
     "cost": 2,
     "_legal": {
@@ -50249,14 +50255,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Intervención Divina",
+        "name": "Intervencion Divina",
         "type": "Talismán",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/166/138.png",
         "isHorizontal": false
       }
     },
-    "name": "Intervención Divina",
+    "name": "Intervencion Divina",
     "type": "Talismán",
     "cost": 0,
     "_legal": {
@@ -50489,14 +50495,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cuerno de Titán",
+        "name": "Cuerno de Titan",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/166/146.png",
         "isHorizontal": false
       }
     },
-    "name": "Cuerno de Titán",
+    "name": "Cuerno de Titan",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -50583,14 +50589,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Guardián del Tiempo",
+        "name": "Guardian del Tiempo",
         "type": "Aliado",
         "cost": 3,
         "image": "https://api.myl.cl/static/cards/166/149.png",
         "isHorizontal": false
       }
     },
-    "name": "Guardián del Tiempo",
+    "name": "Guardian del Tiempo",
     "type": "Aliado",
     "cost": 3,
     "_legal": {
@@ -50615,14 +50621,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Paladín del Fuego Blanco",
+        "name": "Paladin del Fuego Blanco",
         "type": "Aliado",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/150.png",
         "isHorizontal": false
       }
     },
-    "name": "Paladín del Fuego Blanco",
+    "name": "Paladin del Fuego Blanco",
     "type": "Aliado",
     "cost": 1,
     "_legal": {
@@ -50647,14 +50653,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Azi Demoníaco",
+        "name": "Azi Demoniaco",
         "type": "Aliado",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/166/151.png",
         "isHorizontal": false
       }
     },
-    "name": "Azi Demoníaco",
+    "name": "Azi Demoniaco",
     "type": "Aliado",
     "cost": 0,
     "_legal": {
@@ -50743,14 +50749,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Abadón",
+        "name": "Abadon",
         "type": "Aliado",
         "cost": 3,
         "image": "https://api.myl.cl/static/cards/166/154.png",
         "isHorizontal": false
       }
     },
-    "name": "Abadón",
+    "name": "Abadon",
     "type": "Aliado",
     "cost": 3,
     "_legal": {
@@ -50935,14 +50941,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mártires",
+        "name": "Martires",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/160.png",
         "isHorizontal": false
       }
     },
-    "name": "Mártires",
+    "name": "Martires",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -51031,14 +51037,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Nephilim Titánico",
+        "name": "Nephilim Titanico",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/163.png",
         "isHorizontal": false
       }
     },
-    "name": "Nephilim Titánico",
+    "name": "Nephilim Titanico",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -51063,14 +51069,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Titán Abismal",
+        "name": "Titan Abismal",
         "type": "Aliado",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/164.png",
         "isHorizontal": false
       }
     },
-    "name": "Titán Abismal",
+    "name": "Titan Abismal",
     "type": "Aliado",
     "cost": 1,
     "_legal": {
@@ -51125,14 +51131,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Canto de los Serafín",
+        "name": "Canto de los Serafin",
         "type": "Talismán",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/166.png",
         "isHorizontal": false
       }
     },
-    "name": "Canto de los Serafín",
+    "name": "Canto de los Serafin",
     "type": "Talismán",
     "cost": 2,
     "_legal": {
@@ -51155,14 +51161,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rugido de Titán",
+        "name": "Rugido de Titan",
         "type": "Talismán",
         "cost": 3,
         "image": "https://api.myl.cl/static/cards/166/167.png",
         "isHorizontal": false
       }
     },
-    "name": "Rugido de Titán",
+    "name": "Rugido de Titan",
     "type": "Talismán",
     "cost": 3,
     "_legal": {
@@ -51275,14 +51281,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Alas de Ángel",
+        "name": "Alas de Angel",
         "type": "Arma",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/171.png",
         "isHorizontal": false
       }
     },
-    "name": "Alas de Ángel",
+    "name": "Alas de Angel",
     "type": "Arma",
     "cost": 1,
     "_legal": {
@@ -52283,14 +52289,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Túnel de Madriguera",
+        "name": "Tunel de Madriguera",
         "type": "Tótem",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/204.png",
         "isHorizontal": false
       }
     },
-    "name": "Túnel de Madriguera",
+    "name": "Tunel de Madriguera",
     "type": "Tótem",
     "cost": 1,
     "_legal": {
@@ -52373,14 +52379,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Huitzilín",
+        "name": "Huitzilin",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/166/207.png",
         "isHorizontal": false
       }
     },
-    "name": "Huitzilín",
+    "name": "Huitzilin",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -52553,14 +52559,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Salmón del Saber",
+        "name": "Salmon del Saber",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/166/213.png",
         "isHorizontal": false
       }
     },
-    "name": "Salmón del Saber",
+    "name": "Salmon del Saber",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -52643,14 +52649,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Legión de Honor",
+        "name": "Legion de Honor",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/166/216.png",
         "isHorizontal": false
       }
     },
-    "name": "Legión de Honor",
+    "name": "Legion de Honor",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -53003,14 +53009,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Serafín",
+        "name": "Serafin",
         "type": "Aliado",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/228.png",
         "isHorizontal": false
       }
     },
-    "name": "Serafín",
+    "name": "Serafin",
     "type": "Aliado",
     "cost": 1,
     "_legal": {
@@ -53125,14 +53131,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mano de Destrucción",
+        "name": "Mano de Destruccion",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/232.png",
         "isHorizontal": false
       }
     },
-    "name": "Mano de Destrucción",
+    "name": "Mano de Destruccion",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -53198,7 +53204,7 @@
     "type": "Aliado",
     "cost": 1,
     "_legal": {
-      "IR": 2
+      "IR": true
     },
     "race": [
       "Sin Raza"
@@ -53623,14 +53629,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Paladín David",
+        "name": "Paladin David",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/248.png",
         "isHorizontal": false
       }
     },
-    "name": "Paladín David",
+    "name": "Paladin David",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -53657,14 +53663,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ángel Samyaza",
+        "name": "Angel Samyaza",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/249.png",
         "isHorizontal": false
       }
     },
-    "name": "Ángel Samyaza",
+    "name": "Angel Samyaza",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -53691,14 +53697,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "La Última Bestia",
+        "name": "La Ultima Bestia",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/250.png",
         "isHorizontal": false
       }
     },
-    "name": "La Última Bestia",
+    "name": "La Ultima Bestia",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -53818,14 +53824,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fisión Nuclear",
+        "name": "Fision Nuclear",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/254.png",
         "isHorizontal": false
       }
     },
-    "name": "Fisión Nuclear",
+    "name": "Fision Nuclear",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -53878,14 +53884,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cañón Helios",
+        "name": "Cañon Helios",
         "type": "Arma",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/256.png",
         "isHorizontal": false
       }
     },
-    "name": "Cañón Helios",
+    "name": "Cañon Helios",
     "type": "Arma",
     "cost": 1,
     "_legal": {
@@ -53938,14 +53944,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciudad de los Césares",
+        "name": "Ciudad de los Cesares",
         "type": "Tótem",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/258.png",
         "isHorizontal": false
       }
     },
-    "name": "Ciudad de los Césares",
+    "name": "Ciudad de los Cesares",
     "type": "Tótem",
     "cost": 2,
     "_legal": {
@@ -53998,14 +54004,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Supremacía Kaiju",
+        "name": "Supremacia Kaiju",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/260.png",
         "isHorizontal": false
       }
     },
-    "name": "Supremacía Kaiju",
+    "name": "Supremacia Kaiju",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -54028,14 +54034,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tesoro de los Césares",
+        "name": "Tesoro de los Cesares",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/166/261.png",
         "isHorizontal": false
       }
     },
-    "name": "Tesoro de los Césares",
+    "name": "Tesoro de los Cesares",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -54148,14 +54154,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Incensario Seráfico",
+        "name": "Incensario Serafico",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/166/265.png",
         "isHorizontal": false
       }
     },
-    "name": "Incensario Seráfico",
+    "name": "Incensario Serafico",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -54306,14 +54312,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Adán",
+        "name": "Adan",
         "type": "Aliado",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/270.png",
         "isHorizontal": false
       }
     },
-    "name": "Adán",
+    "name": "Adan",
     "type": "Aliado",
     "cost": 1,
     "_legal": {
@@ -54613,14 +54619,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Transformación",
+        "name": "Transformacion",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/280.png",
         "isHorizontal": false
       }
     },
-    "name": "Transformación",
+    "name": "Transformacion",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -54975,14 +54981,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fisión Nuclear",
+        "name": "Fision Nuclear",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/292.png",
         "isHorizontal": false
       }
     },
-    "name": "Fisión Nuclear",
+    "name": "Fision Nuclear",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -55038,14 +55044,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cañón Helios",
+        "name": "Cañon Helios",
         "type": "Arma",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/294.png",
         "isHorizontal": false
       }
     },
-    "name": "Cañón Helios",
+    "name": "Cañon Helios",
     "type": "Arma",
     "cost": 1,
     "_legal": {
@@ -55160,14 +55166,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Paladín de la Luz",
+        "name": "Paladin de la Luz",
         "type": "Aliado",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/166/298.png",
         "isHorizontal": false
       }
     },
-    "name": "Paladín de la Luz",
+    "name": "Paladin de la Luz",
     "type": "Aliado",
     "cost": 1,
     "_legal": {
@@ -55194,14 +55200,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ángel Miguel, el Protector",
+        "name": "Angel Miguel, el Protector",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/166/299.png",
         "isHorizontal": false
       }
     },
-    "name": "Ángel Miguel, el Protector",
+    "name": "Angel Miguel, el Protector",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -55228,14 +55234,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Lucifer, el Caído",
+        "name": "Lucifer, el Caido",
         "type": "Aliado",
         "cost": 3,
         "image": "https://api.myl.cl/static/cards/166/300.png",
         "isHorizontal": false
       }
     },
-    "name": "Lucifer, el Caído",
+    "name": "Lucifer, el Caido",
     "type": "Aliado",
     "cost": 3,
     "_legal": {
@@ -55389,14 +55395,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ofrendas al Dragón",
+        "name": "Ofrendas al Dragon",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/168/003.png",
         "isHorizontal": false
       }
     },
-    "name": "Ofrendas al Dragón",
+    "name": "Ofrendas al Dragon",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -55482,14 +55488,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Garras de Dragón",
+        "name": "Garras de Dragon",
         "type": "Arma",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/168/006.png",
         "isHorizontal": false
       }
     },
-    "name": "Garras de Dragón",
+    "name": "Garras de Dragon",
     "type": "Arma",
     "cost": 1,
     "_legal": {
@@ -55512,14 +55518,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tótem del Dragón Ancestral",
+        "name": "Totem del Dragon Ancestral",
         "type": "Tótem",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/168/007.png",
         "isHorizontal": false
       }
     },
-    "name": "Tótem del Dragón Ancestral",
+    "name": "Totem del Dragon Ancestral",
     "type": "Tótem",
     "cost": 1,
     "_legal": {
@@ -55542,14 +55548,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Escamas de Dragón",
+        "name": "Escamas de Dragon",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/168/008.png",
         "isHorizontal": false
       }
     },
-    "name": "Escamas de Dragón",
+    "name": "Escamas de Dragon",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -55572,14 +55578,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Corazón de Dragón",
+        "name": "Corazon de Dragon",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/168/009.png",
         "isHorizontal": false
       }
     },
-    "name": "Corazón de Dragón",
+    "name": "Corazon de Dragon",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -55602,14 +55608,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Diente de Dragón",
+        "name": "Diente de Dragon",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/168/010.png",
         "isHorizontal": false
       }
     },
-    "name": "Diente de Dragón",
+    "name": "Diente de Dragon",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -55632,14 +55638,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Padre Dagón",
+        "name": "Padre Dagon",
         "type": "Aliado",
         "cost": 4,
         "image": "https://api.myl.cl/static/cards/168/011.png",
         "isHorizontal": false
       }
     },
-    "name": "Padre Dagón",
+    "name": "Padre Dagon",
     "type": "Aliado",
     "cost": 4,
     "_legal": {
@@ -55952,14 +55958,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Quicaví",
+        "name": "Quicavi",
         "type": "Tótem",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/168/021.png",
         "isHorizontal": false
       }
     },
-    "name": "Quicaví",
+    "name": "Quicavi",
     "type": "Tótem",
     "cost": 2,
     "_legal": {
@@ -55985,14 +55991,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Abrazo de Maipú",
+        "name": "Abrazo de Maipu",
         "type": "Talismán",
         "cost": 3,
         "image": "https://api.myl.cl/static/cards/168/022.png",
         "isHorizontal": false
       }
     },
-    "name": "Abrazo de Maipú",
+    "name": "Abrazo de Maipu",
     "type": "Talismán",
     "cost": 3,
     "_legal": {
@@ -56018,14 +56024,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Visión Heróica",
+        "name": "Vision Heroica",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/168/023.png",
         "isHorizontal": false
       }
     },
-    "name": "Visión Heróica",
+    "name": "Vision Heroica",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -56048,14 +56054,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciempiés-SP",
+        "name": "Ciempies-SP",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/168/024.png",
         "isHorizontal": false
       }
     },
-    "name": "Ciempiés-SP",
+    "name": "Ciempies-SP",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -56198,14 +56204,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Energía Suprema",
+        "name": "Energia Suprema",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/168/029.png",
         "isHorizontal": false
       }
     },
-    "name": "Energía Suprema",
+    "name": "Energia Suprema",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -56355,14 +56361,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dragón Dorado",
+        "name": "Dragon Dorado",
         "type": "Talismán",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/168/034.png",
         "isHorizontal": false
       }
     },
-    "name": "Dragón Dorado",
+    "name": "Dragon Dorado",
     "type": "Talismán",
     "cost": 0,
     "_legal": {
@@ -56475,14 +56481,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Drácula",
+        "name": "Dracula",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/168/038.png",
         "isHorizontal": false
       }
     },
-    "name": "Drácula",
+    "name": "Dracula",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -56777,14 +56783,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ángel Redentor",
+        "name": "Angel Redentor",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/169/002.png",
         "isHorizontal": false
       }
     },
-    "name": "Ángel Redentor",
+    "name": "Angel Redentor",
     "type": "Aliado",
     "cost": 2,
     "_legal": {
@@ -56842,14 +56848,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Vuelo Mágico",
+        "name": "Vuelo Magico",
         "type": "Talismán",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/169/004.png",
         "isHorizontal": false
       }
     },
-    "name": "Vuelo Mágico",
+    "name": "Vuelo Magico",
     "type": "Talismán",
     "cost": 0,
     "_legal": {
@@ -56872,14 +56878,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "El Ángel y su Juicio",
+        "name": "El Angel y su Juicio",
         "type": "Talismán",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/169/005.png",
         "isHorizontal": false
       }
     },
-    "name": "El Ángel y su Juicio",
+    "name": "El Angel y su Juicio",
     "type": "Talismán",
     "cost": 2,
     "_legal": {
@@ -56932,14 +56938,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tótem de la Visión Eterna",
+        "name": "Totem de la Vision Eterna",
         "type": "Tótem",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/169/007.png",
         "isHorizontal": false
       }
     },
-    "name": "Tótem de la Visión Eterna",
+    "name": "Totem de la Vision Eterna",
     "type": "Tótem",
     "cost": 2,
     "_legal": {
@@ -57022,14 +57028,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Báculo de los Eternos",
+        "name": "Baculo de los Eternos",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/169/010.png",
         "isHorizontal": false
       }
     },
-    "name": "Báculo de los Eternos",
+    "name": "Baculo de los Eternos",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -57052,14 +57058,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ngenechén",
+        "name": "Ngenechen",
         "type": "Aliado",
         "cost": 4,
         "image": "https://api.myl.cl/static/cards/169/011.png",
         "isHorizontal": false
       }
     },
-    "name": "Ngenechén",
+    "name": "Ngenechen",
     "type": "Aliado",
     "cost": 4,
     "_legal": {
@@ -57183,14 +57189,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ángel Vengador",
+        "name": "Angel Vengador",
         "type": "Aliado",
         "cost": 3,
         "image": "https://api.myl.cl/static/cards/169/015.png",
         "isHorizontal": false
       }
     },
-    "name": "Ángel Vengador",
+    "name": "Angel Vengador",
     "type": "Aliado",
     "cost": 3,
     "_legal": {
@@ -57283,14 +57289,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ángel Gadreel",
+        "name": "Angel Gadreel",
         "type": "Aliado",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/169/018.png",
         "isHorizontal": false
       }
     },
-    "name": "Ángel Gadreel",
+    "name": "Angel Gadreel",
     "type": "Aliado",
     "cost": 1,
     "_legal": {
@@ -57315,14 +57321,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Escuadrón Ángel",
+        "name": "Escuadron Angel",
         "type": "Aliado",
         "cost": 3,
         "image": "https://api.myl.cl/static/cards/169/019.png",
         "isHorizontal": false
       }
     },
-    "name": "Escuadrón Ángel",
+    "name": "Escuadron Angel",
     "type": "Aliado",
     "cost": 3,
     "_legal": {
@@ -57377,14 +57383,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciudad de los Césares",
+        "name": "Ciudad de los Cesares",
         "type": "Tótem",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/169/021.png",
         "isHorizontal": false
       }
     },
-    "name": "Ciudad de los Césares",
+    "name": "Ciudad de los Cesares",
     "type": "Tótem",
     "cost": 2,
     "_legal": {
@@ -57437,14 +57443,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "París",
+        "name": "Paris",
         "type": "Tótem",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/169/023.png",
         "isHorizontal": false
       }
     },
-    "name": "París",
+    "name": "Paris",
     "type": "Tótem",
     "cost": 1,
     "_legal": {
@@ -57467,14 +57473,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dragón Dorado",
+        "name": "Dragon Dorado",
         "type": "Talismán",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/169/024.png",
         "isHorizontal": false
       }
     },
-    "name": "Dragón Dorado",
+    "name": "Dragon Dorado",
     "type": "Talismán",
     "cost": 0,
     "_legal": {
@@ -57497,14 +57503,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Energía Suprema",
+        "name": "Energia Suprema",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/169/025.png",
         "isHorizontal": false
       }
     },
-    "name": "Energía Suprema",
+    "name": "Energia Suprema",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -57531,14 +57537,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Visión Heróica",
+        "name": "Vision Heroica",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/169/026.png",
         "isHorizontal": false
       }
     },
-    "name": "Visión Heróica",
+    "name": "Vision Heroica",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -57561,14 +57567,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciempiés-SP",
+        "name": "Ciempies-SP",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/169/027.png",
         "isHorizontal": false
       }
     },
-    "name": "Ciempiés-SP",
+    "name": "Ciempies-SP",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -57681,14 +57687,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Transformación",
+        "name": "Transformacion",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/169/031.png",
         "isHorizontal": false
       }
     },
-    "name": "Transformación",
+    "name": "Transformacion",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -57711,14 +57717,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fisión Nuclear",
+        "name": "Fision Nuclear",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/169/032.png",
         "isHorizontal": false
       }
     },
-    "name": "Fisión Nuclear",
+    "name": "Fision Nuclear",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -57861,14 +57867,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Drácula",
+        "name": "Dracula",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/169/037.png",
         "isHorizontal": false
       }
     },
-    "name": "Drácula",
+    "name": "Dracula",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -57981,14 +57987,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Espíritu de la Máquina",
+        "name": "Espiritu de la Maquina",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/169/041.png",
         "isHorizontal": false
       }
     },
-    "name": "Espíritu de la Máquina",
+    "name": "Espiritu de la Maquina",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -58260,14 +58266,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Motín a Bordo",
+        "name": "Motin a Bordo",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/170/004.png",
         "isHorizontal": false
       }
     },
-    "name": "Motín a Bordo",
+    "name": "Motin a Bordo",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -58440,14 +58446,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Armería del Guerrero",
+        "name": "Armeria del Guerrero",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/170/010.png",
         "isHorizontal": false
       }
     },
-    "name": "Armería del Guerrero",
+    "name": "Armeria del Guerrero",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -58577,7 +58583,7 @@
     "type": "Aliado",
     "cost": 1,
     "_legal": {
-      "IR": true
+      "IR": 2
     },
     "race": [
       "Guerrero"
@@ -58855,14 +58861,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ciempiés-SP",
+        "name": "Ciempies-SP",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/170/023.png",
         "isHorizontal": false
       }
     },
-    "name": "Ciempiés-SP",
+    "name": "Ciempies-SP",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -58945,14 +58951,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Dragón Dorado",
+        "name": "Dragon Dorado",
         "type": "Talismán",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/170/026.png",
         "isHorizontal": false
       }
     },
-    "name": "Dragón Dorado",
+    "name": "Dragon Dorado",
     "type": "Talismán",
     "cost": 0,
     "_legal": {
@@ -59065,14 +59071,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Visión Heróica",
+        "name": "Vision Heroica",
         "type": "Talismán",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/170/030.png",
         "isHorizontal": false
       }
     },
-    "name": "Visión Heróica",
+    "name": "Vision Heroica",
     "type": "Talismán",
     "cost": 1,
     "_legal": {
@@ -59185,14 +59191,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Cañón Helios",
+        "name": "Cañon Helios",
         "type": "Arma",
         "cost": 1,
         "image": "https://api.myl.cl/static/cards/170/034.png",
         "isHorizontal": false
       }
     },
-    "name": "Cañón Helios",
+    "name": "Cañon Helios",
     "type": "Arma",
     "cost": 1,
     "_legal": {
@@ -59245,14 +59251,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Biblioteca de Caballería",
+        "name": "Biblioteca de Caballeria",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/170/036.png",
         "isHorizontal": false
       }
     },
-    "name": "Biblioteca de Caballería",
+    "name": "Biblioteca de Caballeria",
     "type": "Oro",
     "cost": 0,
     "_legal": {
@@ -59335,14 +59341,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Drácula",
+        "name": "Dracula",
         "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/170/039.png",
         "isHorizontal": false
       }
     },
-    "name": "Drácula",
+    "name": "Dracula",
     "type": "Oro",
     "cost": 0,
     "_legal": {
