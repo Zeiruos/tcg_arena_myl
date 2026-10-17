@@ -2108,7 +2108,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/175.png"
     },
     {
-      "nombre": "Cienpies-Sp",
+      "nombre": "Cienpiés-SP",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -3128,7 +3128,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/260.png"
     },
     {
-      "nombre": "Llamar A La Manada",
+      "nombre": "Llamar a la Manada",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -3200,7 +3200,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/266.png"
     },
     {
-      "nombre": "Fuego Del Desierto",
+      "nombre": "Fuego del Desierto",
       "tipo": "Talismán",
       "raza": null,
       "coste": 2,
@@ -3212,7 +3212,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/267.png"
     },
     {
-      "nombre": "Garras De Balam",
+      "nombre": "Garras de Balam",
       "tipo": "Talismán",
       "raza": null,
       "coste": 2,
@@ -3224,7 +3224,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/268.png"
     },
     {
-      "nombre": "Caceria De Brujas",
+      "nombre": "Caceria de Brujas",
       "tipo": "Talismán",
       "raza": null,
       "coste": 2,
@@ -3236,7 +3236,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/269.png"
     },
     {
-      "nombre": "Trempulcahue Bestiarium",
+      "nombre": "Trempulcahue",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -3248,7 +3248,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/270.png"
     },
     {
-      "nombre": "Misil De Montu",
+      "nombre": "Misil de Montu",
       "tipo": "Talismán",
       "raza": null,
       "coste": 2,
@@ -3260,7 +3260,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/271.png"
     },
     {
-      "nombre": "Caminar El Tablon",
+      "nombre": "Caminar el Tablón",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -3332,7 +3332,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/277.png"
     },
     {
-      "nombre": "Batalla De Azincourt",
+      "nombre": "Batalla de Azincourt",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -3344,7 +3344,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/278.png"
     },
     {
-      "nombre": "Cae La Reina",
+      "nombre": "Cae la Reina",
       "tipo": "Talismán",
       "raza": null,
       "coste": 2,
@@ -3584,7 +3584,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/298.png"
     },
     {
-      "nombre": "Reino De Midgard",
+      "nombre": "Reino de Midgard",
       "tipo": "Tótem",
       "raza": null,
       "coste": 1,
@@ -3644,7 +3644,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/303.png"
     },
     {
-      "nombre": "Cuevas De Ajanta",
+      "nombre": "Cuevas de Ajanta",
       "tipo": "Tótem",
       "raza": null,
       "coste": 1,
@@ -3704,7 +3704,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/308.png"
     },
     {
-      "nombre": "Martillo Mjlnir",
+      "nombre": "Martillo Mjölnir",
       "tipo": "Arma",
       "raza": null,
       "coste": 1,
@@ -3716,7 +3716,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/148/309.png"
     },
     {
-      "nombre": "Casco De Esparta",
+      "nombre": "Casco de Esparta",
       "tipo": "Arma",
       "raza": null,
       "coste": 1,

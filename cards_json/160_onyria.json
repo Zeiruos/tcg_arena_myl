@@ -44,7 +44,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/003.png"
     },
     {
-      "nombre": "Ngel Vengador",
+      "nombre": "Ángel Vengador",
       "tipo": "Aliado",
       "raza": "Eterno",
       "coste": 3,
@@ -440,7 +440,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/036.png"
     },
     {
-      "nombre": "En Las Montaas De La Locura",
+      "nombre": "En las Montañas de la Locura",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -584,7 +584,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/048.png"
     },
     {
-      "nombre": "Ngel Gadreel",
+      "nombre": "Ángel Gadreel",
       "tipo": "Aliado",
       "raza": "Eterno",
       "coste": 1,
@@ -908,7 +908,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/075.png"
     },
     {
-      "nombre": "En Las Montaas De La Locura",
+      "nombre": "En las Montañas de la Locura",
       "tipo": "Oro",
       "raza": null,
       "coste": null,
@@ -1400,7 +1400,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/116.png"
     },
     {
-      "nombre": "Rlyeh",
+      "nombre": "Casa de Opio",
       "tipo": "Tótem",
       "raza": null,
       "coste": 2,
@@ -1580,7 +1580,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/131.png"
     },
     {
-      "nombre": "Ngel Eistibus",
+      "nombre": "Ángel Eistibus",
       "tipo": "Aliado",
       "raza": "Eterno",
       "coste": 4,
@@ -1628,7 +1628,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/135.png"
     },
     {
-      "nombre": "Principe Orion",
+      "nombre": "Ismael",
       "tipo": "Aliado",
       "raza": "Guerrero",
       "coste": 2,
@@ -1964,7 +1964,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/163.png"
     },
     {
-      "nombre": "Ngel Vengador",
+      "nombre": "Ángel Vengador",
       "tipo": "Aliado",
       "raza": "Eterno",
       "coste": 3,
@@ -2588,7 +2588,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/215.png"
     },
     {
-      "nombre": "Rlyeh",
+      "nombre": "Casa de Opio",
       "tipo": "Tótem",
       "raza": null,
       "coste": 2,
@@ -2768,7 +2768,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/230.png"
     },
     {
-      "nombre": "Ngel Eistibus",
+      "nombre": "Ángel Eistibus",
       "tipo": "Aliado",
       "raza": "Eterno",
       "coste": 4,
@@ -2816,7 +2816,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/234.png"
     },
     {
-      "nombre": "Principe Orion",
+      "nombre": "Ismael",
       "tipo": "Aliado",
       "raza": "Guerrero",
       "coste": 2,
@@ -3116,7 +3116,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/259.png"
     },
     {
-      "nombre": "Sabuesos De Arawn",
+      "nombre": "Sabuesos de Arawn",
       "tipo": "Aliado",
       "raza": "Bestia",
       "coste": 1,
@@ -3140,7 +3140,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/261.png"
     },
     {
-      "nombre": "Pipin El Breve",
+      "nombre": "Pipin el Breve",
       "tipo": "Aliado",
       "raza": "Caballero",
       "coste": 1,
@@ -3344,7 +3344,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/278.png"
     },
     {
-      "nombre": "Cleopatra Vii",
+      "nombre": "Cleopatra VII",
       "tipo": "Aliado",
       "raza": null,
       "coste": 1,
@@ -3356,7 +3356,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/279.png"
     },
     {
-      "nombre": "Ritual De Sombras",
+      "nombre": "Ritual de Sombras",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -3392,7 +3392,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/282.png"
     },
     {
-      "nombre": "Desafio Del Ingenio",
+      "nombre": "Desafio del Ingenio",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -3404,7 +3404,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/283.png"
     },
     {
-      "nombre": "Escorpion De Seth",
+      "nombre": "Escorpion de Seth",
       "tipo": "Talismán",
       "raza": null,
       "coste": 3,
@@ -3416,7 +3416,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/284.png"
     },
     {
-      "nombre": "Batalla De Trafalgar",
+      "nombre": "Batalla de Trafalgar",
       "tipo": "Talismán",
       "raza": null,
       "coste": 3,
@@ -3428,7 +3428,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/285.png"
     },
     {
-      "nombre": "Planta De La Juventud",
+      "nombre": "Planta de la Juventud",
       "tipo": "Tótem",
       "raza": null,
       "coste": 2,
@@ -3440,7 +3440,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/286.png"
     },
     {
-      "nombre": "Capilla De Los Susurros",
+      "nombre": "Capilla de los Susurros",
       "tipo": "Tótem",
       "raza": null,
       "coste": 1,
@@ -4088,7 +4088,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/342.png"
     },
     {
-      "nombre": "Puertas Grandes Y Pequeas",
+      "nombre": "Puertas Grandes y Pequeñas",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -4472,7 +4472,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/160/383.png"
     },
     {
-      "nombre": "Cienpies-Sp",
+      "nombre": "Cienpiés-SP",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,

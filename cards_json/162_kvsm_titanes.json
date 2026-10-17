@@ -380,7 +380,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/031.png"
     },
     {
-      "nombre": "Caon Helios",
+      "nombre": "Cañón Helios",
       "tipo": "Arma",
       "raza": null,
       "coste": 1,
@@ -704,7 +704,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/058.png"
     },
     {
-      "nombre": "Cienpies-Sp",
+      "nombre": "Cienpiés-SP",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
@@ -1640,7 +1640,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/136.png"
     },
     {
-      "nombre": "Escuadron Ngel",
+      "nombre": "Escuadrón Ángel",
       "tipo": "Aliado",
       "raza": "Eterno",
       "coste": 3,
@@ -2360,7 +2360,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/196.png"
     },
     {
-      "nombre": "Escuadron Ngel",
+      "nombre": "Escuadrón Ángel",
       "tipo": "Aliado",
       "raza": "Eterno",
       "coste": 3,
@@ -3140,7 +3140,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/162/261.png"
     },
     {
-      "nombre": "Cambiar De Tamao",
+      "nombre": "Cambiar de Tamaño",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,

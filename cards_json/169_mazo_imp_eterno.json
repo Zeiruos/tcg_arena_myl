@@ -44,7 +44,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/169/003.png"
     },
     {
-      "nombre": "Vuelo Mágico",
+      "nombre": "Polvo de Hadas",
       "tipo": "Talismán",
       "raza": null,
       "coste": null,
@@ -320,7 +320,7 @@
       "imagen_url": "https://api.myl.cl/static/cards/169/026.png"
     },
     {
-      "nombre": "Ciempiés-SP",
+      "nombre": "Cienpiés-SP",
       "tipo": "Talismán",
       "raza": null,
       "coste": 1,
