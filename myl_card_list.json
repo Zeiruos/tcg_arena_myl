@@ -17808,14 +17808,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Alicanto (Aliado)",
+        "name": "Alicanto",
         "type": "Aliado",
         "cost": 2,
         "image": "https://api.myl.cl/static/cards/161/087.png",
         "isHorizontal": false
       }
     },
-    "name": "Alicanto (Aliado)",
+    "name": "Alicanto",
     "type": "Aliado",
     "cost": 2,
     "_legal": {

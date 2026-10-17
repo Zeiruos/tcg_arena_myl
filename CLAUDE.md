@@ -46,7 +46,10 @@ son datos JSON más unos scripts en Python que los generan.
 Fuera del repo, en la carpeta padre, viven los insumos que no se publican: los dumps de
 codicetcg (`dump_json_codice_*.json`, `dump_html_codice_*.html`), los dumps crudos de la
 API (`cards_raw/`), la caché de imágenes de `revisar_dragones.py`
-(`cache_imagenes_codice/`) y los PDF/MD de reglas, FAQ y fe de erratas.
+(`cache_imagenes_codice/`) y los PDF/MD de reglas, FAQ y fe de erratas. Ahí también
+está la documentación oficial de TCG Arena en Markdown (`docs_tcg_arena/`, bajada de
+documentation.tcg-arena.fr): es más nueva que `GAME_JSON_DOCS.md` (incluye scripting,
+eventos y secciones custom) y es la referencia a consultar primero.
 
 ## Flujo de datos
 
@@ -170,7 +173,8 @@ KvM: ante la duda, mirar la carta en grande o preguntar.
 
 Solo hace falta una entrada cuando alguna impresión no rotaría, por defecto, con el
 dragón más reciente de la carta. `vigencia_por_id` manda sobre el nombre y sirve para
-separar cartas distintas que comparten nombre (hoy está vacío).
+separar cartas distintas que comparten nombre. Hoy tiene una sola entrada:
+LIBERTADORES-087, el Alicanto Aliado, que rota con Libertadores y no con KvM como el Oro.
 
 Cada carta emite `Vigencia` (array), que va en `mainFilters` como dropdown: permite ver
 de un vistazo qué cartas se van en la próxima rotación.
@@ -185,9 +189,11 @@ Pueden existir cartas distintas con el mismo nombre. Se decide caso por caso:
 - **Carta completamente distinta** (Zmeoaica de Bestiarium y la de Drácula, Moloch y
   Gog de Bestiarium y AyD…) → cada una rota con su propio set y **no** se declara su
   nombre. Si las dos siguen vigentes, TCG Arena las mostraría como estilos de una sola
-  carta, así que la que menos se usa lleva sufijo: "Alicanto (Aliado)" (vs el Oro de
-  los precon) y "Jonathan Harker (Drácula)" (vs el de Onyria). Se acuerda con el
-  usuario.
+  carta, así que la que menos se usa lleva sufijo: "Jonathan Harker (Drácula)" (vs el
+  de Onyria). Se acuerda con el usuario. El Alicanto Aliado y el Oro de los precon
+  se llaman igual a propósito, sin sufijo: se decidió que no molesta que TCG Arena los
+  muestre como estilos. Como el Oro rota con KvM por nombre, el Aliado lleva su
+  vigencia en `vigencia_por_id`.
 - Antes de concluir que son distintas, revisar el nombre impreso: la API les puso otro
   nombre a cartas enteras ("Principe Orion" de Onyria era Ismael, "Rlyeh" era Casa de
   Opio, "Vuelo Mágico" era Polvo de Hadas). Cruzar por texto contra codicetcg dentro

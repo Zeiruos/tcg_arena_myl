@@ -261,5 +261,7 @@
     "Ángel Vengador": "Kaiju vs Mecha"
   },
   "_vigencia_por_id": "Manda sobre el nombre. Para cartas distintas que comparten nombre.",
-  "vigencia_por_id": {}
+  "vigencia_por_id": {
+    "LIBERTADORES-087": "Libertadores"
+  }
 }
