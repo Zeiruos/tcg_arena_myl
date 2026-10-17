@@ -36,11 +36,11 @@ REPLACE_OUTPUT = "myl_card_list.json"
 # desaparecen del card list, y las marcadas "inmortal" sobreviven siempre.
 # Los archivos de cards_json/ NO se borran: quedan como historico.
 TEMPORADAS_VIGENTES = [
-    "Bestiarium",
     "Onyria",
     "Libertadores",
     "Kaiju vs Mecha",
     "AyD Vigilantes",
+    "Drácula",
 ]
 
 INMORTAL = "Inmortal"
@@ -65,12 +65,24 @@ TYPE_FIXES = {
 
 # Los nombres se emiten sin tildes: el buscador de TCG Arena hace match literal
 # sobre el texto, asi que "Baculo" no encuentra "Báculo de los Eternos".
+# Se quita cualquier diacritico, no solo las tildes del castellano: Drácula
+# trae nombres rumanos ("Vâlve Albe", "Rey de los Loçolicos") y hay cosas como
+# "Martillo Mjölnir" que nadie teclea asi al buscar.
 # La ñ se conserva a proposito: es una letra distinta, no un diacritico
 # ("Cañón" -> "Cañon", no "Canon").
-ACCENT_MAP = str.maketrans({
-    "á": "a", "é": "e", "í": "i", "ó": "o", "ú": "u", "ü": "u",
-    "Á": "A", "É": "E", "Í": "I", "Ó": "O", "Ú": "U", "Ü": "U",
-})
+KEEP_CHARS = "ñÑ"
+
+# La API emite muchos nombres con cada palabra en mayuscula ("Yelmo De
+# Mambrino"); codicetcg, y por lo tanto las reimpresiones nuevas, los escribe
+# bien ("Yelmo de Mambrino"). TCG Arena agrupa los estilos de una carta solo si
+# el nombre coincide exacto, asi que los conectores se pasan a minuscula al
+# emitir (salvo la primera palabra). Solo cambia mayusculas, nunca la ortografia.
+LOWER_WORDS = {
+    "de", "del", "la", "las", "el", "los", "y", "e", "en", "a", "al", "con",
+    "por", "para", "o", "u", "un", "una", "su", "sus", "sin", "sobre",
+}
+
+GAME_FILE = "Game_Mitos_y_Leyendas.json"
 
 # Agrupacion de sets en temporadas para el campo "Set".
 #
@@ -79,6 +91,11 @@ ACCENT_MAP = str.maketrans({
 # Agrupando en 5 temporadas el filtro vuelve a ser dropdown, igual que "race"
 # (10 valores). El titulo de set real se conserva en el campo "Edicion", que
 # se emite como string (no array) para que sea busqueda por texto.
+#
+# La temporada de un set es la de su dragon de frecuencia (el emblema junto a
+# la caja de texto), no la de su fecha de salida: los mazos precon salieron con
+# AyD pero llevan el dragon de KvM. Las impresiones sueltas con un dragon
+# distinto al de su set se corrigen por nombre en vigencia_cartas.json.
 SET_TO_SEASON = {
     "IMP - Bestiarium": "Bestiarium",
     "IMP - Secretos Arcanos": "Bestiarium",
@@ -94,9 +111,16 @@ SET_TO_SEASON = {
     "25 Aniversario": "Kaiju vs Mecha",
     "KVM JO": "Kaiju vs Mecha",
     "IMP - AyD Vigilantes": "AyD Vigilantes",
-    "IMP - Mazo Dragón": "AyD Vigilantes",
-    "IMP - Mazo Eterno": "AyD Vigilantes",
-    "IMP - Mazo Guerrero": "AyD Vigilantes",
+    "IMP - Mazo Dragón": "Kaiju vs Mecha",
+    "IMP - Mazo Eterno": "Kaiju vs Mecha",
+    "IMP - Mazo Guerrero": "Kaiju vs Mecha",
+    "IMP - Drácula: Rey Vampiro": "Drácula",
+    "IMP - Drácula: Rey Vampiro - Inmortales": "Drácula",
+    "IMP - Drácula: Cazadores Nocturnos": "Drácula",
+    "IMP - Drácula: Hijos de la Noche": "Drácula",
+    "IMP - Drácula: Carmilla la Condesa": "Drácula",
+    "IMP - Drácula: Ruthven el Vampiro": "Drácula",
+    "IMP - Promociones CasaMyL 2026": "Drácula",
 }
 
 # Gold generation patterns in ability text (no spaces, as stored)
@@ -231,8 +255,22 @@ def compute_legality(card_id, ability_no_spaces, banlist):
 
 
 def strip_accents(text):
-    """Quita las tildes de las vocales, conservando la ñ. Ver ACCENT_MAP."""
-    return (text or "").translate(ACCENT_MAP)
+    """Quita los diacriticos (tildes, dieresis, ç...), conservando la ñ. Ver KEEP_CHARS."""
+    return "".join(
+        ch if ch in KEEP_CHARS else "".join(
+            c for c in unicodedata.normalize("NFD", ch) if unicodedata.category(c) != "Mn")
+        for ch in (text or "")
+    )
+
+
+def lower_connectors(name):
+    """Conectores en minuscula salvo al inicio: "El Rey Y El Verdugo" -> "El Rey y el Verdugo"."""
+    words = (name or "").split(" ")
+    for i in range(1, len(words)):
+        core = words[i].strip(".,:;!?\"'()")
+        if core and core.lower() in LOWER_WORDS and core != core.lower():
+            words[i] = words[i].replace(core, core.lower(), 1)
+    return " ".join(words)
 
 
 def normalize_name(name):
@@ -243,24 +281,31 @@ def normalize_name(name):
 
 
 def load_vigencia(path):
-    """Carga las excepciones de vigencia, indexadas por nombre normalizado."""
+    """Carga las excepciones de vigencia: por nombre normalizado y por ID."""
     try:
         with open(path, encoding="utf-8") as f:
             data = json.load(f)
     except FileNotFoundError:
         print(f"Warning: {path} no encontrado, todas las cartas rotan con su set.")
-        return {}
-    return {normalize_name(k): v for k, v in data.get("vigencia", {}).items()}
+        return {"nombre": {}, "id": {}}
+    return {
+        "nombre": {normalize_name(k): v for k, v in data.get("vigencia", {}).items()},
+        "id": dict(data.get("vigencia_por_id", {})),
+    }
 
 
-def vigencia_for(nombre, set_title, vigencias):
+def vigencia_for(card_id, nombre, set_title, vigencias):
     """Temporada con la que rota una carta, o INMORTAL si no rota nunca.
 
     La vigencia se declara por NOMBRE y la heredan todas las impresiones: una
-    reimpresion en un set nuevo puede extender la vida de todas sus copias
-    anteriores. Sin excepcion declarada, la carta rota con su propio set.
+    reimpresion con un dragon de frecuencia mas nuevo extiende la vida de todas
+    sus copias anteriores. Sin excepcion declarada, la carta rota con su set.
+    El override por ID manda sobre el nombre: sirve para separar cartas
+    distintas que comparten nombre (p. ej. Alicanto Oro vs Alicanto Aliado).
     """
-    return vigencias.get(normalize_name(nombre)) or season_for(set_title)
+    return (vigencias["id"].get(card_id)
+            or vigencias["nombre"].get(normalize_name(nombre))
+            or season_for(set_title))
 
 
 def season_for(set_title):
@@ -274,9 +319,10 @@ def season_for(set_title):
 def transform_card(source_card, set_title, banlist, vigencias):
     """Transform a single source card to TCG Arena format."""
     card_id = source_card["edicion"]
-    # Sin tildes para que el buscador de TCG Arena encuentre igual.
+    # Sin tildes y con conectores en minuscula, para que el buscador de TCG
+    # Arena encuentre igual y las reimpresiones se agrupen como estilos.
     # El lookup de vigencia normaliza aparte, asi que no se ve afectado.
-    nombre = strip_accents(source_card["nombre"])
+    nombre = lower_connectors(strip_accents(source_card["nombre"]))
     tipo = TYPE_FIXES.get(source_card["tipo"], source_card["tipo"])
     raza = source_card.get("raza")
     coste = source_card.get("coste")
@@ -311,13 +357,18 @@ def transform_card(source_card, set_title, banlist, vigencias):
     card["race"] = race
     card["rarity"] = frecuencia
     card["strength"] = strength
-    card["ability"] = ability
+    # La legalidad ("Única") ya se calculo sobre el texto original; el campo
+    # emitido es solo para buscar, asi que va sin tildes como el nombre.
+    card["ability"] = strip_accents(ability)
     # "Set" agrupa por temporada: array de pocos valores -> filtro dropdown.
     # "Edicion" guarda el set real como string -> busqueda por texto.
     # "Vigencia" es la temporada con la que rota (o Inmortal) -> dropdown.
-    card["Set"] = [season_for(set_title)]
-    card["Edicion"] = set_title
-    card["Vigencia"] = [vigencia_for(nombre, set_title, vigencias)]
+    # Una impresion de una temporada ya rotada que sigue legal (Inmortal o
+    # reimpresa) queda sin Set: asi la temporada rotada desaparece del filtro.
+    season = season_for(set_title)
+    card["Set"] = [season] if season in TEMPORADAS_VIGENTES else []
+    card["Edicion"] = strip_accents(set_title)
+    card["Vigencia"] = [vigencia_for(card_id, nombre, set_title, vigencias)]
 
     # Gold token generation
     gold_count = detect_gold_generation(ability)
@@ -366,6 +417,23 @@ def build_card_list(banlist, vigencias):
     return cards
 
 
+def warn_unknown_types(cards):
+    """Avisa de tipos de carta que el game JSON no sabe jugar (autoPlayFromHand)."""
+    try:
+        with open(GAME_FILE, encoding="utf-8") as f:
+            game = json.load(f)
+        known = set(game["gameplay"]["Classic"]["sections"]["autoPlayFromHand"])
+    except (FileNotFoundError, KeyError):
+        print(f"  Warning: no pude leer autoPlayFromHand de {GAME_FILE}")
+        return
+    unknown = {}
+    for c in cards.values():
+        if c["type"] not in known:
+            unknown.setdefault(c["type"], []).append(c["id"])
+    for tipo, ids in unknown.items():
+        print(f"  Warning: tipo {tipo!r} no esta en autoPlayFromHand ({len(ids)} cartas, p.ej. {ids[0]})")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Build TCG Arena card list from source data")
     parser.add_argument("--output", "-o", default=DEFAULT_OUTPUT, help=f"Output file (default: {DEFAULT_OUTPUT})")
@@ -379,12 +447,13 @@ def main():
 
     print(f"Loading vigencia from {VIGENCIA_FILE}...")
     vigencias = load_vigencia(VIGENCIA_FILE)
-    print(f"  {len(vigencias)} nombres con vigencia declarada")
+    print(f"  {len(vigencias['nombre'])} nombres y {len(vigencias['id'])} IDs con vigencia declarada")
     print(f"  Temporadas vigentes: {', '.join(TEMPORADAS_VIGENTES)}")
 
     print(f"\nProcessing source files from {CARDS_JSON_DIR}/...")
     cards = build_card_list(banlist, vigencias)
 
+    warn_unknown_types(cards)
     print(f"\nTotal cards: {len(cards)} (including {ORO_VIRTUAL_ID} token)")
 
     # Stats
@@ -419,6 +488,9 @@ def main():
     print(f"\nTemporadas ({len(seasons)} valores en el filtro Set):")
     for name, n in sorted(seasons.items(), key=lambda x: -x[1]):
         print(f"  {n:5}  {name}")
+    sin_set = sum(1 for v in cards.values() if not v.get("Set") and not v.get("isToken"))
+    if sin_set:
+        print(f"  {sin_set:5}  (sin Set: impresiones de temporadas rotadas que siguen legales)")
 
     # Vigencia: con que temporada rota cada carta (Inmortal = no rota nunca)
     vig = {}
