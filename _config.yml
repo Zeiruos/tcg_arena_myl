@@ -1,0 +1,5 @@
+# GitHub Pages construye el sitio con Jekyll y convierte cada .md en una pagina.
+# Estos documentos son internos: se versionan en el repo pero no se publican.
+exclude:
+  - CLAUDE.md
+  - GAME_JSON_DOCS.md

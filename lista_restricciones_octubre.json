@@ -1,0 +1,293 @@
+{
+  "actualizacion": "Octubre",
+  "_nota": "Transcrita de la tabla oficial. Sheut trae la edicion repetida en la columna Estatus; se asume sin cambios (dos copias) porque su fila no marca cambio. La tabla no incluye mercenarias ni liberadas.",
+  "cartas": [
+    {
+      "nombre": "Tenshi X-2",
+      "formato": "Imperio",
+      "edicion": "Escuadrón Mecha",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Cthulhu",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Hook",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Septimus",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Flechero",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Sherlok Holmes",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Limitada a dos copias",
+      "cambio": null
+    },
+    {
+      "nombre": "El Rey y el Verdugo",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "E.A. Poe",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Yelmo Mambrino",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Batallón de Ovejas",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "León Indiferente",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "San Bruno",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Horda Tenebris",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Creación de Temaukel",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Cancha Rayada",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Fusil Patriota",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Manuel Bulnes",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Padre de la Patria",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Ramón Freire",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Mariano Osorio",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Legión Paladín",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Lucerna",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Levisterio",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Tesoro de los Césares",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Cueva de Xalpén",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Sheut",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a dos copias",
+      "cambio": null
+    },
+    {
+      "nombre": "Liberar Esclavos",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Akuma el Terrible",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Resistencia de Acero",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Voragh el Devorador",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Kuchiku el Cazador",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a una copia",
+      "cambio": "Limitado a una copia"
+    },
+    {
+      "nombre": "Azi Sruvara",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a dos copias",
+      "cambio": null
+    },
+    {
+      "nombre": "Nyssara Cautiva",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a dos copias",
+      "cambio": null
+    },
+    {
+      "nombre": "Crono Diamante",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Espada de O'Higgins",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a una copia",
+      "cambio": "Limitada a una copia"
+    },
+    {
+      "nombre": "Duelo de Dragones",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a una copia",
+      "cambio": "Limitada a una copia"
+    },
+    {
+      "nombre": "Escamas de Dragón",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a una copia",
+      "cambio": "Limitada a una copia"
+    },
+    {
+      "nombre": "Shiji",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Ángel Metatrón",
+      "formato": "Imperio",
+      "edicion": "Ángeles y Demonios: Vigilantes",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Lilith",
+      "formato": "Imperio",
+      "edicion": "Ángeles y Demonios: Vigilantes",
+      "estatus": "Limitada a una copia",
+      "cambio": "Limitada a una copia"
+    },
+    {
+      "nombre": "Jinete de la Peste",
+      "formato": "Imperio",
+      "edicion": "Ángeles y Demonios: Vigilantes",
+      "estatus": "Limitada a una copia",
+      "cambio": "Limitada a una copia"
+    }
+  ]
+}

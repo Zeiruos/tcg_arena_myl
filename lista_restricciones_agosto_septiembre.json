@@ -1,0 +1,341 @@
+{
+  "actualizacion": "Agosto-Septiembre",
+  "cartas": [
+    {
+      "nombre": "Tenshi X-2",
+      "formato": "Imperio",
+      "edicion": "Escuadrón Mecha",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Shiji",
+      "formato": "Imperio",
+      "edicion": "Escuadrón Mecha",
+      "estatus": "Limitada a una copia",
+      "cambio": "Se limita a una copia"
+    },
+    {
+      "nombre": "Ereshkigal",
+      "formato": "Imperio",
+      "edicion": "Bestiarium",
+      "estatus": "Prohibida",
+      "cambio": "Pasa de dos copias a Prohibida"
+    },
+    {
+      "nombre": "Paladín (BES 017 – 161)",
+      "formato": "Imperio",
+      "edicion": "Bestiarium",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Rey de Amarillo",
+      "formato": "Imperio",
+      "edicion": "Bestiarium",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Ryugu-Jo",
+      "formato": "Imperio",
+      "edicion": "Lootbox Imperio 2024",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Shakar Raj",
+      "formato": "Imperio",
+      "edicion": "Bestiarium",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Azi Sruvara",
+      "formato": "Imperio",
+      "edicion": "Bestiarium",
+      "estatus": "Limitada a dos copias",
+      "cambio": null
+    },
+    {
+      "nombre": "El Mago",
+      "formato": "Imperio",
+      "edicion": "Secretos Arcanos",
+      "estatus": "Limitada a dos copias",
+      "cambio": null
+    },
+    {
+      "nombre": "Sheut",
+      "formato": "Imperio",
+      "edicion": "Bestiarium",
+      "estatus": "Limitada a dos copias",
+      "cambio": null
+    },
+    {
+      "nombre": "Perseguir el sol",
+      "formato": "Imperio",
+      "edicion": "Cenizas de Fuego",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Cthulhu",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Flechero",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Hook",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Septimus",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Batallón de Ovejas",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "E.A. Poe",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "El Rey y el Verdugo",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "León Indiferente",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Yelmo Mambrino",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Sherlok Holmes",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Limitada a dos copias",
+      "cambio": "Pasa de una copia a dos copias"
+    },
+    {
+      "nombre": "Siete Enanos",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Mercenaria",
+      "cambio": null
+    },
+    {
+      "nombre": "Cancha Rayada",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Creación de Temaukel",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Fusil Patriota",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Horda tenebris",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "San Bruno",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Cueva de Xalpén",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Legión Paladín",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Levisterio",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Lucerna",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Manuel Bulnes",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Mariano Osorio",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": "Se limita a una copia"
+    },
+    {
+      "nombre": "Padre de la Patria",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Ramón Freire",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Tesoro de los Césares",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Escudo Nacional",
+      "formato": "Imperio",
+      "edicion": "Libertadores",
+      "estatus": "Mercenaria",
+      "cambio": null
+    },
+    {
+      "nombre": "Liberar Esclavos",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Prohibida",
+      "cambio": null
+    },
+    {
+      "nombre": "Resistencia de Acero",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Prohibida",
+      "cambio": "Pasa de una copia a Prohibida"
+    },
+    {
+      "nombre": "Akuma el Terrible",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Crono Diamante",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a una copia",
+      "cambio": null
+    },
+    {
+      "nombre": "Voragh el Devorador",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a una copia",
+      "cambio": "Se limita a una copia"
+    },
+    {
+      "nombre": "Kuchiku el Cazador",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a dos copias",
+      "cambio": null
+    },
+    {
+      "nombre": "Nyssara Cautiva",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Limitada a dos copias",
+      "cambio": null
+    },
+    {
+      "nombre": "Leyaden",
+      "formato": "Imperio",
+      "edicion": "Kaiju vs Mecha: Titanes",
+      "estatus": "Mercenaria",
+      "cambio": null
+    },
+    {
+      "nombre": "Metatron",
+      "formato": "Imperio",
+      "edicion": "AyD Vigilantes",
+      "estatus": "Limitada a una copia",
+      "cambio": "Se limita a una copia"
+    },
+    {
+      "nombre": "Alicia en Wonderland",
+      "formato": "Imperio",
+      "edicion": "Onyria",
+      "estatus": "Libre",
+      "cambio": "Libre"
+    },
+    {
+      "nombre": "Los Umbras",
+      "formato": "Imperio",
+      "edicion": "Lootbox Imperio 2024",
+      "estatus": "Libre",
+      "cambio": "Libre"
+    }
+  ]
+}
