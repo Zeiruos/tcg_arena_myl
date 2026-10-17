@@ -175,7 +175,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": true
+      "IR": 1
     },
     "race": [
       "Guerrero"
@@ -28118,7 +28118,7 @@
     "type": "Aliado",
     "cost": 1,
     "_legal": {
-      "IR": 2
+      "IR": 1
     },
     "race": [
       "Guerrero"
@@ -58519,7 +58519,7 @@
     "type": "Aliado",
     "cost": 2,
     "_legal": {
-      "IR": true
+      "IR": 1
     },
     "race": [
       "Guerrero"
@@ -58583,7 +58583,7 @@
     "type": "Aliado",
     "cost": 1,
     "_legal": {
-      "IR": 2
+      "IR": 1
     },
     "race": [
       "Guerrero"
