@@ -88,7 +88,7 @@
       "edicion": "AYD_VIGILANTES-007",
       "frecuencia": "S",
       "descripcion": null,
-      "habilidad": "Furia. Imbloqueable.\nCuando ataca, mira la mano de tu oponente y nombra una carta. Esa carta no puede ser jugada hasta tu próximo turno.\nUna vez por turno, puedes jugar un Arma sobre este Aliado o uno oponente, reduciendo su coste en un Oro, hasta un mínimo de 1.",
+      "habilidad": "Furia. Imbloqueable.\nCuando haga daño de combate, mira la mano de tu oponente y nombra una carta. Esa carta no puede ser jugada hasta tu próximo turno.\nUna vez por turno, puedes jugar un Arma sobre este Aliado o uno oponente, reduciendo su coste en un Oro, hasta un mínimo de 1.",
       "imagen_url": "https://api.myl.cl/static/cards/166/007.png"
     },
     {
@@ -388,7 +388,7 @@
       "edicion": "AYD_VIGILANTES-032",
       "frecuencia": "UR",
       "descripcion": "El maldito camina bajo un cielo que no lo reconoce. La tierra rehúye su paso y la sangre aún se crispa en sus manos. En su sombra germina el mal.",
-      "habilidad": "Furia. Imbloquable.\nCuando entra en juego, Baraja hasta una carta de coste 2 o menos o Roba dos cartas.\nCuando haga daño de combate, puedes Barajalo para buscar dos Aliados de coste 2 o menos en tu Castillo. Juega uno sin pagar su coste y pon el otro en tu mano.",
+      "habilidad": "Furia. Imbloqueable.\nCuando entra en juego, Baraja hasta una carta de coste 2 o menos o Roba dos cartas.\nCuando haga daño de combate, puedes Barajalo para buscar dos Aliados de coste 2 o menos en tu Castillo. Juega uno sin pagar su coste y pon el otro en tu mano.",
       "imagen_url": "https://api.myl.cl/static/cards/166/032.png"
     },
     {
@@ -520,7 +520,7 @@
       "edicion": "AYD_VIGILANTES-043",
       "frecuencia": "UR",
       "descripcion": "Fue forjada en la voluntad del Altísimo. Es filo de luz que separa verdad y mentira, carne y espíritu. En manos de los ángeles, su fulgor abre caminos y cierra para siempre los reinos rebeldes.",
-      "habilidad": "El portador gana 2 de Fuerza e Imbloqueable.\nCuando entra en juego y en tu Agrupación, Destierra tantas cartas del tope de un Castillo como Aliados controles y Roba una carta.\nPuedes Desterrarla de tu Cementerio para que un Aliado gane o pierda 2 de Fuerza permanentemente.",
+      "habilidad": "El portador gana 2 de Fuerza e Imbloqueable.\nCuando entra en juego y en tu Agrupación, Destierra tres cartas del tope de un Castillo y Roba una carta.\nPuedes Desterrarla de tu Cementerio para que un Aliado gane o pierda 2 de Fuerza permanentemente.",
       "imagen_url": "https://api.myl.cl/static/cards/166/043.png"
     },
     {
@@ -556,7 +556,7 @@
       "edicion": "AYD_VIGILANTES-046",
       "frecuencia": "UR",
       "descripcion": "Sellos rotos, trompetas ardientes y bestias que emergen del abismo. En medio del juicio, el Cordero reina. Tras la caída de Babilonia, desciende la Nueva Jerusalén, donde ya no hay llanto.",
-      "habilidad": "En tu Vigilia, si no has puesto Oros en juego este turno, ponlo de tu mano o Cementerio en tu Reserva. Si lo haces, Roba una carta.\nUna vez por turno, puedes mirar seis cartas del tope de un Castillo y devolverlas en cualquier orden en el tope y/o fondo del Castillo.\nLos Aliados oponentes pierden 1 de Fuerza.",
+      "habilidad": "Solo puedes controlar una copia de esta carta.\nCuando entra en juego, mira las primeras tres cartas de tu Castillo, pon una carta de ahí en tu mano y Baraja el resto.\nSi está en tu Reserva, no puede perder su habilidad y los demás Oros no pueden ser convertidos.",
       "imagen_url": "https://api.myl.cl/static/cards/166/046.png"
     },
     {
@@ -580,7 +580,7 @@
       "edicion": "AYD_VIGILANTES-048",
       "frecuencia": "MR",
       "descripcion": "Es el ángel de la misericordia y del perdón ardiente, alza su mano cuando el juicio pesa sobre la balanza, es el guardián de la clemencia divina.",
-      "habilidad": "Furia. Imbloqueable.\nCuando ataca, mira la mano de tu oponente y nombra una carta. Esa carta no puede ser jugada hasta tu próximo turno.\nUna vez por turno, puedes jugar un Arma sobre este Aliado o uno oponente, reduciendo su coste en un Oro, hasta un mínimo de 1.",
+      "habilidad": "Furia. Imbloqueable.\nCuando haga daño de combate, mira la mano de tu oponente y nombra una carta. Esa carta no puede ser jugada hasta tu próximo turno.\nUna vez por turno, puedes jugar un Arma sobre este Aliado o uno oponente, reduciendo su coste en un Oro, hasta un mínimo de 1.",
       "imagen_url": "https://api.myl.cl/static/cards/166/048.png"
     },
     {
@@ -628,7 +628,7 @@
       "edicion": "AYD_VIGILANTES-052",
       "frecuencia": "MR",
       "descripcion": "Cabalga en tormentas invisibles, surge al sonido de trompetas infernales. Sus ejércitos marchan como viento caliente del desierto, y su mirada enciende pasiones que arden hasta consumir la razón.",
-      "habilidad": "Furia. Imbloqueble.\nCuando haga daño, puedes Barajarlo en tu Castillo para buscar dos Aliados de coste 1 en tu Castillo que no sean Beleth. Juega uno sin pagar su coste y pon el otro en tu mano.\nTus demás Guerreros ganan 1 de Fuerza.",
+      "habilidad": "Furia. Imbloqueable.\nCuando haga daño, puedes Barajarlo en tu Castillo para buscar dos Aliados de coste 1 en tu Castillo que no sean Beleth. Juega uno sin pagar su coste y pon el otro en tu mano.\nTus demás Guerreros ganan 1 de Fuerza.",
       "imagen_url": "https://api.myl.cl/static/cards/166/052.png"
     },
     {
@@ -1012,7 +1012,7 @@
       "edicion": "AYD_VIGILANTES-084",
       "frecuencia": "R",
       "descripcion": "Rey de llanuras y bestias, su nombre resonó como desafío a los cuatro vientos. Bajo su mando crecieron torres, poblados y murallas, pero también el orgullo que confunde lenguas y dispersa pueblos.",
-      "habilidad": "Furia. Imbloqueble.\nCuando haga daño, puedes Barajalo en tu Castillo para poner en tu Línea de Defensa una carta de un Cementerio como un Aliado de Fuerza 3 con la habilidad \"A los jugadores les cuesta un Oro adicional jugar Talismanes\".",
+      "habilidad": "Furia. Imbloqueable.\nCuando haga daño, puedes Barajalo en tu Castillo para poner en tu Línea de Defensa una carta de un Cementerio como un Aliado de Fuerza 3 con la habilidad \"A los jugadores les cuesta un Oro adicional jugar Talismanes\".",
       "imagen_url": "https://api.myl.cl/static/cards/166/084.png"
     },
     {

@@ -2020,7 +2020,7 @@
       "edicion": "LIBERTADORES-168",
       "frecuencia": "L",
       "descripcion": null,
-      "habilidad": "Cuando entra en juego, puedes Barajar cartas cuyos costes sumen hasta 3 y Roba dos cartas.\nUna vez por turno, puedes pagar un Oro o Barajar un Arma de tu mano para cancelar la habilidad de una carta de coste 2 o menos.\nSi controlas o hay Armas en tu Cementerio, jugar Talismanes cuesta un Oro adicional.",
+      "habilidad": "Furia. Imbloqueable.\nUna vez por turno, puedes Barajar un Arma o Aliado Caballero de tu mano o que controles para cancelar una habilidad o Desterrar una carta de coste 3 o menos.\nNo se pueden Barajar Aliados con Arma y los Talismán y Tótem cuestan un Oro adicional.",
       "imagen_url": "https://api.myl.cl/static/cards/161/168.png"
     },
     {
@@ -2032,7 +2032,7 @@
       "edicion": "LIBERTADORES-169",
       "frecuencia": "L",
       "descripcion": null,
-      "habilidad": "Furia.\nCuando entra en juego, pon las demás cartas que no sean Oro en el fondo de los Castillos de sus dueños. \nEn tu Vigilia, una vez por turno, puedes pagar un Oro y Botar seis para jugar un Aliado de tu Cementerio o mano sin pagar su coste.",
+      "habilidad": "No puede ser jugado sin pagar su coste.\nCuando entra en juego, puedes Barajar las demás cartas en juego que no sean Oro.\nUna vez en tu turno, puedes pagar un Oro y Botar cuatro cartas para jugar un Aliado de coste 4 o menos de tu mano o Cementerio sin pagar su coste.",
       "imagen_url": "https://api.myl.cl/static/cards/161/169.png"
     },
     {
@@ -2068,7 +2068,7 @@
       "edicion": "LIBERTADORES-172",
       "frecuencia": "L",
       "descripcion": null,
-      "habilidad": "Furia.\nEn tu Vigilia, una vez por turno, tu oponente Bota seis cartas. Pon hasta un Oro de su Cementerio en tu Reserva y busca dos Aliados en tu Castillo y ponlos en tu mano.\nLos Talismanes cuestan un Oro adicional.",
+      "habilidad": "Furia.\nCuando entra en juego o ataca, tu oponente Bota seis cartas. Pon hasta un Oro de su Cementerio en tu Reserva.\nUna vez por turno, Roba dos cartas.\nEn tu Fase Final, agrupa hasta dos Aliados.\nLos Talismanes cuestan un Oro adicional.",
       "imagen_url": "https://api.myl.cl/static/cards/161/172.png"
     },
     {
@@ -2092,19 +2092,19 @@
       "edicion": "LIBERTADORES-174",
       "frecuencia": "L",
       "descripcion": null,
-      "habilidad": "Imbloqueable. \nTu Aliados no pueden ser Anulados, perder su habilidad ni ser Barajados.\nTu oponente no puede atacar.\nCuando un Aliado sea puesto en un Destierro, hasta tres veces por turno Baraja hasta dos cartas de los Cementerios y Roba una carta.",
+      "habilidad": "Imbloqueable.\nTu Aliados no pueden perder su habilidad, ser Anulados ni Barajados por efectos oponentes.\nCuando un Aliado sea puesto en un Destierro, hasta tres veces por turno Baraja hasta dos cartas de los Cementerios y Roba una carta.\nNo puedes recibir daño de combate.",
       "imagen_url": "https://api.myl.cl/static/cards/161/174.png"
     },
     {
       "nombre": "El Trauco",
       "tipo": "Aliado",
       "raza": "Sombra",
-      "coste": 4,
+      "coste": 3,
       "fuerza": 4,
       "edicion": "LIBERTADORES-175",
       "frecuencia": "L",
       "descripcion": null,
-      "habilidad": "Exhumar.\nUna vez por turno, busca en tu Castillo un Aliado y ponlo en tu mano. Genera un Oro para jugar Aliados.\nUna vez por turno, busca una carta en tu Castillo, ponlas en tu mano y busca en el Castillo oponente tres cartas y Destiérralas.",
+      "habilidad": "Exhumar. Indesterrable.\nUna vez en tu turno, puedes Destruir las cartas oponentes de coste 1 o menos o Desterrar una carta oponente que no sea Oro.\nUna vez por turno, busca en tu Castillo o Cementerio un Aliado, ponlo en tu mano y genera un Oro para jugar Aliados.",
       "imagen_url": "https://api.myl.cl/static/cards/161/175.png"
     },
     {

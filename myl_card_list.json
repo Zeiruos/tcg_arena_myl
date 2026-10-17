@@ -20372,7 +20372,7 @@
     ],
     "rarity": "L",
     "strength": 4,
-    "ability": "Cuandoentraenjuego,puedesBarajarcartascuyoscostessumenhasta3yRobadoscartas.Unavezporturno,puedespagarunOrooBarajarunArmadetumanoparacancelarlahabilidaddeunacartadecoste2omenos.SicontrolasohayArmasentuCementerio,jugarTalismanescuestaunOroadicional.",
+    "ability": "Furia.Imbloqueable.Unavezporturno,puedesBarajarunArmaoAliadoCaballerodetumanooquecontrolesparacancelarunahabilidadoDesterrarunacartadecoste3omenos.NosepuedenBarajarAliadosconArmaylosTalismanyTotemcuestanunOroadicional.",
     "Set": [
       "Libertadores"
     ],
@@ -20404,7 +20404,7 @@
     ],
     "rarity": "L",
     "strength": 6,
-    "ability": "Furia.Cuandoentraenjuego,ponlasdemascartasquenoseanOroenelfondodelosCastillosdesusdueños.EntuVigilia,unavezporturno,puedespagarunOroyBotarseisparajugarunAliadodetuCementerioomanosinpagarsucoste.",
+    "ability": "Nopuedeserjugadosinpagarsucoste.Cuandoentraenjuego,puedesBarajarlasdemascartasenjuegoquenoseanOro.Unavezentuturno,puedespagarunOroyBotarcuatrocartasparajugarunAliadodecoste4omenosdetumanooCementeriosinpagarsucoste.",
     "Set": [
       "Libertadores"
     ],
@@ -20503,7 +20503,7 @@
     ],
     "rarity": "L",
     "strength": 5,
-    "ability": "Furia.EntuVigilia,unavezporturno,tuoponenteBotaseiscartas.PonhastaunOrodesuCementerioentuReservaybuscadosAliadosentuCastilloyponlosentumano.LosTalismanescuestanunOroadicional.",
+    "ability": "Furia.Cuandoentraenjuegooataca,tuoponenteBotaseiscartas.PonhastaunOrodesuCementerioentuReserva.Unavezporturno,Robadoscartas.EntuFaseFinal,agrupahastadosAliados.LosTalismanescuestanunOroadicional.",
     "Set": [
       "Libertadores"
     ],
@@ -20570,7 +20570,7 @@
     ],
     "rarity": "L",
     "strength": 3,
-    "ability": "Imbloqueable.TuAliadosnopuedenserAnulados,perdersuhabilidadniserBarajados.Tuoponentenopuedeatacar.CuandounAliadoseapuestoenunDestierro,hastatresvecesporturnoBarajahastadoscartasdelosCementeriosyRobaunacarta.",
+    "ability": "Imbloqueable.TuAliadosnopuedenperdersuhabilidad,serAnuladosniBarajadosporefectosoponentes.CuandounAliadoseapuestoenunDestierro,hastatresvecesporturnoBarajahastadoscartasdelosCementeriosyRobaunacarta.Nopuedesrecibirdañodecombate.",
     "Set": [
       "Libertadores"
     ],
@@ -20586,14 +20586,14 @@
       "front": {
         "name": "El Trauco",
         "type": "Aliado",
-        "cost": 4,
+        "cost": 3,
         "image": "https://api.myl.cl/static/cards/161/175.png",
         "isHorizontal": false
       }
     },
     "name": "El Trauco",
     "type": "Aliado",
-    "cost": 4,
+    "cost": 3,
     "_legal": {
       "IR": true
     },
@@ -20602,7 +20602,7 @@
     ],
     "rarity": "L",
     "strength": 4,
-    "ability": "Exhumar.Unavezporturno,buscaentuCastillounAliadoyponloentumano.GeneraunOroparajugarAliados.Unavezporturno,buscaunacartaentuCastillo,ponlasentumanoybuscaenelCastillooponentetrescartasyDestierralas.",
+    "ability": "Exhumar.Indesterrable.Unavezentuturno,puedesDestruirlascartasoponentesdecoste1omenosoDesterrarunacartaoponentequenoseaOro.Unavezporturno,buscaentuCastillooCementeriounAliado,ponloentumanoygeneraunOroparajugarAliados.",
     "Set": [
       "Libertadores"
     ],
@@ -33662,7 +33662,7 @@
     ],
     "rarity": "S",
     "strength": 3,
-    "ability": "Furia.Imbloqueable.Cuandoataca,miralamanodetuoponenteynombraunacarta.Esacartanopuedeserjugadahastatuproximoturno.Unavezporturno,puedesjugarunArmasobreesteAliadoounooponente,reduciendosucosteenunOro,hastaunminimode1.",
+    "ability": "Furia.Imbloqueable.Cuandohagadañodecombate,miralamanodetuoponenteynombraunacarta.Esacartanopuedeserjugadahastatuproximoturno.Unavezporturno,puedesjugarunArmasobreesteAliadoounooponente,reduciendosucosteenunOro,hastaunminimode1.",
     "Set": [
       "AyD Vigilantes"
     ],
@@ -34453,7 +34453,7 @@
     ],
     "rarity": "UR",
     "strength": 4,
-    "ability": "Furia.Imbloquable.Cuandoentraenjuego,Barajahastaunacartadecoste2omenosoRobadoscartas.Cuandohagadañodecombate,puedesBarajaloparabuscardosAliadosdecoste2omenosentuCastillo.Juegaunosinpagarsucosteyponelotroentumano.",
+    "ability": "Furia.Imbloqueable.Cuandoentraenjuego,Barajahastaunacartadecoste2omenosoRobadoscartas.Cuandohagadañodecombate,puedesBarajaloparabuscardosAliadosdecoste2omenosentuCastillo.Juegaunosinpagarsucosteyponelotroentumano.",
     "Set": [
       "AyD Vigilantes"
     ],
@@ -34793,7 +34793,7 @@
     "race": [],
     "rarity": "UR",
     "strength": 0,
-    "ability": "Elportadorgana2deFuerzaeImbloqueable.CuandoentraenjuegoyentuAgrupacion,DestierratantascartasdeltopedeunCastillocomoAliadoscontrolesyRobaunacarta.PuedesDesterrarladetuCementerioparaqueunAliadoganeopierda2deFuerzapermanentemente.",
+    "ability": "Elportadorgana2deFuerzaeImbloqueable.CuandoentraenjuegoyentuAgrupacion,DestierratrescartasdeltopedeunCastilloyRobaunacarta.PuedesDesterrarladetuCementerioparaqueunAliadoganeopierda2deFuerzapermanentemente.",
     "Set": [
       "AyD Vigilantes"
     ],
@@ -34883,7 +34883,7 @@
     "race": [],
     "rarity": "UR",
     "strength": 0,
-    "ability": "EntuVigilia,sinohaspuestoOrosenjuegoesteturno,ponlodetumanooCementerioentuReserva.Silohaces,Robaunacarta.Unavezporturno,puedesmirarseiscartasdeltopedeunCastilloydevolverlasencualquierordeneneltopey/ofondodelCastillo.LosAliadosoponentespierden1deFuerza.",
+    "ability": "Solopuedescontrolarunacopiadeestacarta.Cuandoentraenjuego,miralasprimerastrescartasdetuCastillo,ponunacartadeahientumanoyBarajaelresto.SiestaentuReserva,nopuedeperdersuhabilidadylosdemasOrosnopuedenserconvertidos.",
     "Set": [
       "AyD Vigilantes"
     ],
@@ -34947,7 +34947,7 @@
     ],
     "rarity": "MR",
     "strength": 3,
-    "ability": "Furia.Imbloqueable.Cuandoataca,miralamanodetuoponenteynombraunacarta.Esacartanopuedeserjugadahastatuproximoturno.Unavezporturno,puedesjugarunArmasobreesteAliadoounooponente,reduciendosucosteenunOro,hastaunminimode1.",
+    "ability": "Furia.Imbloqueable.Cuandohagadañodecombate,miralamanodetuoponenteynombraunacarta.Esacartanopuedeserjugadahastatuproximoturno.Unavezporturno,puedesjugarunArmasobreesteAliadoounooponente,reduciendosucosteenunOro,hastaunminimode1.",
     "Set": [
       "AyD Vigilantes"
     ],
@@ -35078,7 +35078,7 @@
     ],
     "rarity": "MR",
     "strength": 3,
-    "ability": "Furia.Imbloqueble.Cuandohagadaño,puedesBarajarloentuCastilloparabuscardosAliadosdecoste1entuCastilloquenoseanBeleth.Juegaunosinpagarsucosteyponelotroentumano.TusdemasGuerrerosganan1deFuerza.",
+    "ability": "Furia.Imbloqueable.Cuandohagadaño,puedesBarajarloentuCastilloparabuscardosAliadosdecoste1entuCastilloquenoseanBeleth.Juegaunosinpagarsucosteyponelotroentumano.TusdemasGuerrerosganan1deFuerza.",
     "Set": [
       "AyD Vigilantes"
     ],
@@ -36080,7 +36080,7 @@
     ],
     "rarity": "R",
     "strength": 3,
-    "ability": "Furia.Imbloqueble.Cuandohagadaño,puedesBarajaloentuCastilloparaponerentuLineadeDefensaunacartadeunCementeriocomounAliadodeFuerza3conlahabilidad\"AlosjugadoreslescuestaunOroadicionaljugarTalismanes\".",
+    "ability": "Furia.Imbloqueable.Cuandohagadaño,puedesBarajaloentuCastilloparaponerentuLineadeDefensaunacartadeunCementeriocomounAliadodeFuerza3conlahabilidad\"AlosjugadoreslescuestaunOroadicionaljugarTalismanes\".",
     "Set": [
       "AyD Vigilantes"
     ],
@@ -44347,14 +44347,14 @@
     "face": {
       "front": {
         "name": "Polvo de Hadas",
-        "type": "Talismán",
+        "type": "Oro",
         "cost": 0,
         "image": "https://api.myl.cl/static/cards/169/004.png",
         "isHorizontal": false
       }
     },
     "name": "Polvo de Hadas",
-    "type": "Talismán",
+    "type": "Oro",
     "cost": 0,
     "_legal": {
       "IR": true
@@ -55406,7 +55406,7 @@
     "race": [],
     "rarity": "P",
     "strength": 0,
-    "ability": "AlcomienzodelaVigilia,puedesBarajary/oDesterrarhastadoscartasdelosCementerios.SicontrolasAliadosynohayOrosentuReserva,ademasRobaunacarta.AtuoponentelecuestaunOroadicionalafectartusdemasOrosuAliadosatacantes,porefectosdeAliadosuOros.",
+    "ability": "AlcomienzodelaVigilia,puedesBarajary/oDesterrarhastadoscartasdelosCementerios.SicontrolasAliadosynohayOrosentuReserva,ademasRobaunacarta.AtuoponentelecuestaunOroadicionalafectartusdemasOrosoAliadosatacantes,porefectosdeAliadosuOros.",
     "Set": [
       "Kaiju vs Mecha"
     ],
