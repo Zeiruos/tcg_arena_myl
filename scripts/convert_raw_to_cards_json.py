@@ -2,6 +2,11 @@
 """
 Convierte los JSON crudos de api.myl.cl (cards_raw/) al formato de cards_json/.
 
+OJO: es el registro de la conversion de julio 2026, no un paso del flujo. Desde
+entonces cards_json/ recibio correcciones a mano (nombres corruptos o mal
+puestos por la API, tipos, razas) que este script no conoce: correrlo de nuevo
+las pisa. Para un set nuevo, convertir solo ese set y revisar el diff.
+
 Formato destino:
 {
   "edicion": {"codigo", "slug", "titulo", "fecha_lanzamiento"},
@@ -17,8 +22,9 @@ import unicodedata
 from collections import OrderedDict
 from pathlib import Path
 
-RAW_DIR = Path("/home/antonio/Documentos/proyectos_varios/tcg_arena_myl/cards_raw")
-OUT_DIR = Path("/home/antonio/Documentos/proyectos_varios/tcg_arena_myl/tcg_arena_myl/cards_json")
+ROOT = Path(__file__).resolve().parent.parent   # raiz del repo (el script vive en scripts/)
+RAW_DIR = ROOT.parent / "cards_raw"   # dumps de la API, fuera del repo
+OUT_DIR = ROOT / "cards_json"
 
 # rarity id -> codigo corto usado en cards_json
 RARITY_CODES = {
@@ -81,7 +87,7 @@ ACCENT_FIXES = {
     # ñ perdida
     "guadana": "Guadaña", "muneco": "Muñeco", "bretana": "Bretaña",
     "senalados": "Señalados", "canon": "Cañón", "tamano": "Tamaño",
-    "cienpies-sp": "Ciempiés-SP",
+    "cienpies-sp": "Cienpiés-SP",   # impresa con n
     # nombres propios y sustantivos con tilde
     "angel": "Ángel", "angeles": "Ángeles", "angelus": "Angelus",
     "satanas": "Satanás", "belcebu": "Belcebú", "cain": "Caín",
