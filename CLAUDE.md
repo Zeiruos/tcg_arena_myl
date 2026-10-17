@@ -11,10 +11,10 @@ This repo builds a custom game definition for **Mitos y Leyendas** (MyL), a Chil
 - **`Game_Mitos_y_Leyendas.json`** — The main game definition file. Configures board layout, gameplay rules (mulligan, turns, sections), deck building formats, and points to the card list URL. Structure is documented in `GAME_JSON_DOCS.md`.
 - **`myl_card_list.json`** — Aggregated card list in TCG Arena format (keyed by `{SET}-{NUM}` IDs). This is the file referenced by `cards.dataUrl` in the game JSON and consumed directly by TCG Arena. **Generated file — do NOT edit by hand.** Regenerate via `build_card_list.py`.
 - **`cards_json/`** — Per-set card data scraped from `api.myl.cl`. Files are named `{code}_{slug}.json` (e.g., `125_espiritu_samurai.json`). These are the **source data** used to generate `myl_card_list.json`. Sets the API doesn't publish yet come from codicetcg and are named `CODICE{edicion}_{slug}.json` (the number is codice's edition id, not the API's).
-- **`convert_codice_to_cards_json.py`** — Converts a codicetcg dump into `cards_json/`. See "Agregar una edición desde codicetcg" below.
-- **`convert_raw_to_cards_json.py`** — Record of the July 2026 conversion from raw `api.myl.cl` dumps. **Do not re-run it as is**: `cards_json/` has had manual fixes since (names the API corrupted or got wrong, types, races) and it would overwrite them.
+- **`scripts/convert_codice_to_cards_json.py`** — Converts a codicetcg dump into `cards_json/`. See "Agregar una edición desde codicetcg" below.
+- **`scripts/convert_raw_to_cards_json.py`** — Record of the July 2026 conversion from raw `api.myl.cl` dumps. **Do not re-run it as is**: `cards_json/` has had manual fixes since (names the API corrupted or got wrong, types, races) and it would overwrite them.
+- **`scripts/revisar_dragones.py`** — Builds contact sheets of each card's frequency dragon from a codicetcg dump, for visual review of rotation.
 - **`vigencia_cartas.json`** — Per-name rotation overrides (Inmortal / season), plus per-ID overrides. See "Vigencia y rotación".
-- **`revisar_dragones.py`** — Builds contact sheets of each card's frequency dragon from a codicetcg dump, for visual review of rotation.
 - **`myl_banlist.json`** — Source of truth for format legality (banned / limited_1 / limited_2 / mercenary lists, keyed by card ID). Consumed by `build_card_list.py` to populate the `_legal` field on each card.
 - **`build_card_list.py`** — Build script that transforms `cards_json/*.json` + `myl_banlist.json` into `myl_card_list.json`. Run with `--replace` to overwrite the published file in place.
 - **`GAME_JSON_DOCS.md`** — Complete field-by-field documentation of the Game JSON schema, extracted from the TCG Arena Custom Game Builder UI. Enriched with fields discovered from Riftbound, Magic the Gathering, and Yu-Gi-Oh examples.
@@ -102,7 +102,7 @@ con su set.
 
 Ningún dato textual lo dice: codicetcg no lo trae (salvo `nv: true` en algunas JO/SP)
 y las fechas `date_empire_valid` de la API son por edición y no siempre calzan (los
-precon figuran con la fecha de AyD). Se revisa a ojo con `revisar_dragones.py`.
+precon figuran con la fecha de AyD). Se revisa a ojo con `scripts/revisar_dragones.py`.
 
 `vigencia_cartas.json` declara la vigencia **por nombre de carta**:
 
@@ -138,7 +138,7 @@ Pueden existir cartas distintas con el mismo nombre. Regla:
   "Rlyeh" era Casa de Opio y "Vuelo Mágico" era Polvo de Hadas. Cruzar por texto
   contra codicetcg dentro de la misma edición destapa esos casos.
 
-`convert_codice_to_cards_json.py` imprime esta clasificación al final.
+`scripts/convert_codice_to_cards_json.py` imprime esta clasificación al final.
 
 ### Inmortales
 
@@ -175,16 +175,16 @@ Cuando `api.myl.cl` todavía no publica una edición (así entró Drácula, octu
    guardar la página (HTML) y la respuesta XHR con las cartas (JSON). El JSON trae más
    cartas de las que interesan; **el HTML filtrado es la fuente de verdad** de qué
    cartas entran.
-2. Agregar las ediciones nuevas a `EDITIONS` en `convert_codice_to_cards_json.py`
+2. Agregar las ediciones nuevas a `EDITIONS` en `scripts/convert_codice_to_cards_json.py`
    (prefijo de ID, slug, título) y correr
-   `python convert_codice_to_cards_json.py --json DUMP.json --html DUMP.html`.
+   `python scripts/convert_codice_to_cards_json.py --json DUMP.json --html DUMP.html`.
 3. Revisar los warnings (Aliado sin raza, no-Oro sin coste) y el reporte de nombres
    repetidos contra la imagen de la carta. Los datos de codicetcg traen errores: en
    Drácula hubo Oros tipados como Talismán, costes perdidos, una raza faltante, typos
    en nombres ("Liull" por "Llull") y en habilidades. Se corrigen en los diccionarios
    `*_FIXES` del script, no a mano en `cards_json/`, para que una reconversión no los
    pierda.
-4. Revisar el dragón de cada carta nueva con `python revisar_dragones.py <ediciones>`
+4. Revisar el dragón de cada carta nueva con `python scripts/revisar_dragones.py <ediciones>`
    (arma hojas con los emblemas; las imágenes quedan en caché en
    `../cache_imagenes_codice`). Mirar sobre todo las reimpresiones, los kits y las
    promos. Actualizar `vigencia_cartas.json`: los nombres nuevos del lote de
