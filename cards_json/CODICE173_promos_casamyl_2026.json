@@ -1,0 +1,179 @@
+{
+  "edicion": {
+    "codigo": "CODICE173",
+    "slug": "promos_casamyl_2026",
+    "titulo": "IMP - Promociones CasaMyL 2026",
+    "fecha_lanzamiento": null
+  },
+  "total_cartas": 14,
+  "cartas": [
+    {
+      "nombre": "Pánico Vampiro",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 0,
+      "fuerza": null,
+      "edicion": "PROMOS_CASAMYL_2026-001",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Baraja tu Castillo, muestra la primera carta y aplica un efecto según su tipo de carta:\n- Aliado: Pon ese Aliado en tu mano.\n- Oro o Talismán: Baraja hasta dos cartas de los Cementerios y Destierra este Talismán.\n- Arma o Tótem: Destruye una carta de coste 1.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_001_panico_vampiro.webp"
+    },
+    {
+      "nombre": "Quemar el Corazón",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 2,
+      "fuerza": null,
+      "edicion": "PROMOS_CASAMYL_2026-002",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Si es Anulado, agrupa un Oro. Cuando lo juegues, Destiérralo. Elige hasta dos efectos:\n- Busca una carta en un Castillo y Destiérrala.\n- Tu oponente Destierra dos cartas de su mano.\n- Un Aliado pierde su habilidad y Destiérralo.\n- No recibes daño hasta tu próximo turno.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_002_quemar_el_corazon.webp"
+    },
+    {
+      "nombre": "Exhumar",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "PROMOS_CASAMYL_2026-003",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Juega un Aliado de tu Cementerio pagando su coste. Si tiene Fuerza 4 o más, ese Aliado gana Furia y puedes mirar la mano de tu oponente y Desterrar un Talismán de ahí. Si tiene Fuerza 3 o menos, gana Indesterrable y puedes Desterrar un Aliado de coste 3 o menos.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_003_exhumar.webp"
+    },
+    {
+      "nombre": "La Sentencia de los Dioses",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "PROMOS_CASAMYL_2026-025",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Puedes jugarlo al comienzo de la Vigilia.\nHasta tu próximo turno no se pueden jugar cartas reduciendo su coste, sin pagar su coste, generar Oros y utilizar habilidades fuera del juego cuesta un Oro adicional.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_025_la_sentencia_de_los_dioses.webp"
+    },
+    {
+      "nombre": "Merlín, el Mago Desafiante",
+      "tipo": "Aliado",
+      "raza": "Eterno/Faerie/Sacerdote",
+      "coste": 2,
+      "fuerza": 2,
+      "edicion": "PROMOS_CASAMYL_2026-026",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando entra en juego, puedes pagar un Oro. Si lo haces, busca un Talismán de coste 2 en tu Castillo y juégalo sin pagar su coste.\nUna vez por turno, puedes subir un Aliado que controles a tu mano para Barajar hasta cuatro cartas de los Cementerios.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_026_merlin_el_mago_desafiante.webp"
+    },
+    {
+      "nombre": "Gilgamesh, Paladín de Uruk",
+      "tipo": "Aliado",
+      "raza": "Caballero/Guerrero/Héroe",
+      "coste": 2,
+      "fuerza": 4,
+      "edicion": "PROMOS_CASAMYL_2026-027",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Furia.\nCuando entra en juego o ataque, puedes Desterrar un Aliado de Fuerza 4 o menos. Si lo haces, busca un Aliado o Arma en tu Castillo y ponlo en tu mano.\nUna vez por turno, cuando un Aliado salga del juego, tu oponente Bota tres cartas.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_027_gilgamesh_paladin_de_uruk.webp"
+    },
+    {
+      "nombre": "Arturo Pendragón, Rey Paladín",
+      "tipo": "Aliado",
+      "raza": "Caballero/Guerrero/Héroe",
+      "coste": 2,
+      "fuerza": 2,
+      "edicion": "PROMOS_CASAMYL_2026-028",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando entra en juego, hasta dos Aliados ganan Furia e Imbloqueable, por el turno.\nAl comienzo de cada Vigilia, tu oponente Bota dos cartas y Descarta una carta de su mano.\nTus demás Aliados ganan 1 de Fuerza y no pueden cambiar de controlador.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_028_arturo_pendragon_rey_paladin.webp"
+    },
+    {
+      "nombre": "Mordred, el Traidor Tenebris",
+      "tipo": "Aliado",
+      "raza": "Bestia/Dragón/Sombra",
+      "coste": 2,
+      "fuerza": 0,
+      "edicion": "PROMOS_CASAMYL_2026-029",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Exhumar.\nEn tu Vigilia, una vez por turno, Destierra hasta tantas cartas del Cementerio oponente como Oros controles y un Aliado gana Furia y 1 de Fuerza por cada Aliado en el Destierro oponente.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_029_mordred_el_traidor_tenebris.webp"
+    },
+    {
+      "nombre": "Zeus, Desafiante del Olimpo",
+      "tipo": "Aliado",
+      "raza": "Eterno/Faerie/Sacerdote",
+      "coste": 3,
+      "fuerza": 4,
+      "edicion": "PROMOS_CASAMYL_2026-030",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Indestructible.\nCuando entra en juego, los jugadores Barajan las cartas que controlen que no sean Zeus ni Oro.\nUna vez por turno, puedes Robar hasta tener seis cartas en tu mano.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_030_zeus_desafiante_del_olimpo.webp"
+    },
+    {
+      "nombre": "Quetzalcóatl, el Sol Tenebris",
+      "tipo": "Aliado",
+      "raza": "Bestia/Dragón/Sombra",
+      "coste": 4,
+      "fuerza": 6,
+      "edicion": "PROMOS_CASAMYL_2026-031",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Furia. Exhumar.\nNo se puede Anular, ni cancelar su habilidad.\nCuando entra en juego, puedes subir hasta dos cartas de tu Cementerio a tu mano.\nUna vez por turno, puedes Barajar hasta seis cartas de los Cementerios y Robar dos cartas.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_031_quetzalcoatl_el_sol_tenebris.webp"
+    },
+    {
+      "nombre": "Pirámide de Guiza",
+      "tipo": "Tótem",
+      "raza": null,
+      "coste": 3,
+      "fuerza": null,
+      "edicion": "PROMOS_CASAMYL_2026-032",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Sólo puedes controlar una copia de esta carta.\nCuando entra en juego, elige una Raza.\nLos Aliados que controles de la Raza elegida ganan 2 de Fuerza.\nCuando sea Destruido o Desterrado, Destruye todos los Aliados que no sean de la Raza elegida.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_032_piramide_de_guiza.webp"
+    },
+    {
+      "nombre": "Remate Mortal",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "PROMOS_CASAMYL_2026-033",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Elige un efecto. Si Descanso Solar está en tu Cementerio o Destierro, este Talismán no puede ser Anulado y elige ambos:\n- Tus Aliados ganan 1 de Fuerza y los oponentes pierden 1 de Fuerza, permanentemente.\n- Juega una carta de tu Cementerio reduciendo su coste en un Oro hasta un mínimo de 1.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_033_remate_mortal.webp"
+    },
+    {
+      "nombre": "Duelo Personal",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "PROMOS_CASAMYL_2026-034",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Elige un efecto. Si Golpe de Agua está en tu Cementerio o Destierro, este Talismán no puede ser Anulado y elige ambos:\n- Cada jugador busca un Aliado en el Castillo oponente y lo pone en juego sin habilidad.\n- El controlador del Aliado con más Fuerza Roba tres cartas y su oponente Descarta una.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_034_duelo_personal.webp"
+    },
+    {
+      "nombre": "Saltar la Defensa",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "PROMOS_CASAMYL_2026-035",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Elige un efecto. Si Castillo de Arena está en tu Cementerio o Destierro, este Talismán no puede ser Anulado y elige ambos:\n- Busca tres cartas de distinto nombre en el Castillo oponente y Destiérralas.\n- Roba dos cartas y el ataque de tus Aliados no puede ser cancelado este turno.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_PC2I/173_035_saltar_la_defensa.webp"
+    }
+  ]
+}

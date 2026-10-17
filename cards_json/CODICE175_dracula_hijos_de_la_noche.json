@@ -1,0 +1,143 @@
+{
+  "edicion": {
+    "codigo": "CODICE175",
+    "slug": "dracula_hijos_de_la_noche",
+    "titulo": "IMP - Drácula: Hijos de la Noche",
+    "fecha_lanzamiento": null
+  },
+  "total_cartas": 11,
+  "cartas": [
+    {
+      "nombre": "Vukodlak",
+      "tipo": "Aliado",
+      "raza": "Bestia",
+      "coste": 1,
+      "fuerza": 2,
+      "edicion": "DRACULA-146",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando entra en juego y al comienzo de cada turno, elige un efecto que no hayas elegido en el turno anterior:\n-Gana 2 de Fuerza, Furia e Imbloqueable por el turno. Descarta una carta de tu mano.\n-Pierde 1 de Fuerza y gana Indestructible e Indesterrable",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_146_vukodlak.webp"
+    },
+    {
+      "nombre": "Dracu",
+      "tipo": "Aliado",
+      "raza": "Dragón",
+      "coste": 1,
+      "fuerza": 2,
+      "edicion": "DRACULA-147",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Furia.\nCuando entra en juego, busca un Oro o un Aliado que no sea Dracu en tu Castillo o Cementerio y ponlo en tu mano.\nHace daño de combate al Destierro.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_147_dracu.webp"
+    },
+    {
+      "nombre": "Ursitoare",
+      "tipo": "Aliado",
+      "raza": "Faerie",
+      "coste": 1,
+      "fuerza": 1,
+      "edicion": "DRACULA-148",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Indesterrable.\nCuando entra en juego, puedes Barajar un Aliado que controles y una carta oponente de igual o menor coste. Roba dos cartas y los jugadores Barajan una carta de su mano. Los Aliados oponentes pierden 1 de Fuerza.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_148_ursitoare.webp"
+    },
+    {
+      "nombre": "Upir",
+      "tipo": "Aliado",
+      "raza": "Sombra",
+      "coste": 1,
+      "fuerza": 2,
+      "edicion": "DRACULA-149",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Una vez en tu turno, puedes Botar tres cartas de tu Castillo. Si Botas Aliados de esta manera, Destierra dos cartas del fondo de un Castillo y Baraja hasta una carta de los Cementerios.\nTus Aliados con Exhumar ganan 1 de Fuerza.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_149_upir.webp"
+    },
+    {
+      "nombre": "Zagovornik",
+      "tipo": "Aliado",
+      "raza": "Faerie/Sombra",
+      "coste": 2,
+      "fuerza": 2,
+      "edicion": "DRACULA-150",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Exhumar.\nUna vez por turno, busca un Talismán en tu Castillo y ponlo en tu Cementerio. Ese Talismán gana Exhumar y reduce su coste en un Oro hasta un mínimo de 1, por el turno. Los Aliados oponentes pierden 2 de Fuerza.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_150_zagovornik.webp"
+    },
+    {
+      "nombre": "Bathory",
+      "tipo": "Aliado",
+      "raza": "Bestia/Sombra",
+      "coste": 1,
+      "fuerza": 3,
+      "edicion": "DRACULA-151",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Furia.\nCuando este Aliado sea afectado por un efecto oponente, si atacó este turno o el anterior, Destierra un Aliado que lo haya bloqueado este turno o el anterior y dos cartas del fondo de un Castillo.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_151_bathory.webp"
+    },
+    {
+      "nombre": "Duelo Espacial",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-152",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Busca una carta en un Castillo o Cementerio y ponlo en tu Oro Pagado como un Oro sin habilidad. Este efecto no puede ser prevenido.\nEn tu Cementerio, no puede ser Desterrado y gana la habilidad 'En tu Vigilia, puedes Robar una carta. Sólo puedes utilizar esta habilidad de Duelo Espacial una vez por turno'.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_152_duelo_espacial.webp"
+    },
+    {
+      "nombre": "El Caleuche",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-153",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "No puede ser Anulado. Elige un efecto:\n- En respuesta a que se juegue una carta sin pagar su coste o que no pueda ser Anulada, esa carta entra en juego sin habilidad por el turno. Si es Talismán, se resuelve sin efecto.\n- Baraja una carta de coste 2 o menos y Roba dos cartas.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_153_el_caleuche.webp"
+    },
+    {
+      "nombre": "Diadema Celestial",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "DRACULA-154",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando entra en juego, muestra cartas del tope de tu Castillo hasta mostrar un Aliado y un Talismán y ponlos en tu mano.\nTus Aliados bloqueadores ganan 1 de Fuerza y los Aliados oponentes pierden Imbloqueable.\nSi Botas esta carta por daño, dejas de Botar cartas y Destierras este Oro.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_154_diadema_celestial.webp"
+    },
+    {
+      "nombre": "La Catrina",
+      "tipo": "Aliado",
+      "raza": null,
+      "coste": 3,
+      "fuerza": 2,
+      "edicion": "DRACULA-155",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Exhumar.\nCuando entra en juego, Baraja las cartas oponentes que no sean Oro y por cada Oro que controle tu oponente, el Destierra la primera carta del tope de su Castillo.\nLas cartas en el Cementerio y Destierro oponente pierden su habilidad.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_155_la_catrina.webp"
+    },
+    {
+      "nombre": "Frederick Ransom",
+      "tipo": "Aliado",
+      "raza": "Guerrero/Sombra",
+      "coste": 1,
+      "fuerza": 2,
+      "edicion": "DRACULA-193",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Exhumar.\nEn tu Vigilia, una vez por turno, si no controlas más Aliados que tu oponente, pon bajo tu control la primera carta de un Castillo como un Aliado de Fuerza 2 sin habilidad. Ese Aliado puede atacar el turno que entra en juego.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_193_frederick_ransom.webp"
+    }
+  ]
+}

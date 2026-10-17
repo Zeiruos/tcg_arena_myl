@@ -1,0 +1,131 @@
+{
+  "edicion": {
+    "codigo": "CODICE174",
+    "slug": "dracula_cazadores_nocturnos",
+    "titulo": "IMP - Drácula: Cazadores Nocturnos",
+    "fecha_lanzamiento": null
+  },
+  "total_cartas": 10,
+  "cartas": [
+    {
+      "nombre": "Frumos el Paladín",
+      "tipo": "Aliado",
+      "raza": "Caballero",
+      "coste": 1,
+      "fuerza": 3,
+      "edicion": "DRACULA-136",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Furia.\nCuando entra en juego, si controlas Armas, puedes Barajar hasta tres cartas de tu mano en tu Castillo y Robar esa misma cantidad de cartas.\nLos Aliados que porten Arma, ganan Imbloqueable y 1 de Fuerza.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_136_frumos_el_paladin.webp"
+    },
+    {
+      "nombre": "Rugiaevit",
+      "tipo": "Aliado",
+      "raza": "Eterno",
+      "coste": 2,
+      "fuerza": 2,
+      "edicion": "DRACULA-137",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando entra en juego, tu oponente convierte una carta que controle que no sea Oro en un Tótem sin habilidad y tú ganas su control.\nSi está en el Cementerio, puedes Destruir un Tótem que controles para subirlo a tu mano. Sólo puedes utilizar esta habilidad de Rugiaevit una vez por turno.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_137_rugiaevit.webp"
+    },
+    {
+      "nombre": "Dhampir Feroce",
+      "tipo": "Aliado",
+      "raza": "Guerrero",
+      "coste": 2,
+      "fuerza": 3,
+      "edicion": "DRACULA-138",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Furia.\nCuando entra o sale del juego, Roba dos cartas y tu oponente Bota tres cartas.\nCuando ataca, hasta dos Aliados no pueden ser afectados por efectos oponentes durante la Batalla Mitológica.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_138_dhampir_feroce.webp"
+    },
+    {
+      "nombre": "Cazador Zíngaro",
+      "tipo": "Aliado",
+      "raza": "Héroe",
+      "coste": 2,
+      "fuerza": 4,
+      "edicion": "DRACULA-139",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Indestructible.\nCuando entra en juego o ataca, Destruye una carta oponente que no sea Oro.\nEn tu Fase Final, Baraja hasta dos cartas de tu Cementerio y Destierra hasta dos cartas del Cementerio oponente. Roba una carta.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_139_cazador_zingaro.webp"
+    },
+    {
+      "nombre": "Zhong Kui",
+      "tipo": "Aliado",
+      "raza": "Caballero/Sacerdote",
+      "coste": 2,
+      "fuerza": 3,
+      "edicion": "DRACULA-140",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Imbloqueable.\nCuando entra en juego, busca en tu Castillo un Arma o Tótem y juégalo reduciendo su coste en un Oro, hasta un mínimo de 0.\nCuando entra en juego, hasta tu próximo turno, cuesta un Oro adicional jugar cartas sin pagar su coste, de coste 0 y Talismanes.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_140_zhong_kui.webp"
+    },
+    {
+      "nombre": "Milena",
+      "tipo": "Aliado",
+      "raza": "Caballero/Héroe",
+      "coste": 2,
+      "fuerza": 3,
+      "edicion": "DRACULA-141",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Indestructible.\nUna vez por turno, puedes jugar un Arma de tu mano o Cementerio, reduciendo su coste en un Oro, hasta un mínimo de 0.\nTus Aliados que porten Armas ganan Furia.\nSi ya tenía Furia, en vez de eso gana Imbloqueable.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_141_milena.webp"
+    },
+    {
+      "nombre": "Activar Tenshi Z",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-142",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Muestra cartas del tope de tu Castillo hasta mostrar un Oro y un Arma o Tótem. Pon el Oro en tu Oro Pagado, la otra carta en tu mano y Baraja el resto.\nPuedes Desterrarlo de tu Cementerio para que una carta pierda su habilidad por el turno.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_142_activar_tenshi_z.webp"
+    },
+    {
+      "nombre": "Psicofonía",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-143",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Elige un efecto. Si pagaste dos Oros por este Talismán, no se pueden jugar cartas ni utilizar habilidades en respuesta a esta carta.\n- Una carta de coste 2 o menos pierde su habilidad, es Desterrada y Roba una carta.\n- Paga un Oro para que un Aliado pierda su habilidad, sea Desterrado y Roba dos cartas.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_143_psicofonia.webp"
+    },
+    {
+      "nombre": "Romualdito",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "DRACULA-144",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Al comienzo de la Vigilia, si no tienes Oros en Reserva, Destierra dos cartas del tope de un Castillo y hasta una carta de un Cementerio. Puedes convertirlo en un Oro sin habilidad para prevenir que un Aliado sea Destruido, cambie de controlador o sea convertido, por un efecto oponente.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_144_romualdjio.webp"
+    },
+    {
+      "nombre": "Bayou St. John",
+      "tipo": "Tótem",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-145",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando entra en juego, Roba dos cartas.\nUna vez por turno, Descarta o Destruye una carta que controles para que hasta dos Aliados de coste 2 o menos ganen 1 de Fuerza y Furia.\nEn tu Vigilia o Fase Final, Destierra hasta tres cartas del Cementerio oponente.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_145_bayou_st_john.webp"
+    }
+  ]
+}

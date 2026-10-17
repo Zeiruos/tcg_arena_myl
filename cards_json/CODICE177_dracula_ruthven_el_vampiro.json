@@ -1,0 +1,191 @@
+{
+  "edicion": {
+    "codigo": "CODICE177",
+    "slug": "dracula_ruthven_el_vampiro",
+    "titulo": "IMP - Drácula: Ruthven el Vampiro",
+    "fecha_lanzamiento": null
+  },
+  "total_cartas": 15,
+  "cartas": [
+    {
+      "nombre": "Aubrey",
+      "tipo": "Aliado",
+      "raza": "Caballero/Guerrero/Héroe",
+      "coste": 3,
+      "fuerza": 5,
+      "edicion": "DRACULA-171",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Furia.\nCuando ataques con sólo un Aliado, busca en tu Castillo un Aliado o Arma de coste 2 o menos y juégalo sin pagar su coste. Si es un Aliado, entra en juego atacando.\nEn Guerra de Talismanes, puedes jugar Armas y afectar a tus Aliados cuesta un Oro adicional.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_171_aubrey.webp"
+    },
+    {
+      "nombre": "Lord Ruthven",
+      "tipo": "Aliado",
+      "raza": "Bestia/Dragón/Sombra",
+      "coste": 2,
+      "fuerza": 3,
+      "edicion": "DRACULA-172",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Exhumar.\nCuando entra en juego o haga daño, puedes poner un Oro de tu mano en tu Oro Pagado. Una vez por turno, busca hasta tres cartas de distinto tipo en cada Castillo, ponlas en el Cementerio y/o Destierro de su dueño.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_172_lord_ruthven.webp"
+    },
+    {
+      "nombre": "Ianthe",
+      "tipo": "Aliado",
+      "raza": "Eterno/Faerie/Sacerdote",
+      "coste": 2,
+      "fuerza": 2,
+      "edicion": "DRACULA-173",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Una vez por turno, puedes mirar tres cartas del tope de tu Castillo, pon una carta de ahí en tu mano y ordena el resto.\nLos Aliados oponentes pierden 2 de Fuerza, Indestructible e Indesterrable.\nEste Aliado no puede ser Barajado ni convertido.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_173_ianthe.webp"
+    },
+    {
+      "nombre": "Atacar al Vampiro",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 3,
+      "fuerza": null,
+      "edicion": "DRACULA-174",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Exhumar.\nConvierte una carta en juego en una carta del mismo tipo sin habilidad y gana el control de una carta de coste 2 o menos.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_174_atacar_al_vampiro.webp"
+    },
+    {
+      "nombre": "Vampiro Eterno",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 4,
+      "fuerza": null,
+      "edicion": "DRACULA-175",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Única. Exhumar.\nSólo puede ser jugado pagando su coste impreso. No puede ser Anulado.\nTu oponente Bota la mitad de su Castillo, redondeado hacia arriba. Si Bota menos de diez cartas, genera un Oro por el turno.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_175_vampiro_eterno.webp"
+    },
+    {
+      "nombre": "Daga Bebedora",
+      "tipo": "Arma",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-176",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "El portador gana 1 de Fuerza e Imbloqueable.\nCuando entra en juego, puedes Desterrar dos cartas del tope de tu Castillo para buscar en tu Castillo una copia de esta carta y jugarla sin pagar su coste.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_176_daga_bebedora.webp"
+    },
+    {
+      "nombre": "Pnyx",
+      "tipo": "Tótem",
+      "raza": null,
+      "coste": 2,
+      "fuerza": null,
+      "edicion": "DRACULA-177",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Exhumar.\nCuando entra en juego, Baraja una carta de coste 2 o menos y Roba una carta.\nUna vez por turno, hasta una carta en juego y hasta una carta de un Cementerio o Destierro pierden su habilidad hasta tu próximo turno.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_177_pnyx.webp"
+    },
+    {
+      "nombre": "Bastón de la Bestia",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "DRACULA-178",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Una vez por turno, puedes pagar un Oro para subir un Aliado o Tótem de tu Cementerio a tu mano.\nEn Guerra de Talismanes, si no tienes Oros en Reserva, puedes Descartar una carta para cancelar el ataque de un Aliado o que hasta tres Aliados ganen 1 de Fuerza por el turno.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_178_baston_de_la_bestia.webp"
+    },
+    {
+      "nombre": "Visión de Enoc",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-179",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Única.\nCuando se resuelva, Barájalo en tu Castillo.\nAnula un Talismán de coste 2 o menos o prevén que un Aliado sea afectado por un efecto oponente.\nCuando Botes esta carta por daño, puedes Barajar hasta cinco cartas de los Cementerios.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_179_vision_de_enoc.webp"
+    },
+    {
+      "nombre": "Fuego Purificador",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-180",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "En respuesta a que un Oro que controles fuera a ser afectado por un efecto oponente, puedes jugar este Talismán sin pagar su coste y Destiérralo.\nPrevén que una carta que controles sea afectada por un efecto oponente.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_180_fuego_purificador.webp"
+    },
+    {
+      "nombre": "Acabar la Esperanza",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-181",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Exhumar.\nSi es Anulado, genera un Oro y Roba una carta.\nConvierte un Oro o carta de coste 3 o menos en una carta del mismo tipo, sin habilidad.\nMuestra cartas del tope de tu Castillo hasta mostrar hasta dos cartas de ese tipo, ponlas en tu mano y Baraja el resto.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_181_acabar_la_esperanza.webp"
+    },
+    {
+      "nombre": "Espada del Juicio",
+      "tipo": "Arma",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-182",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "El portador gana 2 de Fuerza e Imbloqueable.\nCuando entra en juego y en tu Agrupación, Destierra tres cartas del tope de un Castillo y Roba una carta.\nPuedes Desterrarla de tu Cementerio para que un Aliado gane o pierda 2 de Fuerza permanentemente.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_182_espada_del_juicio.webp"
+    },
+    {
+      "nombre": "Fortaleza Hoshi",
+      "tipo": "Tótem",
+      "raza": null,
+      "coste": 3,
+      "fuerza": null,
+      "edicion": "DRACULA-183",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Única.\nCuando entra en juego, muestra cartas del tope de tu Castillo hasta mostrar dos Tótem de coste 2 o menos de distinto nombre y juégalos sin pagar su coste.\nUna vez por turno, Destierra tantas cartas del tope de un Castillo como Tótem controles.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_183_fortaleza_hoshi.webp"
+    },
+    {
+      "nombre": "Muñeco Vudú",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "DRACULA-184",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "En tu Vigilia, si controlas Aliados con Furia, puedes pagarlo para mirar la mano de tu oponente. Elige un Talismán o Tótem de ahí y Barájalo. Esta habilidad no puede ser cancelada ni prevenida.\nEn tu Vigilia, una vez por turno, un Aliado gana 2 de Fuerza permanentemente.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_184_muneco_vudu.webp"
+    },
+    {
+      "nombre": "Libro de Revelaciones",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "DRACULA-185",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Solo puedes controlar una copia de esta carta.\nCuando entra en juego, mira las primeras tres cartas de tu Castillo, pon una carta de ahí en tu mano y Baraja el resto.\nSi está en tu Reserva, no puede perder su habilidad y los demás Oros no pueden ser convertidos.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_185_libro_de_revelaciones.webp"
+    }
+  ]
+}

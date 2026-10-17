@@ -1,0 +1,191 @@
+{
+  "edicion": {
+    "codigo": "CODICE176",
+    "slug": "dracula_carmilla_la_condesa",
+    "titulo": "IMP - Drácula: Carmilla la Condesa",
+    "fecha_lanzamiento": null
+  },
+  "total_cartas": 15,
+  "cartas": [
+    {
+      "nombre": "Baron Vordenburg",
+      "tipo": "Aliado",
+      "raza": "Caballero/Guerrero/Héroe",
+      "coste": 3,
+      "fuerza": 4,
+      "edicion": "DRACULA-156",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Furia.\nCuando entra en juego, tu oponente Bota tantas cartas como Fuerza tenga un Aliado que controles y por cada Arma que controles.\nTus Aliados hacen daño de combate al Destierro y su ataque no puede ser cancelado.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_156_baron_vordenburg.webp"
+    },
+    {
+      "nombre": "Carmilla",
+      "tipo": "Aliado",
+      "raza": "Bestia/Sombra/Dragón",
+      "coste": 2,
+      "fuerza": 4,
+      "edicion": "DRACULA-157",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Exhumar.\nCuando entra en juego, puedes Destruir una carta de coste 3 o menos y Robar una carta. Una vez en tu turno, nombra una carta que no sea Oro. Busca en la mano o Castillo oponente una copia de esa carta y Destiérrala.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_157_carmilla.webp"
+    },
+    {
+      "nombre": "Baobhan-Sith",
+      "tipo": "Aliado",
+      "raza": "Eterno/Faerie/Sacerdote",
+      "coste": 1,
+      "fuerza": 2,
+      "edicion": "DRACULA-158",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando entra en juego, nombra un tipo de carta que no sea Aliado. Hasta tu próximo turno, para jugar una carta de ese tipo se debe Desterrar una carta de la mano.\nLos Aliados oponentes de Fuerza menor a este Aliado no pueden utilizar habilidades activadas.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_158_baobhansith.webp"
+    },
+    {
+      "nombre": "Linaje Maldito",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-159",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Lanza una dado de seis caras. Si sale par, no puedes recibir daño de combate hasta tu próximo turno y tu oponente Destierra cuatro cartas del tope de su Castillo. Si sale impar, no recibes daño directo hasta tu próximo turno y hasta dos Aliados ganan 2 de Fuerza y Furia.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_159_linaje_maldito.webp"
+    },
+    {
+      "nombre": "Seducción",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-160",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando lo juegues, elige un efecto y Destiérralo.\n- Cada jugador Roba hasta tres cartas. Por cada carta que Robe tu oponente de esta forma, Destierra dos cartas del tope de su Castillo.\n- Cada jugador pone un Oro de su mano en su Oro Pagado. El Oro oponente entra en juego sin habilidad por el turno.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_160_seduccion.webp"
+    },
+    {
+      "nombre": "Hatchet",
+      "tipo": "Arma",
+      "raza": null,
+      "coste": 2,
+      "fuerza": null,
+      "edicion": "DRACULA-161",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Exhumar.\nEl portador gana 2 de Fuerza y no puede ser Barajado ni cambiar de controlador.\nUna vez en tu turno, un Oro y hasta una carta oponente pierden su habilidad hasta tu próximo turno y tú Robas dos cartas.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_161_hatchet.webp"
+    },
+    {
+      "nombre": "Castillo de Karnstein",
+      "tipo": "Tótem",
+      "raza": null,
+      "coste": 2,
+      "fuerza": null,
+      "edicion": "DRACULA-162",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Exhumar.\nUna vez por turno, cuando este u otro Tótem entre en juego bajo tu control, Destierra hasta una carta que no sea Oro y Roba dos cartas.\nPuedes Destruir esta carta para Anular una carta jugada durante tu turno.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_162_castillo_de_karnstein.webp"
+    },
+    {
+      "nombre": "Retrato de la Condesa",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "DRACULA-163",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando entra en juego, busca un Oro en tu Castillo y ponlo en tu mano.\nLos jugadores no pueden ganar el control de cartas de las que no sean dueño y para afectarte tu oponente debe Desterrar una carta del tope de su Castillo.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_163_retrato_de_la_condesa.webp"
+    },
+    {
+      "nombre": "Juicio de Vigilantes",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 2,
+      "fuerza": null,
+      "edicion": "DRACULA-164",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Si es Anulado, genera un Oro por el turno.\nBaraja hasta una carta que no sea Oro, busca una carta en tu Castillo, ponla en tu mano y tus Aliados ganan 2 de Fuerza permanentemente. Hasta tu próximo turno, a tu oponente le cuesta un Oro adicional afectar a tus Aliados.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_164_juicio_de_vigilantes.webp"
+    },
+    {
+      "nombre": "Culto a la Muerte",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-165",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Única.\nElige un efecto:\n- Anula una carta de coste 2 o menos que no sea Aliado y Destierra esa carta.\n- Cancela la habilidad de una carta y tu oponente no puede utilizar más habilidades de cartas con ese nombre este turno.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_165_culto_a_la_muerte.webp"
+    },
+    {
+      "nombre": "Sacrificio Solar",
+      "tipo": "Talismán",
+      "raza": null,
+      "coste": 0,
+      "fuerza": null,
+      "edicion": "DRACULA-166",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Única.\nAnula o cancela la habilidad de una carta de coste 0 o jugada sin pagar su coste este turno.\nPuedes pagar un Oro y Barajar esta carta desde tu mano para Desterrar o Barajar una carta de coste 2 o menos y Robar una carta.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_166_sacrificio_solar.webp"
+    },
+    {
+      "nombre": "Daga Ritual",
+      "tipo": "Arma",
+      "raza": null,
+      "coste": 1,
+      "fuerza": null,
+      "edicion": "DRACULA-167",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Exhumar.\nEl portador gana 2 de Fuerza, Furia y hace daño de combate al Destierro.\nCuando el portador haga daño de combate, pon un Oro del Destierro oponente en tu Oro Pagado o busca un Aliado y un Arma en tu Castillo y ponlos en tu mano.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_167_daga_ritual.webp"
+    },
+    {
+      "nombre": "El Abismo",
+      "tipo": "Tótem",
+      "raza": null,
+      "coste": 2,
+      "fuerza": null,
+      "edicion": "DRACULA-168",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Una vez por turno, tu oponente Destierra una carta del tope de su Castillo por cada Tótem que controles y tú Robas dos cartas.\nUna vez en tu turno, puedes mirar la mano de tu oponente y Barajar una carta de coste 2 o menos de ahí que no sea Aliado.\nTus Tótem no pueden perder su habilidad.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_168_el_abismo.webp"
+    },
+    {
+      "nombre": "Pan de Muerto",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "DRACULA-169",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "En tu Vigilia, una vez por turno, puedes pagarlo para buscar un Talismán o Tótem de coste 2 o más en tu Castillo y jugarlo reduciendo su coste en un Oro.\nSólo se puede Botar y/o Desterrar hasta quince cartas de cada Castillo por turno y tus Aliados son Indestructibles mientras bloquean.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_169_pan_de_muerto.webp"
+    },
+    {
+      "nombre": "Libro de Enoc",
+      "tipo": "Oro",
+      "raza": null,
+      "coste": null,
+      "fuerza": null,
+      "edicion": "DRACULA-170",
+      "frecuencia": "P",
+      "descripcion": null,
+      "habilidad": "Cuando entra en juego, Roba una carta.\nSi está en tu Reserva, los jugadores no pueden jugar cartas o utilizar habilidades de cartas que estén en su Cementerio o Destierro, a menos que Barajen una carta de su mano.\nSi está en tu Oro Pagado, tus Aliados ganan 1 de Fuerza e Indestructible.",
+      "imagen_url": "https://codicetcg.b-cdn.net/IMP/173_DR/173_170_libro_de_enoc.webp"
+    }
+  ]
+}
